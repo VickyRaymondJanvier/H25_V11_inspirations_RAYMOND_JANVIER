@@ -1,5 +1,5 @@
 # Vicky Raymond-Janvier
-![photo](british-shorthair-7270726_1280.jpg)
+![photo](Exercices semaine 01/british-shorthair-7270726_1280.jpg)
 
 Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
 
