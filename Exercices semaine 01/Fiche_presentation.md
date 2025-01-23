@@ -1,5 +1,6 @@
 # Vicky Raymond-Janvier
-![photo](british-shorthair-7270726_1280.jpg)
+![british-shorthair-7270726_1280](https://github.com/user-attachments/assets/7f9ec5bf-93c7-41e8-abc8-58a657e6cead)
+
 
 Photo d'un fameux chat
 
