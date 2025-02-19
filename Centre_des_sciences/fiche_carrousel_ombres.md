@@ -76,6 +76,6 @@ Sinon, vous pouvez explorer le site du **[Centre des sciences](www.centredesscie
 
 Sources
 https://www.centredessciencesdemontreal.com
-https://www.vieuxportdemontreal.com/salle-de-presse/lexposition-interactive-explore-ouvre-ses-portes-le-28-novembre-au-centre-des?utm_source=chatgpt.com
+https://www.vieuxportdemontreal.com/salle-de-presse/lexposition-interactive-explore-ouvre-ses-portes-le-28-novembre-au-centre-des?utm
 
 
