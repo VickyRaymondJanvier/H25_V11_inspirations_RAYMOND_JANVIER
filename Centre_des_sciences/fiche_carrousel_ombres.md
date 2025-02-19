@@ -15,7 +15,7 @@ Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'expositi
 
 
 <img src="./medias/photo.webp" width="0" height="0"/> Photo gloable ------------------------------
-Comme le montre cette photo, cette expostion est de type <ins>**Interactive et Contemplative!**</ins>
+Comme le montre cette photo, cette exposition est de type <ins>**interactive et contemplative!**</ins>
 
 
 ## *Fonctionnement*
