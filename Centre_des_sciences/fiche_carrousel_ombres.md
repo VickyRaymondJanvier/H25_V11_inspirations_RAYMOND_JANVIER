@@ -19,7 +19,7 @@ Comme le montre cette photo, cette exposition est à la fois <ins>**interactive 
 
 
 ## *Fonctionnement*
-Ce dispositif est 
+Ce dispositif est divisé en plusieurs partie, écran, systeme prog, chose bois, résultat
 
 
 
