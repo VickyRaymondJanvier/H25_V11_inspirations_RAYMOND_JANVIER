@@ -3,7 +3,7 @@
 **Explore - La science en grand**<br/>
 Le carrousel d'ombres<br/>
 
-Image centre des sciences ----------------------------------------------
+<img src="./Centre_des_sciences/medias/photo_centre_des_sciences.jpg" width="0" height="0"/> Photo ---------------------
 <img src="./medias/photo.webp" width="0" height="0"/> ------------------------------
 Photo du centre des sciences : https://fusionelectrique.com/wp-content/uploads/2021/08/centre-des-sciences-de-montreal.jpg
 
@@ -29,7 +29,7 @@ Ce dispositif est divisé en plusieurs parties, l'interactivité, le processus, 
 
 ### *L'intéractivité*
 Cette partie est dotée d'un écran tactile affichant plusieurs actions que nous pouvons sélectionner à l'aide de notre doigt.
-<img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
+<img src="./Centre_des_snces/medias/photo_centre_des_sciences.jpg" width="0" height="0"/> Photo ---------------------
 
 
 ### *Le processus*
