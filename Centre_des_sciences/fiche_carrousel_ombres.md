@@ -17,9 +17,7 @@ Ma visite a eu lieu le 30 janvier 2025! Toute photos de l'exposition on été pr
 
 
 
-
-Photo gloable
-
+<img src="./medias/photo.webp" width="0" height="0"/> Photo gloable ------------------------------
 Comme le montre cette photo, cette expostion est de type Interactive et Contemplative!
 
 
