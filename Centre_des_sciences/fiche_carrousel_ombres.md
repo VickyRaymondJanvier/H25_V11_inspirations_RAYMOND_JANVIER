@@ -1,4 +1,4 @@
-The background color is `#ffffff`
+The background color is `#000000`
 
 # **Centre des sciences**
 
