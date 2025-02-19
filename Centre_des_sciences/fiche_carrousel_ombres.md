@@ -3,6 +3,10 @@
 **Explore - La science en grand**<br/>
 Le carrousel d'ombres<br/>
 
+Image centre des sciences ----------------------------------------------
+<img src="./medias/photo.webp" width="0" height="0"/> ------------------------------
+Photo du centre des sciences : https://fusionelectrique.com/wp-content/uploads/2021/08/centre-des-sciences-de-montreal.jpg
+
 ## *Informations*
 Le carrousel d'ombres est une exposition exposée au centre des sciences dans la partie Explore - La science en grand, au deuxième étage.<br/><br/>
 
@@ -29,16 +33,17 @@ Cette partie est dotée d'un écran tactile affichant plusieurs actions que nous
 
 
 # *Le processus*
-Cette partie est la console de l'exposition, elle sert à lier nos actions au résultat avec un programme électronique.
+Cette partie est la console de l'exposition, elle sert à lier nos actions au résultat avec un programme électronique. Nous pouvons y apercevoir un boîtier avec des compartiments électroniques protégés d'une visière.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
 
-# *Le decors*
-Cette
+# *Le décor*
+Cette partie sert à ajouter de l'interactivité en nous permettant de changer la forme de l'ombre. Nous pouvons y apercevoir des animaux en bois tournant sur une plateforme.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
 
 # *Le résultat*
+Cette partie est le résultat escompté, nous pouvons y voir des ombres d'animaux, ainsi que des lumières colorées.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
 
