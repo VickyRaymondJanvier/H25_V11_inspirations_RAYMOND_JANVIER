@@ -13,13 +13,9 @@ Le Centre des sciences a collaboré avec <ins>**Element AI, Ubisoft et Pratt & W
 Ma visite eu lieu le <ins>**30 janvier 2025**</ins> Toute photos de l'exposition on été prise la meme journée.<br/><br/>
 
 
-Element AI, Ubisoft et Pratt & Whitney
-
-
-
 
 <img src="./medias/photo.webp" width="0" height="0"/> Photo gloable ------------------------------
-Comme le montre cette photo, cette expostion est de type **Interactive et Contemplative!**
+Comme le montre cette photo, cette expostion est de type <ins>**Interactive et Contemplative!**</ins>
 
 
 
