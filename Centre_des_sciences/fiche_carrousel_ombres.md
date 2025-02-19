@@ -1,6 +1,6 @@
-#</ins>**Centre des sciences**</ins>
+#**Centre des sciences**
 
-**Explore - La science en grand**<br/>
+</ins>**Explore - La science en grand**</ins><br/>
 Le carrousel d'ombres<br/>
 
 ## *Informations*
