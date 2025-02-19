@@ -7,7 +7,9 @@ Le carrousel d'ombres
 Le carousel d'ombres est une exposition exposé au centre des sciences dans la partie Explore - La science en grand au deuxième étage.
 
 
-Cette exposition fait partie de leur nombreuse exposition permanente!
+Cette exposition fait partie de leur nombreuse exposition permanente! Elle vu le jour le 28 novembre 2019.
+
+Le Centre des sciences a collaboré avec Element AI, Ubisoft et Pratt & Whitney pour crée cette exposition multimédia!
 
 Ma visite a eu lieu le 30 janvier 2025! Toute photos de l'exposition on été prise la meme journée.
 
@@ -27,7 +29,21 @@ Comme le montre cette photo, cette expostion est de type Interactive et Contempl
 
 
 
+
+
+
+
+
+
+
+
+
+
 Si le cette exposition vous intereste, prenez votre billet! https://ecommerce.centredessciencesdemontreal.com/
 Sinon vous pouvez exploré le site du centre des sciences pour en apprendre plus sur leur exposition! https://www.centredessciencesdemontreal.com/
+
+Sources
+https://www.centredessciencesdemontreal.com
+https://www.vieuxportdemontreal.com/salle-de-presse/lexposition-interactive-explore-ouvre-ses-portes-le-28-novembre-au-centre-des?utm_source=chatgpt.com
 
 
