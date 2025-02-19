@@ -19,7 +19,30 @@ Comme le montre cette photo, cette exposition est à la fois <ins>**interactive 
 
 
 ## *Fonctionnement*
-Ce dispositif est divisé en plusieurs partie, écran, systeme prog, chose bois, résultat
+Ce dispositif est divisé en plusieurs parties, l'intéractivité, le processus, le decors et le résultat
+
+<ins>**Le but**</ins> est d'afficher des ombres pars rapport a l'action que nous avons selectionner.
+
+# *L'intéractivité*
+Cette partie est doté d'un écran affichant 
+<img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
+
+
+
+# *Le processus*
+<img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
+
+
+
+# *Le decors*
+<img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
+
+
+
+# *Le résultat*
+<img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
+
+
 
 
 
