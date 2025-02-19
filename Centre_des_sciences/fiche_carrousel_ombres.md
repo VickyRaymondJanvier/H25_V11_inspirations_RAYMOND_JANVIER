@@ -10,7 +10,7 @@ Cette exposition fait partie de leur nombreuses expositions permanentes! Elle a 
 
 Le Centre des sciences a collaboré avec <ins>**Element AI, Ubisoft et Pratt & Whitney**</ins> pour créer cette exposition multimédia!<br/><br/>
 
-Ma visite eu lieu le <ins>**30 janvier 2025**</ins> Toute photos de l'exposition on été prise la meme journée.<br/><br/>
+Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'exposition ont été prises la même journée.<br/><br/>
 
 
 
