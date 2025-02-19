@@ -19,30 +19,27 @@ Comme le montre cette photo, cette exposition est à la fois <ins>**interactive 
 
 
 ## *Fonctionnement*
-Ce dispositif est divisé en plusieurs parties, l'intéractivité, le processus, le decors et le résultat
+Ce dispositif est divisé en plusieurs parties, l'interactivité, le processus, le décor et le résultat.
 
-<ins>**Le but**</ins> est d'afficher des ombres pars rapport a l'action que nous avons selectionner.
+<ins>**Le but**</ins> est d'afficher des ombres par rapport à l'action que nous avons sélectionnée.
 
 # *L'intéractivité*
-Cette partie est doté d'un écran affichant 
+Cette partie est dotée d'un écran tactile affichant plusieurs actions que nous pouvons sélectionner à l'aide de notre doigt.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
-
 
 
 # *Le processus*
+Cette partie est la console de l'exposition, elle sert à lier nos actions au résultat avec un programme électronique.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
-
 
 
 # *Le decors*
+Cette
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
-
 
 
 # *Le résultat*
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
-
-
 
 
 
