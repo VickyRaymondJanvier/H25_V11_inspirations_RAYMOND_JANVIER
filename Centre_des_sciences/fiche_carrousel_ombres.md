@@ -45,8 +45,8 @@ Références
 
 
 
-Si le cette exposition vous intereste, prenez votre billet! https://ecommerce.centredessciencesdemontreal.com/
-Sinon vous pouvez exploré le site du centre des sciences pour en apprendre plus sur leur exposition! https://www.centredessciencesdemontreal.com/
+Si le cette exposition vous intereste, prenez votre billet! https://ecommerce.centredessciencesdemontreal.com/<br/>
+Sinon vous pouvez exploré le site du centre des sciences pour en apprendre plus sur leur exposition! https://www.centredessciencesdemontreal.com/<br/>
 
 Sources
 https://www.centredessciencesdemontreal.com
