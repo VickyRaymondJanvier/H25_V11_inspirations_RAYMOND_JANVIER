@@ -1,9 +1,6 @@
-The background color is `#000000`
-
 # **Centre des sciences**
 
-**Explore - La science en grand**
-
+**Explore - La science en grand**<br/>
 Le carrousel d'ombres
 
 Le carrousel d'ombres est une exposition exposée au centre des sciences dans la partie Explore - La science en grand, au deuxième étage.
