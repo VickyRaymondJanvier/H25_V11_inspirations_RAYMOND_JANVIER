@@ -11,7 +11,7 @@ Cette exposition fait partie de leur nombreuse exposition permanente! Elle vu le
 
 Le Centre des sciences a collaboré avec Element AI, Ubisoft et Pratt & Whitney pour crée cette exposition multimédia!
 
-Ma visite a eu lieu le 30 janvier 2025! Toute photos de l'exposition on été prise la meme journée.
+Ma visite eu lieu le 30 janvier 2025! Toute photos de l'exposition on été prise la meme journée.
 
 
 
@@ -26,9 +26,17 @@ Comme le montre cette photo, cette expostion est de type Interactive et Contempl
 
 
 
-
-
-
+Reste a faire ---------------------
+Description de l'oeuvre ou du 
+dispositif multimédia
+ Type d'installation
+ Mise en espace
+ Composantes et techniques
+ Éléments de mise en exposition
+ Expérience vécue 
+Ce qui vous a plus
+ Ce que vous feriez autrement
+ Références
 
 
 
