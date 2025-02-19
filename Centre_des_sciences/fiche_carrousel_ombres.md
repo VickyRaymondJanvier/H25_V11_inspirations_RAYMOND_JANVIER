@@ -42,7 +42,7 @@ Références
 
 
 
-
+---------------------------------------------------
 
 Si le cette exposition vous intéresse, **[Prenez votre billet!](https://ecommerce.centredessciencesdemontreal.com/)**<br/>
 
