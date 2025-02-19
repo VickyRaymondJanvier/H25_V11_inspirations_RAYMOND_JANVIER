@@ -4,7 +4,7 @@
 
 Le carrousel d'ombres
 
-Le carousel d'ombres est une exposition exposé au centre des sciences dans la partie Explore - La science en grand au deuxième étage.
+Le carrousel d'ombres est une exposition exposé au centre des sciences dans la partie Explore - La science en grand au deuxième étage.
 
 
 Cette exposition fait partie de leur nombreuse exposition permanente! Elle vu le jour le **28 novembre 2019**.
