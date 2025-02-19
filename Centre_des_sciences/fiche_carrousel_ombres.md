@@ -22,7 +22,7 @@ Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'expositi
 Comme le montre cette photo, cette exposition est à la fois <ins>**interactive et contemplative!**</ins><br/>
 
 
-### *Fonctionnement*
+## *Fonctionnement*
 Ce dispositif est divisé en plusieurs parties, l'interactivité, le processus, le décor et le résultat.
 
 <ins>**Le but**</ins> est d'afficher des ombres par rapport à l'action que nous avons sélectionnée.
