@@ -22,27 +22,27 @@ Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'expositi
 Comme le montre cette photo, cette exposition est à la fois <ins>**interactive et contemplative!**</ins><br/>
 
 
-## *Fonctionnement*
+### *Fonctionnement*
 Ce dispositif est divisé en plusieurs parties, l'interactivité, le processus, le décor et le résultat.
 
 <ins>**Le but**</ins> est d'afficher des ombres par rapport à l'action que nous avons sélectionnée.
 
-# *L'intéractivité*
+### *L'intéractivité*
 Cette partie est dotée d'un écran tactile affichant plusieurs actions que nous pouvons sélectionner à l'aide de notre doigt.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
 
-# *Le processus*
+### *Le processus*
 Cette partie est la console de l'exposition, elle sert à lier nos actions au résultat avec un programme électronique. Nous pouvons y apercevoir un boîtier avec des compartiments électroniques protégés d'une visière.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
 
-# *Le décor*
+### *Le décor*
 Cette partie sert à ajouter de l'interactivité en nous permettant de changer la forme de l'ombre. Nous pouvons y apercevoir des animaux en bois tournant sur une plateforme.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
 
-# *Le résultat*
+### *Le résultat*
 Cette partie est le résultat escompté, nous pouvons y voir des ombres d'animaux, ainsi que des lumières colorées.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
