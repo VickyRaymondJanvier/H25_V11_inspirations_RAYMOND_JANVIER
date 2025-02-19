@@ -1,17 +1,17 @@
 # **Centre des sciences**
 
-Explore - La science en grand
+***Explore - La science en grand***
 
 Le carrousel d'ombres
 
 Le carousel d'ombres est une exposition exposé au centre des sciences dans la partie Explore - La science en grand au deuxième étage.
 
 
-Cette exposition fait partie de leur nombreuse exposition permanente! Elle vu le jour le 28 novembre 2019.
+Cette exposition fait partie de leur nombreuse exposition permanente! Elle vu le jour le ***28 novembre 2019***.
 
-Le Centre des sciences a collaboré avec Element AI, Ubisoft et Pratt & Whitney pour crée cette exposition multimédia!
+Le Centre des sciences a collaboré avec ***Element AI, Ubisoft et Pratt & Whitney*** pour crée cette exposition multimédia!
 
-Ma visite eu lieu le 30 janvier 2025! Toute photos de l'exposition on été prise la meme journée.
+Ma visite eu lieu le ***30 janvier 2025!*** Toute photos de l'exposition on été prise la meme journée.
 
 
 
