@@ -3,7 +3,7 @@
 **Explore - La science en grand**<br/>
 Le carrousel d'ombres<br/>
 
-<img src="Centre_des_sciences/medias/photo_centre_des_sciences.jpg" width="0" height="0"/> Photo ---------------------
+<img src="../photo_centre_des_sciences.jpg" width="0" height="0"/> Photo ---------------------
 <img src="./medias/photo.webp" width="0" height="0"/> ------------------------------
 Photo du centre des sciences : https://fusionelectrique.com/wp-content/uploads/2021/08/centre-des-sciences-de-montreal.jpg
 
