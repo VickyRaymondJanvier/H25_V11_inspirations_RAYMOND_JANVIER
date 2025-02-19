@@ -1,7 +1,6 @@
 # **Centre des sciences**
 
 Explore - La science en grand
-
 Le carrousel d'ombres
 
 Le carousel d'ombres est une exposition exposé au centre des sciences dans la partie Explore - La science en grand au deuxième étage.
