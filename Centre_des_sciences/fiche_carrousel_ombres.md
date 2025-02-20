@@ -3,8 +3,8 @@
 **Explore - La science en grand**<br/>
 Le carrousel d'ombres<br/>
 
-<img src="./Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg" width="500" height="auto"/>
-Photo du centre des sciences : https://fusionelectrique.com/wp-content/uploads/2021/08/centre-des-sciences-de-montreal.jpg
+<img src="./Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg"/>
+*Photo du centre des sciences : https://fusionelectrique.com/wp-content/uploads/2021/08/centre-des-sciences-de-montreal.jpg*
 
 ## *Informations*
 Le carrousel d'ombres est une exposition exposée au centre des sciences dans la partie Explore - La science en grand, au deuxième étage.<br/><br/>
@@ -17,7 +17,7 @@ Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'expositi
 
 
 
-<img src="./medias/photo.webp" width="0" height="0"/> Photo gloable ------------------------------
+<img src="./Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg"/> Photo gloable ------------------------------
 Comme le montre cette photo, cette exposition est à la fois <ins>**interactive et contemplative!**</ins><br/>
 
 
