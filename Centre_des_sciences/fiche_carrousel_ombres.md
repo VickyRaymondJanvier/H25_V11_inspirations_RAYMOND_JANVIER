@@ -18,15 +18,17 @@ Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'expositi
 
 <img src="./Centre_des_sciences/medias/images/exposition_globale_01.jpg"/>
 <img src="./Centre_des_sciences/medias/images/exposition_globale_02.jpg"/>
-
 <i>Ces deux photos montrent l'exposition du carrousel d'ombres</i><br/><br/>
+
 Comme le montre cette photo, cette exposition est à la fois <ins><b>interactive et contemplative!</b></ins><br/>
 
 
 ## *Fonctionnement*
 Ce dispositif est divisé en plusieurs parties, l'interactivité, le processus, le décor et le résultat.
 
-<ins>**Le but**</ins> est d'afficher des ombres par rapport à l'action que nous avons sélectionnée.
+<ins>**Le but**</ins> est d'afficher des ombres amusantes par rapport à l'action que nous avons sélectionnée.
+<img src="./Centre_des_sciences/medias/images/exposition_globale_02.jpg"/>
+<i>Cette photo montre l'écran interactif de l'exposition du carrousel d'ombres</i><br/><br/>
 
 ### *L'intéractivité*
 Cette partie est dotée d'un écran tactile affichant plusieurs actions que nous pouvons sélectionner à l'aide de notre doigt.
