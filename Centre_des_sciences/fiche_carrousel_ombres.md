@@ -10,7 +10,7 @@ Le carrousel d'ombres<br/>
 <i>Photo du centre des sciences : Prise par Fusion électrique</i><br/>
 
 ## *Informations*
-Le carrousel d'ombres est une exposition exposée au centre des sciences dans la partie Explore - La science en grand, au deuxième étage.<br/><br/>
+Le carrousel d'ombres est une exposition permanente exposée au centre des sciences dans la partie Explore - La science en grand, au deuxième étage.<br/><br/>
 
 Cette exposition fait partie de leur nombreuses expositions permanentes! Elle a vu le jour le <ins>**28 novembre 2019**</ins>.<br/><br/>
 
@@ -55,14 +55,21 @@ Cette partie sert à ajouter de l'interactivité en nous permettant de changer l
 Cette partie est le résultat escompté, nous pouvons y voir des ombres d'animaux, ainsi que des lumières colorées.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
+Pour reproduire cette exposition, il nous faudrait :
+Un écran tactile, des composantes électroniques, un boîtier vitré, des formes d'animaux en bois, un projecteur lumineux, une plateforme tournante. Une pièce assez sombre pour y faire paraître.
+
+
+
+Ainsi que des techniques de programmation!
+
 
 
 Reste a faire ---------------------
 Medias
 
-Description dispositif multimédia
-Type d'installation
-Mise en espace
+
+
+
 Composantes et techniques
 Éléments de mise en exposition
 Expérience vécue 
