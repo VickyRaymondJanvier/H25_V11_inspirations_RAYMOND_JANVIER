@@ -40,7 +40,7 @@ Cette partie est dotée d'un écran tactile affichant plusieurs actions que nous
 
 
 ### *Le processus*
-Cette partie est la console de l'exposition, elle sert à lier nos actions au résultat avec un programme électronique. Nous pouvons y apercevoir un boîtier avec des compartiments électroniques protégés d'une visière.
+Cette partie est la console de l'exposition, elle sert à lier nos actions au résultat avec un programme électronique. Nous pouvons y apercevoir un boîtier avec des compartiments électroniques protégés d'une vitre.
 <img src="./medias/photo.webp" width="0" height="0"/> Photo ---------------------
 
 
