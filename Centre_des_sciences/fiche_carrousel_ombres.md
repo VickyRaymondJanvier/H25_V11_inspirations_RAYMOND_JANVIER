@@ -5,7 +5,8 @@ Le carrousel d'ombres<br/>
 
 <img src="./Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg"/>
 
-<i>Photo du centre des sciences : Prise par Fusion électrique</i> <br/>
+<i>Photo du centre des sciences : Prise par Fusion électrique</i><br/>
+
 ## *Informations*
 Le carrousel d'ombres est une exposition exposée au centre des sciences dans la partie Explore - La science en grand, au deuxième étage.<br/><br/>
 
