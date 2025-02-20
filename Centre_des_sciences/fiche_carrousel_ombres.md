@@ -18,7 +18,7 @@ Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'expositi
 
 <img src="./Centre_des_sciences/medias/images/exposition_globale_01.jpg"/>
 <img src="./Centre_des_sciences/medias/images/exposition_globale_02.jpg"/>
-![image](./Centre_des_sciences/medias/images/exposition_globale_02.jpg.jpg)
+
 <i>Ces deux photos montrent l'exposition du carrousel d'ombres</i><br/><br/>
 Comme le montre cette photo, cette exposition est à la fois <ins><b>interactive et contemplative!</b></ins><br/>
 
