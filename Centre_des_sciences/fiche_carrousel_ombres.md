@@ -3,7 +3,7 @@
 **Explore - La science en grand**<br/>
 Le carrousel d'ombres<br/>
 
-<img src="./Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg"/>
+<img src="./Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg"/> -------------------------------------------------------------------------------------------------------------
 
 <i>Photo du centre des sciences : Prise par Fusion électrique</i><br/>
 
@@ -16,8 +16,8 @@ Le Centre des sciences a collaboré avec <ins>**Element AI, Ubisoft et Pratt & W
 
 Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'exposition ont été prises la même journée.<br/><br/>
 
-<img src="./Centre_des_sciences/medias/images/exposition_globale_01.jpg"/>
-<img src="./Centre_des_sciences/medias/images/exposition_globale_02.jpg"/>
+<img src="./Centre_des_sciences/medias/images/exposition_globale_01.jpg"/> -------------------------------------------------------------------------------------------------------------
+<img src="./Centre_des_sciences/medias/images/exposition_globale_02.jpg"/> -------------------------------------------------------------------------------------------------------------
 <i>Ces deux photos montrent l'exposition du carrousel d'ombres</i><br/><br/>
 
 Comme le montre cette photo, cette exposition est à la fois <ins><b>interactive et contemplative!</b></ins><br/>
@@ -26,13 +26,17 @@ Comme le montre cette photo, cette exposition est à la fois <ins><b>interactive
 ## *Fonctionnement*
 Ce dispositif est divisé en plusieurs parties, l'interactivité, le processus, le décor et le résultat.
 
+<img src="./Centre_des_sciences/medias/images/ecran.jpg"/> -------------------------------------------------------------------------------------------------------------
+<i>Ces deux photos montrent l'écran de l'exposition du carrousel d'ombres</i><br/><br/>
+
 <ins>**Le but**</ins> est d'afficher des ombres amusantes par rapport à l'action que nous avons sélectionnée.
-<img src="./Centre_des_sciences/medias/images/exposition_globale_02.jpg"/>
-<i>Cette photo montre l'écran interactif de l'exposition du carrousel d'ombres</i><br/><br/>
+
 
 ### *L'intéractivité*
 Cette partie est dotée d'un écran tactile affichant plusieurs actions que nous pouvons sélectionner à l'aide de notre doigt.
-<img src="./Centre_des_snces/medias/photo_centre_des_sciences.jpg" width="0" height="0"/> Photo ---------------------
+
+<img src="./Centre_des_sciences/medias/images/ecran.jpg"/> -------------------------------------------------------------------------------------------------------------
+<i>Cette photo montre l'écran interactif de l'exposition du carrousel d'ombres</i><br/><br/>
 
 
 ### *Le processus*
