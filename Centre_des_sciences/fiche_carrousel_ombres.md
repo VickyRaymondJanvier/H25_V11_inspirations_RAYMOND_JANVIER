@@ -24,7 +24,7 @@ Comme le montre cette photo, cette exposition est à la fois <ins><b>interactive
 
 
 ## *Fonctionnement*
-Ce dispositif est divisé en plusieurs parties, l'interactivité, le processus, le décor et le résultat.
+Ce dispositif est divisé en plusieurs parties, <ins>**l'interactivité, le processus, le décor et le résultat.**</ins>
 
 <img src="./Centre_des_sciences/medias/images/ecran.jpg"/> -------------------------------------------------------------------------------------------------------------
 <i>Ces deux photos montrent l'écran de l'exposition du carrousel d'ombres</i><br/><br/>
