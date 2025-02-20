@@ -16,9 +16,9 @@ Le Centre des sciences a collaboré avec <ins>**Element AI, Ubisoft et Pratt & W
 
 Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'exposition ont été prises la même journée.<br/><br/>
 
-
-
-<img src="./Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg"/> Photo gloable ------------------------------
+<img src="./Centre_des_sciences/medias/images/exposition_globale_01.jpg"/>
+<img src="./Centre_des_sciences/medias/images/exposition_globale_02.jpg"/>
+<i>Ces deux photos montrent l'exposition du carrousel d'ombres</i><br/>
 Comme le montre cette photo, cette exposition est à la fois <ins>**interactive et contemplative!**</ins><br/>
 
 
