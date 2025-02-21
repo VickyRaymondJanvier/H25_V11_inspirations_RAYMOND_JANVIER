@@ -5,7 +5,7 @@ Le carrousel d'ombres<br/>
 
 <img src="Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg"/>
 
-[comment]:# Comme vous pouvez le remarquer, ma photo devrait s'afficher mais ne le fait pas, ce qui ait aussi le cas avec mes autres photos. J'ai essayé plusieurs méthodes mais en vain, j'ai essayé de demander de l'aide mais personne n'a trouvé le problème, si vous comprenez pourquoi, n'hésitez pas à me l'expliquer, sinon j'espère que cela n'affectera pas ma note finale.
+[comment]:#Comme vous pouvez le remarquer, ma photo devrait s'afficher mais ne le fait pas, ce qui ait aussi le cas avec mes autres photos. J'ai essayé plusieurs méthodes mais en vain, j'ai essayé de demander de l'aide mais personne n'a trouvé le problème, si vous comprenez pourquoi, n'hésitez pas à me l'expliquer, sinon j'espère que cela n'affectera pas ma note finale.
 
  -------------------------------------------------------------------------------------------------------------
 <i>Photo du centre des sciences : Prise par Fusion électrique</i><br/>
