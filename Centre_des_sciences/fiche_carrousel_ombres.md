@@ -57,9 +57,6 @@ Cette partie est le résultat escompté, nous pouvons y voir des ombres d'animau
 
 Pour reproduire cette exposition, il nous faudrait :
 Un écran tactile, des composantes électroniques, un boîtier vitré, des formes d'animaux en bois, un projecteur lumineux, une plateforme tournante. Une pièce assez sombre pour y faire paraître.
-
-
-
 Ainsi que des techniques de programmation!
 
 
