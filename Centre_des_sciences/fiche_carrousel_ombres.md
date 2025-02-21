@@ -6,7 +6,6 @@ Le carrousel d'ombres<br/>
 <img src="Centre_des_sciences/medias/images/photo_centre_des_sciences.jpg" />
 
 /> -------------------------------------------------------------------------------------------------------------
-![le mur](/Centre_des_scinces/medias/images/console.jpg)
 <i>Photo du centre des sciences : Prise par Fusion électrique</i><br/>
 
 ## *Informations*
