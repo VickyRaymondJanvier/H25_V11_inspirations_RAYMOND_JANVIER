@@ -7,7 +7,7 @@ Le carrousel d'ombres<br/>
 
 [Comme vous pouvez le remarquer, ma photo devrait s'afficher mais ne le fait pas, ce qui ait aussi le cas avec mes autres photos. J'ai essayé plusieurs méthodes mais en vain, j'ai essayé de demander de l'aide mais personne n'a trouvé le problème, si vous comprenez pourquoi, n'hésitez pas à me l'expliquer, sinon j'espère que cela n'affectera pas ma note finale.]: #
 
-<i>Photo du centre des sciences : Prise par Fusion électrique</i><br/>
+<i>Photo du devant du centre des sciences : Prise par Fusion électrique</i><br/>
 
 ## *Informations*
 Le carrousel d'ombres est une exposition permanente exposée au centre des sciences dans la partie Explore - La science en grand, au deuxième étage dans une salle sombre fermée.<br/><br/>
@@ -20,7 +20,7 @@ Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'expositi
 
 <img src="./Centre_des_sciences/medias/images/exposition_globale_01.jpg"/>
 <img src="./Centre_des_sciences/medias/images/exposition_globale_02.jpg"/>
-<i>Ces deux photos montrent l'exposition du carrousel d'ombres</i><br/><br/>
+<i>Ces deux photos montrent l'exposition du carrousel d'ombres en fonctionnement</i><br/><br/>
 
 Comme le montre cette photo, cette exposition est à la fois <ins><b>interactive et contemplative!</b></ins><br/>
 
