@@ -25,7 +25,7 @@ Ma visite eut lieu le <ins>**30 janvier 2025**</ins> Toutes photos de l'expositi
 Comme le montre cette photo, cette exposition est à la fois <ins><b>interactive et contemplative!</b></ins><br/>
 
 
-## *Fonctionnement*
+# *Fonctionnement*
 Ce dispositif est divisé en plusieurs parties, <ins>**l'interactivité, le processus, le décor et le résultat.**</ins>
 
 <img src="./Centre_des_sciences/medias/images/ecran.jpg"/>
