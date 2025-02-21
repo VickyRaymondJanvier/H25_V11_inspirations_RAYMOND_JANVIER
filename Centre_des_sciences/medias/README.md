@@ -1,1 +1,1 @@
-Ce dossier contient les images de l'exposition.
+Ce dossier contient les medias de l'exposition.
