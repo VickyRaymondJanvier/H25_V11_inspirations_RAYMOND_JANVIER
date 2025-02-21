@@ -63,25 +63,9 @@ Ainsi que des techniques de programmation!
 # *Mon expérience*
 J'ai trouvé l'exposition vraiment intéressante. Je l'ai trouvée facile à comprendre tout en étant divertissante. Il y a beaucoup d'options nous permettant d'être créatif. Je trouve que nous mettre dans une petite salle sombre Nous aide aussi beaucoup à nous plonger davantage dans l'expérience et lui donne un effet unique que l’on ne retrouve pas dans la plupart des autres expositions du centre des sciences, ce qui explique aussi mon choix de couvrir cette exposition précise.<br/><br/>
 
-Cependant, je trouve que le processus manquait un peu d'explication sur comment ceci est réalisable.
-
-## *Point positif*
-
-## *Point négatif*
-
-Reste a faire ---------------------
+Cependant, je trouve que le processus manquait un peu d'explication sur comment ceci est réalisable.<br/><br/><br/>
 
 
-Ce que vous feriez autrement
-
-
-
-
-
-
-
-
----------------------------------------------------
 
 Si le cette exposition vous intéresse, **[Prenez votre billet!](https://ecommerce.centredessciencesdemontreal.com/)**<br/>
 
