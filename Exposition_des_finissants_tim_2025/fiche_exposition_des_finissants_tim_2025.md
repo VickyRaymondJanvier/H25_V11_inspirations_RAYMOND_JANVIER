@@ -1,6 +1,6 @@
 ## *Résonance*
 
-Cette exposition a eu lieu au dans la semaine du <ins>16 mars 2025<ins> au <ins>college montmorency<ins>!
+Cette exposition a eu lieu au dans la semaine du <ins>```16 mars 2025```</ins> au <ins>college montmorency</ins>!
 
 
 
