@@ -1,4 +1,4 @@
-## **Résonance**
+# *Résonance*
 
 Résonance est un <ins>`projets multimedias`</ins> realisé par les finissant de l'hiver 2025 de la technique d'integration multimedias a montmorency, elle ont été realisé dans le cadre du cour ''Expérience multimédia'' donner lors de leur derniere session. Ce cour a été encadrer par `Guillaume Arseneault et Thomas Ouellet Fredericks`. Ce project est aussi realisable grace a `William Racine et Antoine Allard`, technicien de travaux pratique de la technique d'intégration multimédias.
 
