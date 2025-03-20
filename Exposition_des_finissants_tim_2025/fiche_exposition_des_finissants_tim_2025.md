@@ -1,11 +1,10 @@
 ## *Résonance*
 
-Cette exposition a eu lieu au dans la semaine du 16 mars 2025 au college montmorency!
+Cette exposition a eu lieu au dans la semaine du <ins>16 mars 2025<ins> au <ins>college montmorency<ins>!
 
 
 
 
-- [ ] Lieu : College Montmorency 
 - [ ] Date de la visite: 18/03/2025 
 - [ ] Nom de l'exposition: Résonance 
 - [ ] Type d'exposition: exposition temporaire 
