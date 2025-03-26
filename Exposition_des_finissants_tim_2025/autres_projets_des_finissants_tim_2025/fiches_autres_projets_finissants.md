@@ -8,11 +8,6 @@ Cette exposition est donc temporaire
 
 Ma visit du lieu a été affctuer le 18 mars 2025!
 <br>
-
-- [ ] Type d'exposition: exposition temporaire 
-- [ ] Année de realisation: 2025
- 
-![intro](.//inserer une image de moi.jpg)
  
 ## Introduction
 Les finissant de notre programme TIM ont créer une exposition ensemble, et nous avons eu la chance de la visité. <br>
