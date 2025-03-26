@@ -4,18 +4,13 @@ Résonance est un <ins>`projets multimedias`</ins> réalisé par les finissants 
 
 <br>
 Cette exposition a eu lieu au cours de la semaine du `16 mars 2025 au `<ins>collège Montmorency</ins>!<br>
-Cette exposition est donc `temporaire.` Le type d'installation est `contemplative, immersive et interactive!`
-
-Contemplative, immersive & interactive
+Cette exposition est donc `temporaire.` Le type d'installation est `contemplative, immersive et interactive!`<br>
 
 Ma visit du lieu a été affctuer le 18 mars 2025!
 <br>
 
-- [ ] Type d'exposition: exposition temporaire 
-- [ ] Année de realisation: 2025
- 
-![intro](.//inserer une image de moi.jpg)
- 
+***
+
 ## Introduction
 Les finissant de notre programme TIM ont créer une exposition ensemble, et nous avons eu la chance de la visité. <br>
 Voici ce que j'en ai penser.
