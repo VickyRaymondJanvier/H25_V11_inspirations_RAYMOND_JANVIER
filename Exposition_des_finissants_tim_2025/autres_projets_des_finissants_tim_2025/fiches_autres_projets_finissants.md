@@ -12,25 +12,62 @@ Ma visit du lieu a été affctuer le 18 mars 2025!
 <br>
 ***
  
-## Introduction
-Les finissant de notre programme TIM ont créer une exposition ensemble, et nous avons eu la chance de la visité. <br>
-Voici ce que j'en ai penser.
- 
- 
+## Pourquoi ai-je créé cette fiche?
+Personnellement, je suis contente d'avoir eu la chance d'être à l'exposition des finissants 2025, voici donc pourquoi j'ai donc décidé de vous mettre mes observations des projets durant exploration des studios TIM de Montmorency par ordre de préférence!
+
+***
+## Internature
+
+Internature est
 ## Description
  
- 
 ## Installation
- 
- 
+
 ### Exemple de l'affichage:
- 
  
 ### Interactions disponible:
  
+## Conclusion
+
+## Amélioration
+
+
+
+
+
+
+
+
+## Etheria
+
+## Luminatura
+
+## Fuga
+
+## Prismatica
+
+## Arcadia
+
+
+
+
+## Description
+ 
+## Installation
+
+### Exemple de l'affichage:
+ 
+### Interactions disponible:
  
 ## Conclusion
+
+## Amélioration
+
+
+
+
  
+
  
 ## Amélioration
  Résonance m'a beaucoup aidé à comprendre mon objectif durant mes prochaines années en tant qu'étudiante de cette technique. Cependant, ce que je changerais serait de mettre en valeur le processus de création et non seulement le dispositif finalement, lors de la présentation, je trouve que le processus met en valeur le projet fini, montrant le travail derrière un dispositif aussi complet ainsi que la persévérance de l'équipe à travers les problèmes.
