@@ -1,1 +1,1 @@
-Ce dossier contient mes medias et fiches du centre des sciences.
+Ce dossier contient ma fiche et mes medias de ma visite au centre des sciences.
