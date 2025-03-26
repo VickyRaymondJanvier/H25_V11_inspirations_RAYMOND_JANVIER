@@ -14,8 +14,7 @@ Ma visit du lieu a été affctuer le 18 mars 2025!<br>
 ## Appréciation générale
 J'ai trouvé que la présentation et l'ambiance faisaient le fort de l'expérience, les deux pièces regroupant les expositions étaient plongées dans l'obscurité avec une luminosité assez basse ainsi qu'un côté nature et végétation, ce qui faisait ressortir les expositions en leur donnant un look magique et mystérieux!
  
-
- 
+Cette exposition a sept expostions, six sont sont documenter ici, mais si vous voulez voir 6eme, voir foche detailler faovorite
 ## Description
  
  
