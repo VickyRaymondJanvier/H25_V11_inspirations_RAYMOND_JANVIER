@@ -3,7 +3,7 @@
 Résonance est un <ins>`projets multimedias`</ins> réalisé par les finissants de l'hiver 2025 de la technique d'intégration multimédia à Montmorency, ils ont été réalisés dans le cadre du cours 'Expérience multimédia' donné lors de leur dernière session. Ce cours a été encadré par `Guillaume Arseneault et Thomas Ouellet Fredericks`. Ce projet est aussi réalisable grâce à `William Racine et Antoine Allard`, technicien de travaux pratique de la technique d'intégration multimédias.
 
 <br>
-Cette exposition a eu lieu au cours de la semaine du `16 mars 2025` au<ins>collège Montmorency</ins>!
+Cette exposition a eu lieu au cours de la semaine du `16 mars 2025` au<ins>`collège Montmorency`</ins>!
 Cette exposition est donc temporaire
 
 Ma visit du lieu a été affctuer le 18 mars 2025!
