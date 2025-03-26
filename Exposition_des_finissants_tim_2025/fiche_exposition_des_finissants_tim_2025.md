@@ -12,9 +12,9 @@ Ma visit du lieu a été affctuer le 18 mars 2025!<br>
 ***
 
 ## Appréciation générale
-J'ai trouver que la présentation et l'ambiance fesait le fort de l'expérience, 
+J'ai trouvé que la présentation et l'ambiance faisaient le fort de l'expérience, les deux pièces regroupant les expositions étaient plongées dans l'obscurité avec une luminosité assez basse ainsi qu'un côté nature et végétation, ce qui faisait ressortir les expositions en leur donnant un look magique et mystérieux!
  
-![Entrance](.//Inserer une photo a l'entrée.jpg)
+
  
 ## Description
  
