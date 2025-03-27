@@ -23,7 +23,7 @@ Cette exposition a sept expositions, six sont documentées ici, si vous voulez v
 
 ## Internature
 ![Internature](medias/Internature.jpg)
-L'exposition Internature | Photo prise par Vicky Raymond-Janvier
+<i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
 
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
 
