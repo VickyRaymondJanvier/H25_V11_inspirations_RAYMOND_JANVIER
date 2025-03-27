@@ -13,7 +13,7 @@ Ma visite du lieu a eu lieu le 18 mars 2025.<br>
 ## Pourquoi es-ce mon preféré?
 Je trouve que C0N-DU8 est originale tout autant dans son design neon, la facon d'ont les visiteurs doivent intéragir avec le dispositif et son histoire!
 
-### l'histoire
+## L'histoire
 Des motards décédés sont piégés dans un purgatoire, forcés par un être nommé Le Malin à participer à des courses d'endurance éternelles. Peu importe s'ils gagnent ou perdent, ils sont condamnés à courir indéfiniment. Ceux qui restent trop longtemps derniers voient leur casque exploser.
 
 ## Premières impressions
