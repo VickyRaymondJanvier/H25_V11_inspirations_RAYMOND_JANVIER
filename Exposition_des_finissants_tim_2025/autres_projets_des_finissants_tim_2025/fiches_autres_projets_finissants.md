@@ -32,7 +32,7 @@ Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Gr
 Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler la croissance de la nature` autour d’eux.
 
 ## Visuel
-L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` et de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.<br><br>
+L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` ainsi que de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.<br><br>
 ![Planation_Internature](medias/plantation_internature.jpg)
 <i>La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**<i>
 
