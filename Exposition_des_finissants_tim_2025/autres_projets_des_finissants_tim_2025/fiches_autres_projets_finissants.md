@@ -70,12 +70,14 @@ Sources
 ![Etheria](medias/etheria.jpg)
 <i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
 
-Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
+Ce dispositif a été crée par : `Joshua Gonzalez-Barrera`, `Victor Gileau`, `Michael Un Dupré`, `Pierre-Luc Proulx` et `Maik Hamel`
 
 ## Intention
-Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler la croissance de la nature` autour d’eux.
+Étheria est un jeu interactif où le but consiste à collaborer avec ses équipiers et survivre à plusieurs niveaux pour remporter la partie!
 
 ## Visuel
+
+
 L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` et de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.
 ![Planation_internature](medias/plantation_etheria.jpg)
 <i>La planation d'Internature | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)**<i>
