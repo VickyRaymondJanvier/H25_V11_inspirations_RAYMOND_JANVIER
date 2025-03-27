@@ -55,7 +55,7 @@ Le cour de `réalité mixte`<br>
 Le cour d'`installation multimédia`<br>
 Le cour de `conception d’une expérience multimédia`<br>
 
-Pour avoir plus d'informations sur les cours : [Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
+Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
 Si c'était à moi de concevoir l'installation, je choisirais de `fermer complètement les deux entrées de la serre` afin de créer une `immersion totale`, sans distraction extérieure. Dans cette optique, je proposerais d’`ajouter une texture naturelle` en corélation avec les projections, afin de créer un environnement `cohérent` et `organique`.
@@ -66,13 +66,6 @@ Plus d'information : https://tprangers.github.io/internature/#/
 
 Sources
 > **[Github d'Internature](https://tprangers.github.io/internature/#)**
-
-
-
-
-
-L'exposition Internature | Photo prise par Vicky Raymond-Janvier
-La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
 
 ## Etheria
 
@@ -96,5 +89,6 @@ Malgré cela, comparé à plusieurs dispositifs que j'ai pu voir par le passé, 
 
 ## Réferences
 Sources https://tim-montmorency.com/2025/#/
-> Toutes les photos ont été prise par Vicky Raymond-Janvier avec un  <BR>
-> 📍Colege montmorency, QC, Canada, salle C1712
+
+L'exposition Internature | Photo prise par Vicky Raymond-Janvier
+La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
