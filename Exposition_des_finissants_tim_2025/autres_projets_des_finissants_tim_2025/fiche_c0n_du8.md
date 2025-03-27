@@ -54,26 +54,26 @@ Le thème sonore est basé sur de la musique intense et de la musique Synthwave.
 Le thème visuel est basé sur un thème plutôt néon et futuriste.
 
 ## Composantes majeures
-PC
-Voltmètre
-Kinect
-Projecteur
-Carte de son
-Haut-Parleur x 2
-USB-C
-USB x 2
-HDMI
-Etherne
-Câble XLR x 2
+PC<br>
+Voltmètre<br>
+Kinect<br>
+Projecteur<br>
+Carte de son<br>
+Haut-Parleur x 2<br>
+USB-C<br>
+USB x 2<br>
+HDMI<br>
+Etherne<br>
+Câble XLR x 2<br>
 
 ## Applications utilisé
-Unity
-Visual Studio Community 2022
-Maya
-Blender
-Touch Designer
-Arduino
-Reaper
+Unity<br>
+Visual Studio Community 2022<br>
+Maya<br>
+Blender<br>
+Touch Designer<br>
+Arduino<br>
+Reaper<br>
 
 ## Montant
 Le montant total pouvant être mis dans ce projet était de 500$, le coût a été de seulement 284,25$.
