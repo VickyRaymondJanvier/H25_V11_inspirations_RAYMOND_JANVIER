@@ -76,10 +76,10 @@ Ce dispositif a été crée par : `Joshua Gonzalez-Barrera`, `Victor Gileau`, `M
 Étheria est un jeu interactif où le but consiste à collaborer avec ses équipiers et survivre à plusieurs niveaux pour remporter la partie!
 
 ## Visuel
-L’installation se présente sous la forme d'un jeu vidéo utilisant une projection animée, s'inspirant des codes des jeux de défense de tours. Le tout est projeté sur une table gris pâle, avec trois cylindres utilisés comme pions pour contrôler ton personnage.
+L’installation se présente sous la forme d'un jeu vidéo utilisant une projection animée, s'inspirant des codes des jeux de défense de tours. Le tout est projeté sur une table gris pâle, avec trois cylindres utilisés comme pions pour contrôler ton personnage.<br><br>
 
 ![Planation_internature](medias/plantation_etheria.jpg)
-<i>La planation d'Internature | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)**<i>
+<i>La planation d'Etheria | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)**<i>
 
 ## Interactions
 La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
