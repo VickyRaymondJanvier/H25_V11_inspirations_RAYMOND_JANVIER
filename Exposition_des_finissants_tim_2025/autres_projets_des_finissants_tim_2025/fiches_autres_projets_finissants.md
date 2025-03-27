@@ -145,7 +145,7 @@ Le cour de d'`audio 2`<br>
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-Luminatura m’a aussi laissé entrevoir un potentiel encore plus vaste. J’aurais aimé pouvoir explorer une interactivité diverse, un contrôle plus fin sur les variations lumineuses et sonores, afin de véritablement sculpter l’ambiance à mon rythme et selon mes sensations.
+Luminatura m’a également laissé entrevoir un potentiel encore plus vaste. J’aurais aimé une interactivité plus variée, offrant un contrôle plus fin sur les variations lumineuses et sonores. Cela aurait permis de sculpter l’ambiance de manière plus personnelle.
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))** <br>
@@ -163,37 +163,33 @@ Sources
 Ce dispositif a été crée par : `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` et `Yavuz-Selim Gucluer`
 
 ##Intention
-
-L’objectif de cette exposition est d’offrir au visiteur la possibilité de créer une forêt interactive grâce à l’utilisation d’un dispositif de capteurs de mouvement.
+Cette exposition vise à offrir une expérience immersive où les visiteurs peuvent créer une forêt interactive grâce à un dispositif utilisant des capteurs de mouvement. L’objectif est de permettre à chaque participant d'influencer l’environnement virtuel de manière directe et engageante.
 
 ##Visuel
-
 À l’entrée de l’exposition, le visiteur découvre un dispositif composé de trois écrans suspendus à une liane montant vers le plafond. Chaque écran est équipé de haut-parleurs et dispose de trois capteurs de mouvement positionnés devant, permettant ainsi une interaction directe avec l’environnement virtuel.
 
 ![Planation_Fuga](medias/plantation_fuga.jpg)
 <i>La planation de Fuga | **[Voici la source de l'image!](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/) **<i>
 
 ##Interactions
-Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
+Les visiteurs interagissent avec l'exposition à travers des capteurs de mouvement, qui leur permettent de façonner une forêt en temps réel. En manipulant ces capteurs, les changements se manifestent à l’écran, offrant une visualisation dynamique de l’évolution de l’environnement.
 
 ##Premières impressions
-Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction.
+Dès que j'ai découvert l'exposition Fuga, j'ai été immédiatement captivé par son esthétique unique. Son style délibérément désorganisé et futuriste, rappelant l'atmosphère d'un film de science-fiction, m’a particulièrement interpellé.
 
 ##Conclusion
-
-
-Selon moi, le résultat final reflete vraiment l'intension de l'équipe et ce démarque du style classic de la majorité des autre expositions, on peux voir que ce projet cache une histoire et te rend curieux de vouloir de la connaitre. Dans cette disposition, nous pouvons resentir la liberté de création et le coté mystérieux de l'histoire.
+À mon avis, le résultat final reflète pleinement l’intention de l’équipe et se distingue nettement des expositions classiques. Ce projet semble véhiculer une véritable histoire, suscitant la curiosité et donnant envie d’en découvrir davantage. Dans cette disposition, on ressent une liberté de création, accompagnée d'une atmosphère mystérieuse.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
 Le cour d'`interactivité ludique`<br>
 Le cour d'`animation 2d`<br>
-Le cour de` d'installation multimédia`<br>
+Le cour d'`installation multimédia`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-Si j'aurais a améliorer ce projet, je me concenterais surtout sur le décors créable avec le capteur, faire plusieurs saison ou plusieurs type d'animation d'épendant du mouvement faite par l'utilisateur.
+Si je devais améliorer ce projet, je me concentrerais principalement sur l’aspect du décor interactif créé avec le capteur. L’ajout de différentes saisons ou de types d’animations variées, en fonction des mouvements réalisés par l’utilisateur, permettrait de rendre l’expérience encore plus immersive et dynamique.
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=e6qNc1Dp68Q)** <br>
@@ -211,33 +207,33 @@ Sources
 Ce dispositif a été crée par : `Dominic Yale`, `William Beauvais` et `Anton Nikulin`
 
 ## Intention
-L'intention dans ce dernier projet est de faire vivre un sentiment nostalgique a l'utilisateur a remenant les ancienne normes de jeux vidéo retro. Cette exposition te ramene a l'époque 1970, l'époque des bornes d'arcade!
+L'intention derrière ce projet est de susciter un sentiment de nostalgie chez l'utilisateur en le plongeant dans l'univers des anciens jeux vidéo rétro. Cette exposition nous transporte dans les années 1970, l'époque des premières bornes d'arcade, permettant de revivre les sensations des jeux classiques de cette époque!
 
 ## Visuel
-Nous pouvons y appercevoir une borne d'arcade retro noire incluant un écran incliné et pour jouer, une manette blanche et deux boutons de couleur jaune et rouge.
+L'exposition présente une borne d'arcade rétro noire. L'écran de la borne est incliné, offrant une expérience de jeu immersive. Pour interagir, le joueur utilise une manette blanche accompagnée de deux boutons de couleur jaune et rouge, emblématiques des bornes d'arcade classiques.
 
 ![Planation_Arcadia](medias/plantation_arcadia.jpg)
 <i>La planation de Arcadia | **[Voici la source de l'image!](https://cousi-cousa.github.io/Arcadia/#/30_production/10_gestion_projet/)** <i>
 
 ## Interactions
-Grace a la manette blancher ainsi que lesdeux boutons jaune et rouge, nous pouvons déplacer notre charactere, nous trouvons des parchemain pour ensuite sauver la foret.
+Grâce à la manette blanche et aux deux boutons jaunes et rouges, le joueur peut déplacer son personnage et collecter des parchemins, afin de sauver la forêt et restaurer l'équilibre.
 
 ## Premières impressions
-Lors de ma visite, le projet Arcadia ma interpeler grace a son style retro qui ma rendie nostalgique, voulais retourner au source du jeux vidéo, j'ai donc voulu le testé.
+Lors de ma visite, le projet Arcadia m'a interpelé grâce à son style rétro, qui m'a immédiatement plongé dans un sentiment de nostalgie. Cela m'a donné envie de retourner aux racines du jeu vidéo, et j'ai donc souhaité tester l'expérience par moi-même.
 
 ## Conclusion
-Cette exposition est unique car elle est une des seule qui mélange l'évolution dans le temps aussi direct, les bornes d'arcade sont pour nous un signe de bon ''vieux temps'' nous donner systématiquement un sentiment de bien être et de bonheur nous rappelant notre enfance.
+Cette exposition est unique, car elle est l'une des rares à mêler l'évolution du jeu vidéo à travers le temps de manière aussi directe. Les bornes d'arcade, symboles de la « belle époque », nous procurent systématiquement une sensation de bien-être et de bonheur, tout en ravivant les souvenirs de notre enfance.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
 Le cour d'`interactivité ludique`<br>
 Le cour d'`animation 2d`<br>
-Le cour de` d'installation multimédia`<br>
+Le cour de`d'installation multimédia`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-Si j'aurais a améliorer ce projet, je me concenterais surtout sur le décors créable avec le capteur, faire plusieurs saison ou plusieurs type d'animation d'épendant du mouvement faite par l'utilisateur.
+Si je devais améliorer ce projet, je me concentrerais sur le design de la borne d'arcade. Il serait intéressant d'ajouter des couleurs plus emblématiques et de retravailler certains éléments visuels pour renforcer l'aspect rétro et nostalgique. Une attention particulière à ces détails permettrait d'améliorer l'immersion et d'intensifier l'impact visuel de l'expérience.
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=e6qNc1Dp68Q)** <br>
@@ -248,29 +244,26 @@ Sources
 
 ***
 
-## Prismatica (6ème place)
+## Prismatica (7ème place)
 ![Prismatica](medias/prismatica.jpg)
 <i>L'exposition Prismatica | Photo prise par Vicky Raymond-Janvier</i>
 
-Ce dispositif a été crée par : `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` et `Yavuz-Selim Gucluer`
-
+Ce dispositif a été crée par : `Vincent Delisle`, `Ikrame Rata` et Jérémy Duverseau`
 ## Intention
-Le but est de permettre au visiteur de crée une foret grace a un capteur de mouvement.
+L'objectif est de permettre au visiteur de créer une forêt en temps réel, simplement en utilisant un capteur de mouvement, transformant l’espace environnant en un paysage forestier interactif.
 
 ## Visuel
-Lorsque nous apercevons cette exposition, nous pouvons y appercevoir trois écran accrocher a une lianne montante. Chaque écran sont doté d'un haut parleur ainsi que trois capteur de mouvement devant.
+
 
 ![Planation_plastimatica](medias/plantation_prismatica.jpg)
 <i>La planation de Plastimatica | **[Voici la source de l'image!](https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/) **<i>
 
 ## Interactions
-Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
+Avec un crayon, tu as la possibilité de choisir parmi plusieurs couleurs différentes, sur la tablette devant toi, tu peux dessiner, et l'écran réagit en fonction des couleurs et des sons en fonction de l'endroit où tu dessines.
 
 ## Premières impressions
-Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction. 
 
 ## Conclusion
-Selon moi, le résultat final reflete vraiment l'intension de l'équipe et ce démarque du style classic de la majorité des autre expositions, on peux voir que ce projet cache une histoire et te rend curieux de vouloir de la connaitre. Dans cette disposition, nous pouvons resentir la liberté de création et le coté mystérieux de l'histoire.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
@@ -281,14 +274,14 @@ Le cour de`Traitement audiovisuel`<br>
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-Je trouve que le projet final manque de couleurs comparé au borne d'arquade des année 1970 et que les boutons pourrait être mieux fini.
+Meilleure control des couleurs
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=T_AHrgQZ-zI)** <br>
-Plus d'information : **[Github Fuga](https://cousi-cousa.github.io/Arcadia/#/)**
+Plus d'information : **[Github Prismatica](https://cousi-cousa.github.io/Arcadia/#/)**
 
 Sources
-> **[Github Fuga](https://cousi-cousa.github.io/Arcadia/#/)**
+> **[Github Prismatica](https://cousi-cousa.github.io/Arcadia/#/)**
 
 ***
 
