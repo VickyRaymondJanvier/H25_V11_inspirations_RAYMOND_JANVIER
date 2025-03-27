@@ -30,7 +30,7 @@ L’exposition comptait `sept installations en tout`, dont six documentées ici.
 
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
 
-## Intention
+## Interactions possibles
 Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler la croissance de la nature` autour d’eux.
 
 ## Visuel
@@ -50,10 +50,10 @@ Située au centre du plus grand des studios d’exposition, Internature a été 
 Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la `sphère lumineuse` au centre de l'installation. En la faisant tourner, j'ai vu la nature autour de moi s'animer à chaque mouvement, comme si je participais activement à la création d'un monde végétal. Cette interaction m'a permise de ressentir une certaine forme de pouvoir, mais aussi une connexion avec la nature.
 
 ## Cours primordiaux
-En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :
-Le cour de `réalité mixte`
-Le cour d'`installation multimédia`
-Le cour de `conception d’une expérience multimédia`
+En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
+Le cour de `réalité mixte`<br>
+Le cour d'`installation multimédia`<br>
+Le cour de `conception d’une expérience multimédia`<br>
 
 Pour avoir plus d'infos sur les cours : https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
 
