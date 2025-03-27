@@ -29,64 +29,75 @@ Avant ma visite aux studios TIM, je me demandais comment les étudiants en multi
 
 J’ai trouvé que la `présentation` et `l’ambiance` étaient les points forts de l’expérience. Les deux salles regroupant les installations étaient plongées dans une `obscurité tamisée`, avec une lumière basse et une `mise en scène végétale` qui renforçait l’effet immersif. Cet univers donnait aux installations une `atmosphère magique` et `mystérieuse` qui les mettait en valeur.
 
-
 ***
 
 ## C0N-DU8
-![Internature](medias/internature.jpg)
+![Internature](medias/c0n_du8_01.jpg)
 <i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
 
-Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
+Ce dispositif a été crée par : `Ian Corbin`, `Samuel_Desmeules_Voyer` et `Alexandre_Gervais`, `Kevin_Malric
 
 ## Intention
-Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler la croissance de la nature` autour d’eux.
 
 ## Visuel
-L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` et de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.<br><br>
+<br><br>
+
 ![Planation_Internature](medias/plantation_internature.jpg)
 <i>La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**<i>
 
 ## Interactions
-La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
 
 ### Theme sonore
+Le thème sonore est basé sur de la musique intense et de la musique Synthwave.
 
 ### Theme visuel
+Le thème visuel est basé sur un thème plutôt néon et futuriste.
 
-## Composantes
+## Composantes majeures
+PC
+Voltmètre
+Kinect
+Projecteur
+Carte de son
+Haut-Parleur x 2
+USB-C
+USB x 2
+HDMI
+Etherne
+Câble XLR x 2
 
 ## Applications utilisé
+Unity
+Visual Studio Community 2022
+Maya
+Blender
+Touch Designer
+Arduino
+Reaper
 
 ## Montant
-
-
-
-
-
-
-
-
-Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à `attirer mon regard`. Son `ampleur` et son `esthétisme` m’ont donné l’envie de la découvrir.
+Le montant total pouvant être mis dans ce projet était de 500$, le coût a été de seulement 284,25$.
 
 ## Conclusion
-Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la `sphère lumineuse` au centre de l'installation. En la faisant tourner, j'ai vu la `nature autour de moi s'animer à chaque mouvement`, comme si je participais activement à la `création d'un monde végétal`. Cette interaction m'a permise de ressentir une certaine forme de `pouvoir`, mais aussi une `connexion` avec la nature.
+C0N-DU8 était une expérience originale, 
+
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
-Le cour de `réalité mixte`<br>
-Le cour d'`installation multimédia`<br>
-Le cour de `conception d’une expérience multimédia`<br>
+Le cour de d'`animation 3d`<br>
+Le cour d'`objets interactifs`<br>
+Le cour de d'`interactivité ludique`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-Si c'était à moi de concevoir l'installation, je choisirais de `fermer complètement les deux entrées de la serre` afin de créer une `immersion totale`, sans distraction extérieure. Dans cette optique, je proposerais d’`ajouter une texture naturelle` en corélation avec les projections, afin de créer un environnement `cohérent` et `organique`.
+Le jeu est trop exigeant, ce qui rend difficile son achèvement. De plus, la course manque de dynamisme et devient rapidement monotone, manquant de stimuli pour maintenir l'intérêt du joueur.
 
 ## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s)**<br>
-Plus d'information : **[Github d'Internature](https://tprangers.github.io/internature/#)**<br><br>
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=uQutqaW_Ego)** <br>
+Plus d'information : **[Github d'Internature](https://gearshift-games.github.io/Web-C0N-DU8/#/)** <br><br>
 Sources
-> **[Github d'Internature](https://tprangers.github.io/internature/#)**
+> **[Github d'Internature](https://gearshift-games.github.io/Web-C0N-DU8/#/)**
 
 ***
 
