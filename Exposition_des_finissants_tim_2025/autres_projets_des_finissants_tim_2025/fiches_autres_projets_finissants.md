@@ -1,5 +1,5 @@
-# *Résonance*
-Résonance est un <ins>`projets multimedias`</ins> réalisé par les finissants de l'hiver 2025 de la Technique d'Intégration Multimédia au collège Montmorency. Ces ont été réalisés dans le cadre du cour 'Expérience multimédia' donné lors de leur dernière session. Ce cours a été encadré par `Guillaume Arseneault` et `Thomas Ouellet Fredericks`. La réalisation de ce projet a également été rendue possible grâce à l’appui de `William Racine` et `Antoine Allard`, techniciens de travaux pratiques en Technique d'Intégration Multimédias.<br>
+# *Resonance*
+Resonance est un <ins>`projets multimedias`</ins> réalisé par les finissants de l'hiver 2025 de la Technique d'Intégration Multimédia au collège Montmorency. Ces ont été réalisés dans le cadre du cour 'Expérience multimédia' donné lors de leur dernière session. Ce cours a été encadré par `Guillaume Arseneault` et `Thomas Ouellet Fredericks`. La réalisation de ce projet a également été rendue possible grâce à l’appui de `William Racine` et `Antoine Allard`, techniciens de travaux pratiques en Technique d'Intégration Multimédias.<br>
 
 L’exposition s’est tenue au <ins>`Collège Montmorency`</ins> dans la salle C-1712 et C-1710 durant la semaine du `16 mars 2025`!<br>
 
@@ -121,13 +121,10 @@ Sources
 
  
 ## Amélioration
- Résonance m'a beaucoup aidé à comprendre mon objectif durant mes prochaines années en tant qu'étudiante de cette technique. Cependant, ce que je changerais serait de mettre en valeur le processus de création et non seulement le dispositif finalement, lors de la présentation, je trouve que le processus met en valeur le projet fini, montrant le travail derrière un dispositif aussi complet ainsi que la persévérance de l'équipe à travers les problèmes.
+ Resonance m'a beaucoup aidé à comprendre mon objectif durant mes prochaines années en tant qu'étudiante de cette technique. Cependant, ce que je changerais serait de mettre en valeur le processus de création et non seulement le dispositif finalement, lors de la présentation, je trouve que le processus met en valeur le projet fini, montrant le travail derrière un dispositif aussi complet ainsi que la persévérance de l'équipe à travers les problèmes.
  
-Malgré cela, comparé à plusieurs dispositifs que j'ai pu voir par le passé, plus d'informations étaient disponibles sur place pour les plus intéressés, nous permettant ainsi de suivre le progrès des équipes au cours des semaines! Ce qui a été une grande source d'inspiration pour écrire cette fiche!
+Malgré cela, comparé à plusieurs dispositifs que j'ai pu voir par le passé, plus d'informations étaient disponibles sur place pour les plus intéressés, nous permettant ainsi de suivre la progression des équipes au cour des semaines! Ce qui a été une grande source d'inspiration pour écrire cette fiche!
  
-
-
-
 ## Réferences
 Sources https://tim-montmorency.com/2025/#/
 
