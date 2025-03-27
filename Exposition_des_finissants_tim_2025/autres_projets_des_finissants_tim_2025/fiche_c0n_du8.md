@@ -1,6 +1,6 @@
 # *C0N-DU8*
 
-C0n-du0, est un projet multimédia réaliser par des finissants de l'hiver 2025 de la Technique d'Intégration Multimédia au collège Montmorency. Ils ont été réalisés dans le cadre du cour 'Expérience multimédia' donné lors de leur dernière session. Ce cours a été encadré par `Guillaume Arseneault` et `Thomas Ouellet Fredericks`. La réalisation de ce projet a également été rendue possible grâce à l’appui de `William Racine` et `Antoine Allard`, techniciens de travaux pratiques en Technique d'Intégration Multimédias.<br>
+C0n-du0, est l'un des projet multimédia inclu dans l'exposition resonance réaliser par des finissants de l'hiver 2025 de la Technique d'Intégration Multimédia au collège Montmorency. Ils ont été réalisés dans le cadre du cour 'Expérience multimédia' donné lors de leur dernière session. Ce cours a été encadré par `Guillaume Arseneault` et `Thomas Ouellet Fredericks`. La réalisation de ce projet a également été rendue possible grâce à l’appui de `William Racine` et `Antoine Allard`, techniciens de travaux pratiques en Technique d'Intégration Multimédias.<br>
 
 L’exposition s’est tenue au <ins>`Collège Montmorency`</ins> dans la salle C-1712 et C-1710 durant la semaine du `16 mars 2025`!<br>
 
@@ -10,7 +10,13 @@ Ma visite du lieu a eu lieu le 18 mars 2025.<br>
 
 ***
  
-## Pourquoi ai-je créé cette fiche?
+## Pourquoi es-ce mon preféré?
+Je trouve que C0N-DU8 est originale tout autant dans son design neon, la facon d'ont les visiteurs doivent intéragir avec le dispositif et son histoire!
+
+### Son design
+
+
+
 Je suis ravie d’avoir eu l’occasion d’assister à l’exposition des finissants 2025. J’ai donc décidé de `partager mes observations` sur les différents projets que j’ai explorés dans les studios TIM de Montmorency, classés ici par `ordre de préférence`!
 
 ## Au départ
@@ -23,7 +29,7 @@ L’exposition comptait `sept installations en tout`, dont six documentées ici.
 
 ***
 
-## Internature (2ème place)
+## C0N-
 ![Internature](medias/internature.jpg)
 <i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
 
