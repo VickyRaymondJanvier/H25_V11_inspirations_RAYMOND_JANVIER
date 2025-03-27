@@ -22,7 +22,7 @@ Cette exposition a sept expositions, six sont documentées ici, si vous voulez v
 ***
 
 ## Internature
-![internature](./media/internature.jpg)
+![Internature](medias/Internature.jpg)
 
 
 Internature est
