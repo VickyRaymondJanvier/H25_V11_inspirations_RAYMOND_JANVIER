@@ -161,23 +161,28 @@ Sources
 Ce dispositif a été crée par : `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` et `Yavuz-Selim Gucluer`
 
 ----------------------------
+##Intention
 
-## Intention
-Le but est de permettre au visiteur de crée une foret grace a un capteur de mouvement.
+L’objectif de cette exposition est d’offrir au visiteur la possibilité de créer une forêt interactive grâce à l’utilisation d’un dispositif de capteurs de mouvement.
 
-## Visuel
-Lorsque nous apercevons cette exposition, nous pouvons y appercevoir trois écran accrocher a une lianne montante. Chaque écran sont doté d'un haut parleur ainsi que trois capteur de mouvement devant.
+##Visuel
+
+À l’entrée de l’exposition, le visiteur découvre un dispositif composé de trois écrans suspendus à une liane montant vers le plafond. Chaque écran est équipé de haut-parleurs et dispose de trois capteurs de mouvement positionnés devant, permettant ainsi une interaction directe avec l’environnement virtuel.
 
 ![Planation_Fuga](medias/plantation_fuga.jpg)
 <i>La planation de Fuga | **[Voici la source de l'image!](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/) **<i>
 
-## Interactions
+
+##Interactions
+
 Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
 
-## Premières impressions
-Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction. 
+##Premières impressions
 
-## Conclusion
+Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction.
+
+##Conclusion
+
 Selon moi, le résultat final reflete vraiment l'intension de l'équipe et ce démarque du style classic de la majorité des autre expositions, on peux voir que ce projet cache une histoire et te rend curieux de vouloir de la connaitre. Dans cette disposition, nous pouvons resentir la liberté de création et le coté mystérieux de l'histoire.
 
 ## Cours primordiaux
