@@ -102,7 +102,7 @@ Pour avoir plus d'informations sur les cours : **[Grille de cours de la Techniqu
 J'ai trouvé que l'espace de jeu était assez restreint, ce qui rendait difficile d'éviter les ennemis. Peut-être que des personnages plus petits ou une meilleure vue seraient des solutions à envisager. J'ai aussi trouvé que les trois pouvoirs des personnages n'étaient pas bien équilibrés. L'un d'eux n'apportait pas beaucoup d'avantages dans ce type de niveau.
 
 ## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Th9Osda2cKk)**<br>
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Th9Osda2cKk)** <br>
 Plus d'information : **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
 
 Sources
