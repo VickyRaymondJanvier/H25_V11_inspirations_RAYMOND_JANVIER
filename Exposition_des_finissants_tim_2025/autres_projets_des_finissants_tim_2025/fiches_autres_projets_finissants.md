@@ -34,7 +34,7 @@ Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler l
 ## Visuel
 L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` ainsi que de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.<br><br>
 ![Planation_Internature](medias/plantation_internature.jpg)
-<i>La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**<i>
+<i>La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)** <i>
 
 ## Interactions
 La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
@@ -59,8 +59,8 @@ Pour avoir plus d'informations sur les cours : **[Grille de cours de la Techniqu
 Si c'était à moi de concevoir l'installation, je choisirais de `fermer complètement les deux entrées de la serre` afin de créer une `immersion totale`, sans distraction extérieure. Dans cette optique, je proposerais d’`ajouter une texture naturelle` en corélation avec les projections, afin de créer un environnement `cohérent` et `organique`.
 
 ## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s)**<br>
-Plus d'information : **[Github d'Internature](https://tprangers.github.io/internature/#)**<br><br>
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s)** <br>
+Plus d'information : **[Github d'Internature](https://tprangers.github.io/internature/#)** <br><br>
 Sources
 > **[Github d'Internature](https://tprangers.github.io/internature/#)**
 
@@ -79,7 +79,7 @@ Ce dispositif a été crée par : `Joshua Gonzalez-Barrera`, `Victor Gileau`, `M
 L’installation se présente sous la forme d'un jeu vidéo utilisant une `projection animée`, s'inspirant des codes des jeux de `défense de tours`. Le tout est projeté sur une table gris pâle, avec trois cylindres dotés d'un code QR, permettant de les utiliser comme pions pour contrôler ton personnage.<br><br>
 
 ![Planation_internature](medias/plantation_etheria.jpg)
-<i>La planation d'Etheria | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)**<i>
+<i>La planation d'Etheria | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)** <i>
 
 ## Interactions
 Bouger les cylindres permet de `déplacer ton personnage`, qui peut ainsi se battre. `Trois joueurs` peuvent y jouer simultanément, chacun ayant des pouvoirs différents et des `bonus` à récupérer en glissant le cylindre sur l'icône de bonus.
@@ -98,7 +98,7 @@ Le cour de d'`animation 2D`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
-## Améliorations - ----------
+## Améliorations
 J'ai trouvé que l'espace de jeu était assez restreint, ce qui rendait difficile d'éviter les ennemis. Peut-être que des personnages plus petits ou une meilleure vue seraient des solutions à envisager. J'ai aussi trouvé que les trois pouvoirs des personnages n'étaient pas bien équilibrés. L'un d'eux n'apportait pas beaucoup d'avantages dans ce type de niveau.
 
 ## Autre informations
@@ -108,7 +108,7 @@ Plus d'information : **[Github Etheria](https://ethereal-creators.github.io/Ethe
 Sources
 > **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
 
-*** -------------------------‐---‐‐
+***
 
 ## Luminatura (4ème place)
 ![Etheria](medias/luminatura.jpg)
@@ -126,13 +126,15 @@ D'un point de vue visuel, de grandes fleurs blanches sont suspendues au plafond,
 <i>La planation de Luminatura | **[Voici la source de l'image!](https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/) **<i>
 
 ## Interactions
-En frottant nos mains sur les plaques métalliques, une interaction se déclenche à l'écran, nous permettant de moduler à la fois le son et les visuels. Les sons créés nous plongent dans une atmosphère apaisante et sereine.
+En frottant nos mains sur les plaques métalliques, une interaction se déclenche à l'écran, nous permettant de jouer avec, à la fois le son et les visuels. Les sons créés nous plongent dans une atmosphère apaisante et sereine.
 
 ## Premières impressions
 L’esthétique de l’installation et la simplicité de l'expérience m'ont attiré vers celle-ci. Intrigué par les plaques métalliques, j’ignorais leur fonction jusqu’avant mon utilisation.
 
+L’esthétique soignée de l’installation et la simplicité de l’expérience m’ont immédiatement attiré. Intrigué par les plaques métalliques, j’ignorais leur fonction jusqu’au moment de l’interaction, ce qui a renforcé ma curiosité et mon envie d’exploration.
+
 ## Conclusion
-Luminatura m’a offert une expérience immersive unique, où la fusion entre nature et technologie prend vie à travers une interaction simple et poétique. Toucher la plaque métallique et voir la lumière et le son réagir à ma présence m’a fait prendre conscience de notre propre conductivité et de notre pouvoir d’influencer notre environnement. L’esthétique soignée de l’installation, combinée à l’atmosphère apaisante créée par les fleurs lumineuses, les vignes et les sons naturels, m’a transporté dans un univers paisible et calme.
+Luminatura m’a offert une expérience immersive unique où la nature et la technologie fusionnent à travers une interaction à la fois simple et poétique. Toucher la plaque métallique et observer la lumière et le son réagir à mon touché m’a fait prendre conscience de notre propre conductivité et de notre capacité à influencer notre environnement. L’harmonie entre l’esthétique raffinée de l’installation, les fleurs lumineuses, les vignes et les sons inspirés de la nature m’a transporté dans un univers de calme et de sérénité.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
@@ -147,7 +149,7 @@ Luminatura m’a aussi laissé entrevoir un potentiel encore plus vaste. J’aur
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))** <br>
-Plus d'information : **[Github Etheria](https://miaou-mafia.github.io/projet-luminatura/#/))**
+Plus d'information : **[Github Etheria](https://miaou-mafia.github.io/projet-luminatura/#/)**
 
 Sources
 > **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
@@ -160,7 +162,6 @@ Sources
 
 Ce dispositif a été crée par : `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` et `Yavuz-Selim Gucluer`
 
-----------------------------
 ##Intention
 
 L’objectif de cette exposition est d’offrir au visiteur la possibilité de créer une forêt interactive grâce à l’utilisation d’un dispositif de capteurs de mouvement.
@@ -172,16 +173,14 @@ L’objectif de cette exposition est d’offrir au visiteur la possibilité de c
 ![Planation_Fuga](medias/plantation_fuga.jpg)
 <i>La planation de Fuga | **[Voici la source de l'image!](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/) **<i>
 
-
 ##Interactions
-
 Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
 
 ##Premières impressions
-
 Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction.
 
 ##Conclusion
+
 
 Selon moi, le résultat final reflete vraiment l'intension de l'équipe et ce démarque du style classic de la majorité des autre expositions, on peux voir que ce projet cache une histoire et te rend curieux de vouloir de la connaitre. Dans cette disposition, nous pouvons resentir la liberté de création et le coté mystérieux de l'histoire.
 
