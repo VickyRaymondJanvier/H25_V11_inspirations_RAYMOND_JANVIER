@@ -31,7 +31,7 @@ L’exposition comptait `sept installations en tout`, dont six documentées ici.
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
 
 ## Intention
-Internature est un tunnel interactif permettant aux visiteurs de contrôler la croissance de la nature autour d’eux.
+Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler la croissance de la nature` autour d’eux.
 
 ## Visuel
 L’installation prend la forme d’une serre entourée de projections animées de faune et de flore. Au centre, une sphère lumineuse est posée sur un pilier en bois, servant d’élément interactif principal.
