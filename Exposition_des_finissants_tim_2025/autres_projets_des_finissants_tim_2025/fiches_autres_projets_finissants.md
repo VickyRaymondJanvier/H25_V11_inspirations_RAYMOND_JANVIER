@@ -7,17 +7,23 @@ Résonance est un <ins>`projets multimedias`</ins> réalisé par les finissants 
 
 Cette exposition est donc `temporaire.` Le type d'installation est `contemplative, immersive et interactive!` <br><br>
 
-Ma visit du lieu a été affectuer le 18 mars 2025!
-<br>
+Ma visite du lieu a eu lieu le 18 mars 2025.<br>
+
 ***
  
 ## Pourquoi ai-je créé cette fiche?
-Personnellement, je suis contente d'avoir eu la chance d'être à l'exposition des finissants 2025, voici donc pourquoi j'ai donc décidé de vous mettre mes observations des projets durant exploration des studios TIM de Montmorency par ordre de préférence!
+Je suis ravie d’avoir eu l’occasion d’assister à l’exposition des finissants 2025. J’ai donc décidé de partager mes observations sur les différents projets que j’ai explorés dans les studios TIM de Montmorency, classés ici par ordre de préférence!
+
+
+Avant de me rendre à l’exposition Résonance, j’étais intriguée par le concept des installations multimédias interactives. Je me demandais comment la technologie et l’art allaient être combinés pour créer une expérience immersive. J’avais aussi hâte de voir comment les étudiants avaient exploité la lumière, le son et l’interaction pour plonger le spectateur dans des univers uniques.
+
+En lisant la description de l’événement, j’imaginais des espaces sombres où les œuvres ressortiraient grâce à des jeux de lumière et de projection. Je m’attendais à être transportée dans des mondes numériques où mes actions influenceraient directement l’environnement. J’étais particulièrement curieuse de découvrir comment chaque installation allait éveiller mes émotions et me faire réfléchir sur des thèmes comme la nature, la perception et l’interactivité.
+
 
 ## Appréciation générale
-J'ai trouvé que la présentation et l'ambiance faisaient le fort de l'expérience, les deux pièces regroupant les expositions étaient plongées dans l'obscurité avec une luminosité assez basse ainsi qu'un côté nature et végétation, ce qui faisait ressortir les expositions en leur donnant un look magique et mystérieux!
- 
-Cette exposition a sept expositions au total, six sont documentées ici, si vous voulez voir la 7ème, aller voir ma fiche sur mon exposition préféré ici : OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+J’ai trouvé que la présentation et l’ambiance étaient les points forts de l’expérience. Les deux salles regroupant les installations étaient plongées dans une obscurité tamisée, avec une lumière basse et une mise en scène végétale qui renforçait l’effet immersif. Cet univers donnait aux installations une atmosphère magique et mystérieuse qui les mettait en valeur.
+
+L’exposition comptait sept installations en tout, dont six documentées ici. Si vous souhaitez découvrir la septième, qui est mon coup de cœur, rendez-vous sur ma fiche dédiée ici : [Lien vers la fiche].
 ***
 
 ## Internature (2ème place)
@@ -27,11 +33,12 @@ Cette exposition a sept expositions au total, six sont documentées ici, si vous
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
 
 ## Intention
-Internature est un tunnel intéractif nous permettant de controler la croissance de la nature autour de nous.
+Internature est un tunnel interactif permettant aux visiteurs de contrôler la croissance de la nature autour d’eux.
 
 ## Visuel
-Nous pouvons y voir une serre entouré de projections de faune ainsi qu'une sphère au millieu de celle-ci sur un pillier en bois
+L’installation prend la forme d’une serre entourée de projections animées de faune et de flore. Au centre, une sphère lumineuse est posée sur un pilier en bois, servant d’élément interactif principal.
 ![Planation_internature](medias/plantation_internature.jpg)
+<i>La planation d'Internature | **[Voici la source!](https://ecommerce.centredessciencesdemontreal.com/)**
 ### Interactions
 La spère du millieu pouvais tourné, nous permettant de faire grandir la nature autour de nous
 
@@ -69,5 +76,6 @@ L'exposition Internature | Source : Etheria GitHub (https://ethereal-creators.gi
 Malgré cela, comparé à plusieurs dispositifs que j'ai pu voir par le passé, plus d'informations étaient disponibles sur place pour les plus intéressés, nous permettant ainsi de suivre le progrès des équipes au cours des semaines! Ce qui a été une grande source d'inspiration pour écrire cette fiche!
  
 ## Réferences
+Sources https://tim-montmorency.com/2025/#/
 > Toutes les photos ont été prise par Vicky Raymond-Janvier avec un  <BR>
 > 📍Colege montmorency, QC, Canada, salle C1712
