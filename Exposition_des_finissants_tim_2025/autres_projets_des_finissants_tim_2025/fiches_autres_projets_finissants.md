@@ -102,7 +102,7 @@ Pour avoir plus d'informations sur les cours : **[Grille de cours de la Techniqu
 J'ai trouvé que l'espace de jeu était assez restreint, ce qui rendait difficile d'éviter les ennemis. Peut-être que des personnages plus petits ou une meilleure vue seraient des solutions à envisager. J'ai aussi trouvé que les trois pouvoirs des personnages n'étaient pas bien équilibrés. L'un d'eux n'apportait pas beaucoup d'avantages dans ce type de niveau.
 
 ## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Th9Osda2cKk](https://www.youtube.com/watch?v=Th9Osda2cKk)**
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Th9Osda2cKk)**
 Plus d'information : **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
 
 Sources
@@ -117,36 +117,33 @@ Sources
 Ce dispositif a été crée par : `Audrey Dandurand`, `Justine Rousseau`, `Camilia Bouatmani`, `Prethiah Rajaratnam` et `Ihab Mouhajer`
 
 ## Intention
-Luminatica consiste à mélanger l'art et la technologie, permettant une immersion sonore et visuelle. Les visiteurs peuvent contrôler des lumières relaxantes ainsi que des sons apaisants, rappelant l'ambiance douce d'une forêt.
+Luminatura consiste à mélanger l'art et la technologie, permettant une immersion sonore et visuelle. Les visiteurs peuvent contrôler des lumières relaxantes ainsi que des sons apaisants, rappelant l'ambiance douce d'une forêt.
 
 ## Visuel
-Visuellement nous pouvons apercevoir de grandes fleurs blanches accrocher au plafond
+D'un point de vue visuel, de grandes fleurs blanches sont suspendues au plafond, accompagnées de lampes décoratives. On remarque également trois plaques métalliques, chacune équipée d'une stéréo.
 
-
-L’installation se présente sous la forme d'un jeu vidéo utilisant une projection animée, s'inspirant des codes des jeux de défense de tours. Le tout est projeté sur une table gris pâle, avec trois cylindres dotés d'un code QR, permettant de les utiliser comme pions pour contrôler ton personnage.<br><br>
-
-![Planation_internature](medias/plantation_etheria.jpg)
-<i>La planation d'Etheria | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)**<i>
+![Planation_internature](medias/plantation_luminatura.jpg)
+<i>La planation de Luminatura | **[Voici la source de l'image!](https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/)**<i>
 
 ## Interactions
-Bouger les cylindres permet de déplacer ton personnage, qui peut ainsi se battre. Trois joueurs peuvent y jouer simultanément, chacun ayant des pouvoirs différents et des bonus à récupérer en glissant le cylindre sur l'icône de bonus.
+En frottant nos mains sur les plaques métalliques, une interaction se déclenche à l'écran, nous permettant de moduler à la fois le son et les visuels. Les sons créés nous plongent dans une atmosphère apaisante et sereine.
 
 ## Premières impressions
-La simplicité de l'installation m'a interpelé, dès mon approche, j'ai pu apercevoir un logo me faisant de l'oeil avec ses mouvements et couleurs vives, ce qui m'a tout de suite donné envie d'y jouer.
+L’esthétique de l’installation et la simplicité de l'expérience m'ont attiré vers celle-ci. Intrigué par les plaques métalliques, j’ignorais leur fonction jusqu’avant mon utilisation.
 
 ## Conclusion
-Ce qui m'a particulièrement marqué dans l'expérience d'Étheria, c'est l'aspect immersif du jeu et la collaboration entre les joueurs. La nécessité de défendre ensemble la pierre d'Étheria face aux vagues d'ennemis crée une dynamique de groupe intense, où chaque action a un impact sur la réussite collective. L'ambiance visuelle en pixel art et les sons rétro ajoutent une touche nostalgique tout en renforçant l'immersion dans cet univers fantastique. À travers ce jeu, j'ai ressenti un véritable esprit d'équipe et une poussée d'adrénaline, ce qui m'a incité à m'investir pleinement dans l'aventure. Cette expérience figure dans mon top trois justement à cause de l'intensité de l'expérience vécue avec mes coéquipiers.
+Luminatura m’a offert une expérience immersive unique, où la fusion entre nature et technologie prend vie à travers une interaction simple et poétique. Toucher la plaque métallique et voir la lumière et le son réagir à ma présence m’a fait prendre conscience de notre propre conductivité et de notre pouvoir d’influencer notre environnement. L’esthétique soignée de l’installation, combinée à l’atmosphère apaisante créée par les fleurs lumineuses, les vignes et les sons naturels, m’a transporté dans un univers paisible et calme.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
-Le cour de `traitement audiovisuel `<br>
-Le cour d'`interactivité ludique `<br>
-Le cour de d'`animation 2D`<br>
+Le cour de ``<br>
+Le cour d'``<br>
+Le cour de d'`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-J'ai trouvé que l'espace de jeu était assez restreint, ce qui rendait difficile d'éviter les ennemis. Peut-être que des personnages plus petits ou une meilleure vue seraient des solutions à envisager. J'ai aussi trouvé que les trois pouvoirs des personnages n'étaient pas bien équilibrés. L'un d'eux n'apportait pas beaucoup d'avantages dans ce type de niveau.
+Luminatura m’a aussi laissé entrevoir un potentiel encore plus vaste. J’aurais aimé pouvoir explorer une interactivité diverse, un contrôle plus fin sur les variations lumineuses et sonores, afin de véritablement sculpter l’ambiance à mon rythme et selon mes sensations.
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))**
