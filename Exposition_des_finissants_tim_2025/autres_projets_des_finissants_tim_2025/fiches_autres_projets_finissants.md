@@ -60,7 +60,7 @@ Si c'était à moi de concevoir l'installation, je choisirais de `fermer complè
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s)**<br>
-Plus d'information : **[Github d'Internature](https://tprangers.github.io/internature/#)**
+Plus d'information : **[Github d'Internature](https://tprangers.github.io/internature/#)**<br>
 Sources
 > **[Github d'Internature](https://tprangers.github.io/internature/#)**
 
