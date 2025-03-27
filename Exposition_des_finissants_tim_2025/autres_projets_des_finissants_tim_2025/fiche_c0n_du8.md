@@ -15,21 +15,24 @@ Je trouve que C0N-DU8 est originale tout autant dans son design neon, la facon d
 
 ### Son design
 
+### Son intéractivité
 
+### Son histoire
 
-Je suis ravie d’avoir eu l’occasion d’assister à l’exposition des finissants 2025. J’ai donc décidé de `partager mes observations` sur les différents projets que j’ai explorés dans les studios TIM de Montmorency, classés ici par `ordre de préférence`!
+## Premières impressions
+Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont immédiatement capté mon attention. La `musique d’ambiance`, rappelant une forêt enchantée, m’a plongée dans une `atmosphère immersive` avant même d’entrer dans l’installation.
 
-## Au départ
 Avant ma visite aux studios TIM, je me demandais comment les étudiants en multimédia parviendraient à `créer des expériences interactives et immersives` liées à leur thématique, tout en utilisant les `compétences` qu'ils ont acquises au cours de leur `formation en technique d'intégration multimédia`!
 
 ## Appréciation générale
+
+
 J’ai trouvé que la `présentation` et `l’ambiance` étaient les points forts de l’expérience. Les deux salles regroupant les installations étaient plongées dans une `obscurité tamisée`, avec une lumière basse et une `mise en scène végétale` qui renforçait l’effet immersif. Cet univers donnait aux installations une `atmosphère magique` et `mystérieuse` qui les mettait en valeur.
 
-L’exposition comptait `sept installations en tout`, dont six documentées ici. Si vous souhaitez découvrir la septième, qui est mon coup de cœur, rendez-vous sur ma fiche dédiée ici : **[C0N-0U8]()**
 
 ***
 
-## C0N-
+## C0N-DU8
 ![Internature](medias/internature.jpg)
 <i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
 
@@ -46,8 +49,22 @@ L’installation prend la forme d’une `serre` entourée de `projections animé
 ## Interactions
 La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
 
-## Premières impressions
-Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont immédiatement capté mon attention. La `musique d’ambiance`, rappelant une forêt enchantée, m’a plongée dans une `atmosphère immersive` avant même d’entrer dans l’installation.
+### Theme sonore
+
+### Theme visuel
+
+## Composantes
+
+## Applications utilisé
+
+## Montant
+
+
+
+
+
+
+
 
 Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à `attirer mon regard`. Son `ampleur` et son `esthétisme` m’ont donné l’envie de la découvrir.
 
