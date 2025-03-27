@@ -55,7 +55,7 @@ Le cour de `réalité mixte`<br>
 Le cour d'`installation multimédia`<br>
 Le cour de `conception d’une expérience multimédia`<br>
 
-Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
+Pour avoir plus d'informations sur les cours : [Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
 
 ## Amélioration
 Si c'était à moi de concevoir l'installation, je choisirais de fermer complètement les deux entrées de la serre afin de créer une immersion totale, sans distraction extérieure. Dans cette optique, je proposerais d’ajouter une texture naturelle en corélation avec les projections, afin de créer un environnement cohérent et organique.
