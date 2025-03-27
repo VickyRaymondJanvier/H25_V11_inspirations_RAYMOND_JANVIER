@@ -168,7 +168,7 @@ Le but est de permettre au visiteur de crée une foret grace a un capteur de mou
 ## Visuel
 Lorsque nous apercevons cette exposition, nous pouvons y appercevoir trois écran accrocher a une lianne montante. Chaque écran sont doté d'un haut parleur ainsi que trois capteur de mouvement devant.
 
-![Planation_Fuga](medias/plantation_fuga.jpg)
+![Planation_Fuga](medias/plantation_fuga.png)
 <i>La planation de Fuga | **[Voici la source de l'image!](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/) **<i>
 
 ## Interactions
