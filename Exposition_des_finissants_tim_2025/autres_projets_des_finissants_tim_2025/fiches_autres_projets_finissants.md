@@ -18,7 +18,7 @@ Avant ma visite aux studios TIM, je me demandais comment les étudiants en multi
 ## Appréciation générale
 J’ai trouvé que la `présentation` et `l’ambiance` étaient les points forts de l’expérience. Les deux salles regroupant les installations étaient plongées dans une `obscurité tamisée`, avec une lumière basse et une `mise en scène végétale` qui renforçait l’effet immersif. Cet univers donnait aux installations une `atmosphère magique` et `mystérieuse` qui les mettait en valeur.
 
-L’exposition comptait `sept installations en tout`, dont six documentées ici. Si vous souhaitez découvrir la septième, qui est mon coup de cœur, rendez-vous sur ma fiche dédiée ici : **[C0N-0U8]()**
+L’exposition comptait `sept installations en tout`, dont six documentées ici. Si vous souhaitez découvrir la septième, qui est mon coup de cœur, rendez-vous sur ma fiche dédiée ici : **[C0N-0U8](https://github.com/VickyRaymondJanvier/H25_V11_inspirations_RAYMOND_JANVIER/edit/main/Exposition_des_finissants_tim_2025/autres_projets_des_finissants_tim_2025/fiche_c0n_du8.md)**
 
 ***
 
