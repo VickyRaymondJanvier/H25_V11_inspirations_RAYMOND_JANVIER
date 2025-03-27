@@ -168,35 +168,41 @@ Le but est de permettre au visiteur de crée une foret grace a un capteur de mou
 ## Visuel
 Lorsque nous apercevons cette exposition, nous pouvons y appercevoir trois écran accrocher a une lianne montante. Chaque écran sont doté d'un haut parleur ainsi que trois capteur de mouvement devant.
 
-![Planation_internature](medias/plantation_fuga.jpg)
-<i>La planation de Luminatura | **[Voici la source de l'image!]() **<i>
+![Planation_Fuga](medias/plantation_fuga.jpg)
+<i>La planation de Fuga | **[Voici la source de l'image!](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/) **<i>
 
 ## Interactions
-En frottant nos mains sur les plaques métalliques, une interaction se déclenche à l'écran, nous permettant de moduler à la fois le son et les visuels. Les sons créés nous plongent dans une atmosphère apaisante et sereine.
+Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
 
 ## Premières impressions
-L’esthétique de l’installation et la simplicité de l'expérience m'ont attiré vers celle-ci. Intrigué par les plaques métalliques, j’ignorais leur fonction jusqu’avant mon utilisation.
+Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction. 
 
 ## Conclusion
-Luminatura m’a offert une expérience immersive unique, où la fusion entre nature et technologie prend vie à travers une interaction simple et poétique. Toucher la plaque métallique et voir la lumière et le son réagir à ma présence m’a fait prendre conscience de notre propre conductivité et de notre pouvoir d’influencer notre environnement. L’esthétique soignée de l’installation, combinée à l’atmosphère apaisante créée par les fleurs lumineuses, les vignes et les sons naturels, m’a transporté dans un univers paisible et calme.
+Selon moi, le résultat final reflete vraiment l'intension de l'équipe et ce démarque du style classic de la majorité des autre expositions, on peux voir que ce projet cache une histoire et te rend curieux de vouloir de la connaitre. Dans cette disposition, nous pouvons resentir la liberté de création et le coté mystérieux de l'histoire.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
-Le cour de ``<br>
-Le cour d'``<br>
-Le cour de d'`<br>
+Le cour d'`interactivité ludique`<br>
+Le cour d'`animation 2d`<br>
+Le cour de` d'installation multimédia`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-Luminatura m’a aussi laissé entrevoir un potentiel encore plus vaste. J’aurais aimé pouvoir explorer une interactivité diverse, un contrôle plus fin sur les variations lumineuses et sonores, afin de véritablement sculpter l’ambiance à mon rythme et selon mes sensations.
+Si j'aurais a améliorer ce projet, je me concenterais surtout sur le décors créable avec le capteur, faire plusieurs saison ou plusieurs type d'animation d'épendant du mouvement faite par l'utilisateur.
 
 ## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))** <br>
-Plus d'information : **[Github Etheria](https://miaou-mafia.github.io/projet-luminatura/#/))**
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=e6qNc1Dp68Q)** <br>
+Plus d'information : **[Github Fuga](https://escapism-fuga.github.io/Fuga/#/)**
 
 Sources
-> **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
+> **[Github Fuga](https://escapism-fuga.github.io/Fuga/#/)**
+
+
+
+
+
+
 
 
 
@@ -206,29 +212,15 @@ Sources
 ## Arcadia
 
 
-Fuga
-Interactivité ludique
-Animation 2d
-Installation multimédia
- 
- 
  
 Prismatica
 Interactivité ludique 
 Traitement audiovisuel
  
- 
- 
 Arcania
 Interactivité ludique
 Programmation interactive
 Traitement audiovisuel
-
-C0n-du8
-Objets interactifs
-Animation 3d
-Interactivité ludique
- 
 
  
 ## Amélioration
