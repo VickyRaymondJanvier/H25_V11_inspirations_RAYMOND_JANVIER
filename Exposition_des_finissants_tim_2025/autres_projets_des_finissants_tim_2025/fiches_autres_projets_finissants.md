@@ -8,16 +8,21 @@ Cette exposition a eu lieu au cours de la semaine du `16 mars 2025` au<ins>`coll
 
 Cette exposition est donc `temporaire.` Le type d'installation est `contemplative, immersive et interactive!` <br><br>
 
-Ma visit du lieu a été affctuer le 18 mars 2025!
+Ma visit du lieu a été affectuer le 18 mars 2025!
 <br>
 ***
  
 ## Pourquoi ai-je créé cette fiche?
 Personnellement, je suis contente d'avoir eu la chance d'être à l'exposition des finissants 2025, voici donc pourquoi j'ai donc décidé de vous mettre mes observations des projets durant exploration des studios TIM de Montmorency par ordre de préférence!
 
+## Appréciation générale
+J'ai trouvé que la présentation et l'ambiance faisaient le fort de l'expérience, les deux pièces regroupant les expositions étaient plongées dans l'obscurité avec une luminosité assez basse ainsi qu'un côté nature et végétation, ce qui faisait ressortir les expositions en leur donnant un look magique et mystérieux!
+ 
+Cette exposition a sept expositions, six sont documentées ici, si vous voulez voir la 7ème, aller voir ma fiche sur mon exposition préféré ici : OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ***
-## Internature
 
+## Internature
+Photo 00000000000000000000000000000000000
 Internature est
 ## Description
  
