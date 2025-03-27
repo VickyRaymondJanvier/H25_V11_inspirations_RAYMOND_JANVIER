@@ -36,7 +36,7 @@ Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler l
 ## Visuel
 L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` et de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.
 ![Planation_internature](medias/plantation_internature.jpg)
-La planation d'Internature | **[Voici la source!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
+La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
 
 ### Interactions
 La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
@@ -71,8 +71,7 @@ Plus d'information : https://tprangers.github.io/internature/#/
 
 
 L'exposition Internature | Photo prise par Vicky Raymond-Janvier
-L'exposition Internature | Source : Etheria GitHub (https://ethereal-creators.github.io/Etheria/#/)
-
+La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
 
 ## Etheria
 
