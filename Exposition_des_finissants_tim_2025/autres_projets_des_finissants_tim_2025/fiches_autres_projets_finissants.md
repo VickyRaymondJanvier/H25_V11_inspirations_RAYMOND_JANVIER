@@ -12,7 +12,7 @@ Ma visite du lieu a eu lieu le 18 mars 2025.<br>
 ***
  
 ## Pourquoi ai-je créé cette fiche?
-Je suis ravie d’avoir eu l’occasion d’assister à l’exposition des finissants 2025. J’ai donc décidé de partager mes observations sur les différents projets que j’ai explorés dans les studios TIM de Montmorency, classés ici par ordre de préférence!
+Je suis ravie d’avoir eu l’occasion d’assister à l’exposition des finissants 2025. J’ai donc décidé de `partager mes observations` sur les différents projets que j’ai explorés dans les studios TIM de Montmorency, classés ici par `ordre de préférence`!
 
 ## Au départ
 Avant ma visite aux studios TIM, je me demandais comment les étudiants en multimédia parviendraient à créer des expériences interactives et immersives liées à leur thématique, tout en utilisant les compétences qu'ils ont acquises au cours de leur formation en technique d'intégration multimédia!
