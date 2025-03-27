@@ -249,11 +249,12 @@ Sources
 <i>L'exposition Prismatica | Photo prise par Vicky Raymond-Janvier</i>
 
 Ce dispositif a été crée par : `Vincent Delisle`, `Ikrame Rata` et Jérémy Duverseau`
+
 ## Intention
-L'objectif est de permettre au visiteur de créer une forêt en temps réel, simplement en utilisant un capteur de mouvement, transformant l’espace environnant en un paysage forestier interactif.
+Calme, intéractif, créatif
 
 ## Visuel
-
+Plusieurs couleurs de crayons devant une tablette pour dessiner avec un grand écran devant.
 
 ![Planation_plastimatica](medias/plantation_prismatica.jpg)
 <i>La planation de Plastimatica | **[Voici la source de l'image!](https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/) **<i>
@@ -261,9 +262,6 @@ L'objectif est de permettre au visiteur de créer une forêt en temps réel, sim
 ## Interactions
 Avec un crayon, tu as la possibilité de choisir parmi plusieurs couleurs différentes, sur la tablette devant toi, tu peux dessiner, et l'écran réagit en fonction des couleurs et des sons en fonction de l'endroit où tu dessines.
 
-## Premières impressions
-
-## Conclusion
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
@@ -274,7 +272,7 @@ Le cour de`Traitement audiovisuel`<br>
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-Meilleure control des couleurs
+Meilleure control des couleurs à l'écran
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=T_AHrgQZ-zI)** <br>
