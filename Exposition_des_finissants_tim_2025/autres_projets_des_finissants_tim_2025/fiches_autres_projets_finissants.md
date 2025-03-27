@@ -25,6 +25,8 @@ Cette exposition a sept expositions, six sont documentées ici, si vous voulez v
 ![Internature](medias/Internature.jpg)
 L'exposition Internature | Photo prise par Vicky Raymond-Janvier
 
+Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
+
 Internature est
 ## Description
  
@@ -43,7 +45,7 @@ Internature est
 
 
 
-
+L'exposition Internature | Photo prise par Vicky Raymond-Janvier
 L'exposition Internature | Source : Etheria GitHub (https://ethereal-creators.github.io/Etheria/#/)
 ## Etheria
 
