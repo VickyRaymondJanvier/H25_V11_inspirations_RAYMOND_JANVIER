@@ -26,7 +26,9 @@ J'ai beaucoup apprécié l'esthétique du jeu et le fait qu'il y ait un objectif
 
 ## C0N-DU8
 ![C0N-DU8](medias/c0n_du8_01.jpg)
-<i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
+<i>L'exposition C0N-DU8 | Photo prise par Vicky Raymond-Janvier</i>
+![C0N-DU8](medias/c0n_du8_02.jpg)
+<i>L'exposition C0N-DU8 | Photo prise par Vicky Raymond-Janvier</i>
 
 Ce dispositif a été crée par : `Ian Corbin`, `Samuel_Desmeules_Voyer` et `Alexandre_Gervais`, `Kevin_Malric
 
