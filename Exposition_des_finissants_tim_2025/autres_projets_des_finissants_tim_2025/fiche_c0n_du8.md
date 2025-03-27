@@ -13,21 +13,14 @@ Ma visite du lieu a eu lieu le 18 mars 2025.<br>
 ## Pourquoi es-ce mon preféré?
 Je trouve que C0N-DU8 est originale tout autant dans son design neon, la facon d'ont les visiteurs doivent intéragir avec le dispositif et son histoire!
 
-### Son design
-
-### Son intéractivité
-
-### Son histoire
+### l'histoire
+Des motards décédés sont piégés dans un purgatoire, forcés par un être nommé Le Malin à participer à des courses d'endurance éternelles. Peu importe s'ils gagnent ou perdent, ils sont condamnés à courir indéfiniment. Ceux qui restent trop longtemps derniers voient leur casque exploser.
 
 ## Premières impressions
-Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont immédiatement capté mon attention. La `musique d’ambiance`, rappelant une forêt enchantée, m’a plongée dans une `atmosphère immersive` avant même d’entrer dans l’installation.
-
-Avant ma visite aux studios TIM, je me demandais comment les étudiants en multimédia parviendraient à `créer des expériences interactives et immersives` liées à leur thématique, tout en utilisant les `compétences` qu'ils ont acquises au cours de leur `formation en technique d'intégration multimédia`!
+Au début, j'avais peur que ce soit moins bien que ce à quoi je m'attendais, mais je suis plutôt impressionné par ce qu'ils ont réussi à accomplir en si peu de temps.
 
 ## Appréciation générale
-
-
-J’ai trouvé que la `présentation` et `l’ambiance` étaient les points forts de l’expérience. Les deux salles regroupant les installations étaient plongées dans une `obscurité tamisée`, avec une lumière basse et une `mise en scène végétale` qui renforçait l’effet immersif. Cet univers donnait aux installations une `atmosphère magique` et `mystérieuse` qui les mettait en valeur.
+J'ai beaucoup apprécié l'esthétique du jeu et le fait qu'il y ait un objectif concret. La grande toile contribua énormément à l'immersion, rendant l'expérience encore plus captivante.
 
 ***
 
@@ -38,14 +31,17 @@ J’ai trouvé que la `présentation` et `l’ambiance` étaient les points fort
 Ce dispositif a été crée par : `Ian Corbin`, `Samuel_Desmeules_Voyer` et `Alexandre_Gervais`, `Kevin_Malric
 
 ## Intention
+L'intention du projet est de créer un univers immersif et captivant, en alliant des éléments visuels percutants à une dynamique de jeu stimulante. L'objectif est de plonger l'utilisateur dans un environnement interactif où l'engagement visuel et l'interactivité créent une expérience ludique unique, captivant à la fois l'attention et les réflexes du joueur.
 
 ## Visuel
+On pouvait y apercevoir une grande toile, avec un vélo stationnaire placé devant et deux haut-parleurs de chaque côté.
 <br><br>
 
 ![Planation_Internature](medias/plantation_internature.jpg)
 <i>La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**<i>
 
 ## Interactions
+Pédaler sur le vélo te permettait d'avancer dans le jeu, et en bougeant ton haut du corps, tu pouvais également te déplacer de gauche à droite.
 
 ### Theme sonore
 Le thème sonore est basé sur de la musique intense et de la musique Synthwave.
@@ -54,7 +50,7 @@ Le thème sonore est basé sur de la musique intense et de la musique Synthwave.
 Le thème visuel est basé sur un thème plutôt néon et futuriste.
 
 ## Composantes majeures
-PC<br>
+Ordinateur<br>
 Voltmètre<br>
 Kinect<br>
 Projecteur<br>
@@ -65,6 +61,8 @@ USB x 2<br>
 HDMI<br>
 Etherne<br>
 Câble XLR x 2<br>
+Projecteur<br>
+Toile<br>
 
 ## Applications utilisé
 Unity<br>
@@ -79,7 +77,7 @@ Reaper<br>
 Le montant total pouvant être mis dans ce projet était de 500$, le coût a été de seulement 284,25$.
 
 ## Conclusion
-C0N-DU8 était une expérience originale, 
+C0N-DU8 était une expérience unique. Ce que j'ai le plus apprécié, c'est d'avoir pu suivre tout le processus de création et observer son évolution, ce qui m'a permis d'apprécier encore d'avantage le résultat final. J'ai aussi aimé l'effort physique impliqué dans cette expérience et le style qui était radicalement différent des autres.
 
 
 ## Cours primordiaux
@@ -95,9 +93,9 @@ Le jeu est trop exigeant, ce qui rend difficile son achèvement. De plus, la cou
 
 ## Autre informations
 Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=uQutqaW_Ego)** <br>
-Plus d'information : **[Github d'Internature](https://gearshift-games.github.io/Web-C0N-DU8/#/)** <br><br>
+Plus d'information : **[Github C0N-DU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)** <br><br>
 Sources
-> **[Github d'Internature](https://gearshift-games.github.io/Web-C0N-DU8/#/)**
+> **[Github C0N-DU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)**
 
 ***
 
