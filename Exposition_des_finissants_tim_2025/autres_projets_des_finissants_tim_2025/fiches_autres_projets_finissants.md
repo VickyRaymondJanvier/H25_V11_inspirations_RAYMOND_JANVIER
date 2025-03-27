@@ -61,7 +61,7 @@ Pour avoir plus d'informations sur les cours : [Grille de cours de la Technique 
 Si c'était à moi de concevoir l'installation, je choisirais de fermer complètement les deux entrées de la serre afin de créer une immersion totale, sans distraction extérieure. Dans cette optique, je proposerais d’ajouter une texture naturelle en corélation avec les projections, afin de créer un environnement cohérent et organique.
 
 ## Autre informations
-Vidéo Promotionnelle : https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s
+Vidéo Promotionnelle : https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s<br>
 Plus d'information : https://tprangers.github.io/internature/#/
 
 Sources
