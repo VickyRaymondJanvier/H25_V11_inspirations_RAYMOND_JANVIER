@@ -68,7 +68,7 @@ Sources
 ***
 
 ## Etheria (3ème place)
-![Etheria](medias/.jpg)
+![Etheria](medias/etheria.jpg)
 <i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
 
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
@@ -78,8 +78,8 @@ Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler l
 
 ## Visuel
 L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` et de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.
-![Planation_internature](medias/plantation_internature.jpg)
-<i>La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**<i>
+![Planation_internature](medias/plantation_etheria.jpg)
+<i>La planation d'Internature | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)**<i>
 
 ## Interactions
 La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
@@ -106,9 +106,9 @@ Si c'était à moi de concevoir l'installation, je choisirais de `fermer complè
 ## Autre informations
 Vidéo Promotionnelle : https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s<br>
 Plus d'information : https://tprangers.github.io/internature/#/
-
+https://ethereal-creators.github.io/Etheria/#/?id=%c3%89theria
 Sources
-> **[Github d'Internature](https://tprangers.github.io/internature/#)**
+> **[Github d'Etheria]([https://tprangers.github.io/internature/#](https://ethereal-creators.github.io/Etheria/#/))**
 
 ## Luminatura
 
