@@ -259,9 +259,12 @@ L'intention dans ce dernier projet est de faire vivre un sentiment nostalgique a
 Nous pouvons y appercevoir une borne d'arcade retro noire incluant un écran incliné et pour jouer, une manette blanche et deux boutons de couleur jaune et rouge.
 
 ![Planation_Arcadia](medias/plantation_arcadia.jpg)
-<i>La planation de Arcadia | **[Voici la source de l'image!]() **<i>
+<i>La planation de Arcadia | **[Voici la source de l'image!](https://cousi-cousa.github.io/Arcadia/#/30_production/10_gestion_projet/)** <i>
 
 ## Interactions
+
+
+
 Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
 
 ## Premières impressions
