@@ -21,8 +21,8 @@ J'ai trouvé que la présentation et l'ambiance faisaient le fort de l'expérien
 Cette exposition a sept expositions au total, six sont documentées ici, si vous voulez voir la 7ème, aller voir ma fiche sur mon exposition préféré ici : OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ***
 
-## Internature (2ère place)
-![Internature](medias/Internature.jpg)
+## Internature (2ème place)
+![Internature](medias/internature.jpg)
 <i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
 
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
@@ -32,14 +32,17 @@ Internature est un tunnel intéractif nous permettant de controler la croissance
 
 ## Visuel
 Nous pouvons y voir une serre entouré de projections de faune ainsi qu'une sphère au millieu de celle-ci sur un pillier en bois
+![Planation_internature](medias/plantation_internature.jpg)
+### Interactions
+La spère du millieu pouvais tourné, nous permettant de faire grandir la nature autour de nous
 
-### Exemple de l'affichage:
- 
-### Interactions disponible:
  
 ## Conclusion
-
 ## Amélioration
+## Autre informations
+Vidéo Promotionnelle : https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s
+Plus d'information : https://tprangers.github.io/internature/#/
+
 
 
 
