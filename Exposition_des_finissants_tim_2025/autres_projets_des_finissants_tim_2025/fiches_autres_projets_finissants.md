@@ -18,7 +18,7 @@ Personnellement, je suis contente d'avoir eu la chance d'être à l'exposition d
 ## Appréciation générale
 J'ai trouvé que la présentation et l'ambiance faisaient le fort de l'expérience, les deux pièces regroupant les expositions étaient plongées dans l'obscurité avec une luminosité assez basse ainsi qu'un côté nature et végétation, ce qui faisait ressortir les expositions en leur donnant un look magique et mystérieux!
  
-Cette exposition a sept expositions, six sont documentées ici, si vous voulez voir la 7ème, aller voir ma fiche sur mon exposition préféré ici : OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Cette exposition a sept expositions au total, six sont documentées ici, si vous voulez voir la 7ème, aller voir ma fiche sur mon exposition préféré ici : OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ***
 
 ## Internature
@@ -27,10 +27,11 @@ Cette exposition a sept expositions, six sont documentées ici, si vous voulez v
 
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
 
-Internature est
-## Description
- 
-## Installation
+## Intentions
+Internature est un tunnel intéractif nous permettant de controler la croissance de la nature autour de nous.
+
+## Visuel
+Nous pouvons y voir une serre entouré de projections de faune ainsi qu'une sphère au millieu de celle-ci sur un pillier en bois
 
 ### Exemple de l'affichage:
  
