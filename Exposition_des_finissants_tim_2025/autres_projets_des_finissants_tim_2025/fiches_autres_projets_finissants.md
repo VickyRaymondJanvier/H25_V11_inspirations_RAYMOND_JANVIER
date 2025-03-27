@@ -34,9 +34,9 @@ Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Gr
 Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler la croissance de la nature` autour d’eux.
 
 ## Visuel
-L’installation prend la forme d’une serre entourée de projections animées de faune et de flore. Au centre, une sphère lumineuse est posée sur un pilier en bois, servant d’élément interactif principal.
+L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` et de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.
 ![Planation_internature](medias/plantation_internature.jpg)
-<i>La planation d'Internature | **[Voici la source!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
+La planation d'Internature | **[Voici la source!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
 
 ### Interactions
 La sphère centrale pouvait tourner, permettant ainsi de faire grandir la nature autour de nous.
@@ -50,13 +50,12 @@ Située au centre du plus grand des studios d’exposition, Internature a été 
 Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la sphère lumineuse au centre de l'installation. En la faisant tourner, j'ai vu la nature autour de moi s'animer à chaque mouvement, comme si je participais activement à la création d'un monde végétal. Cette interaction m'a permise de ressentir une certaine forme de pouvoir, mais aussi une connexion avec la nature.
 
 ## Cours primordiaux
-En voyant ce qu'il on fait, ce projet n'aurait pas été possible sans :
-Le cour de Réalité mixte Ouvrir
-Le cour de
-Le cour de
+En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :
+Le cour de réalité mixte
+Le cour d'installation multimédia 
+Le cour de conception d’une expérience multimédia 
 
 Pour avoir plus d'infos sur les cours : https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
-
 
 ## Amélioration
 Si c'était à moi de concevoir l'installation, je choisirais de fermer complètement les deux entrées de la serre afin de créer une immersion totale, sans distraction extérieure. Dans cette optique, je proposerais d’ajouter une texture naturelle en corélation avec les projections, afin de créer un environnement cohérent et organique.
