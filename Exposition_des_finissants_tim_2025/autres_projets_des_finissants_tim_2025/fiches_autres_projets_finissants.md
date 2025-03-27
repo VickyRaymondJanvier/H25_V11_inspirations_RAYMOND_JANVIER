@@ -18,9 +18,9 @@ Je suis ravie d’avoir eu l’occasion d’assister à l’exposition des finis
 Avant ma visite aux studios TIM, je me demandais comment les étudiants en multimédia parviendraient à `créer des expériences interactives et immersives` liées à leur thématique, tout en utilisant les `compétences` qu'ils ont acquises au cours de leur `formation en technique d'intégration multimédia`!
 
 ## Appréciation générale
-J’ai trouvé que la présentation et l’ambiance étaient les points forts de l’expérience. Les deux salles regroupant les installations étaient plongées dans une obscurité tamisée, avec une lumière basse et une mise en scène végétale qui renforçait l’effet immersif. Cet univers donnait aux installations une atmosphère magique et mystérieuse qui les mettait en valeur.
+J’ai trouvé que la `présentation` et `l’ambiance` étaient les points forts de l’expérience. Les deux salles regroupant les installations étaient plongées dans une `obscurité tamisée`, avec une lumière basse et une `mise en scène végétale` qui renforçait l’effet immersif. Cet univers donnait aux installations une `atmosphère magique` et `mystérieuse` qui les mettait en valeur.
 
-L’exposition comptait sept installations en tout, dont six documentées ici. Si vous souhaitez découvrir la septième, qui est mon coup de cœur, rendez-vous sur ma fiche dédiée ici : [Lien a mettre]
+L’exposition comptait `sept installations en tout`, dont six documentées ici. Si vous souhaitez découvrir la septième, qui est mon coup de cœur, rendez-vous sur ma fiche dédiée ici : [Lien a mettre]
 
 ***
 
