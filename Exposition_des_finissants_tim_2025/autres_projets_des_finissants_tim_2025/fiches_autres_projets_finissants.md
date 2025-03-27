@@ -236,11 +236,11 @@ Pour avoir plus d'informations sur les cours : **[Grille de cours de la Techniqu
 Si je devais améliorer ce projet, je me concentrerais sur le design de la borne d'arcade. Il serait intéressant d'ajouter des couleurs plus emblématiques et de retravailler certains éléments visuels pour renforcer l'aspect rétro et nostalgique. Une attention particulière à ces détails permettrait d'améliorer l'immersion et d'intensifier l'impact visuel de l'expérience.
 
 ## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=e6qNc1Dp68Q)** <br>
-Plus d'information : **[Github Fuga](https://escapism-fuga.github.io/Fuga/#/)**
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=T_AHrgQZ-zI)** <br>
+Plus d'information : **[Github Arcadia](https://cousi-cousa.github.io/Arcadia/#/)**
 
 Sources
-> **[Github Fuga](https://escapism-fuga.github.io/Fuga/#/)**
+> **[Github Arcadia](https://cousi-cousa.github.io/Arcadia/#/)**
 
 ***
 
