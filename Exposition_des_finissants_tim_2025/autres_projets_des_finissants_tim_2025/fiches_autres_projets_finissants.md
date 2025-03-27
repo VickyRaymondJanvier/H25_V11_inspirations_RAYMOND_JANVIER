@@ -98,7 +98,7 @@ Le cour de d'`animation 2D`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
-## Améliorations
+## Améliorations - ----------
 J'ai trouvé que l'espace de jeu était assez restreint, ce qui rendait difficile d'éviter les ennemis. Peut-être que des personnages plus petits ou une meilleure vue seraient des solutions à envisager. J'ai aussi trouvé que les trois pouvoirs des personnages n'étaient pas bien équilibrés. L'un d'eux n'apportait pas beaucoup d'avantages dans ce type de niveau.
 
 ## Autre informations
@@ -108,7 +108,7 @@ Plus d'information : **[Github Etheria](https://ethereal-creators.github.io/Ethe
 Sources
 > **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
 
-***
+*** -------------------------‐---‐‐
 
 ## Luminatura (4ème place)
 ![Etheria](medias/luminatura.jpg)
