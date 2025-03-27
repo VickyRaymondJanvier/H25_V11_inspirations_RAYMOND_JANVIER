@@ -39,7 +39,7 @@ L'intention du projet est de créer un univers immersif et captivant, en alliant
 On pouvait y apercevoir une grande toile, avec un vélo stationnaire placé devant et deux haut-parleurs de chaque côté.
 <br><br>
 
-![Planation_Internature](medias/plantation_internature.jpg)
+![Planation_C0N-DU8](medias/plantation_c0n_du8.jpg)
 <i>La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**<i>
 
 ## Interactions
