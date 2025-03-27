@@ -39,7 +39,7 @@ L’installation prend la forme d’une `serre` entourée de `projections animé
 ## Interactions
 La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
 
-## Attentes
+## Premières impressions
 Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont immédiatement capté mon attention. La `musique d’ambiance`, rappelant une forêt enchantée, m’a plongée dans une `atmosphère immersive` avant même d’entrer dans l’installation.
 
 Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à `attirer mon regard`. Son `ampleur` et son `esthétisme` m’ont donné l’envie de la découvrir.
@@ -84,35 +84,30 @@ L’installation se présente sous la forme d'un jeu vidéo utilisant une projec
 ## Interactions
 Bouger les cylindres permet de déplacer ton personnage, qui peut ainsi se battre. Trois joueurs peuvent y jouer simultanément, chacun ayant des pouvoirs différents et des bonus à récupérer en glissant le cylindre sur l'icône de bonus.
 
-## Attentes
-La simplicité de L'instalation ma interpeler, des mon apporche, j'ai pu appercevoir un logo me fesant de l'oeil avec c'est mouvements et couleurs
-
-
-
-Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont immédiatement capté mon attention. La `musique d’ambiance`, rappelant une forêt enchantée, m’a plongée dans une `atmosphère immersive` avant même d’entrer dans l’installation.
-
-Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à `attirer mon regard`. Son `ampleur` et son `esthétisme` m’ont donné l’envie de la découvrir.
+## Premières impressions
+La simplicité de l'installation m'a interpelé, dès mon approche, j'ai pu apercevoir un logo me faisant de l'oeil avec ses mouvements et couleurs vives, ce qui m'a tout de suite donné envie d'y jouer.
 
 ## Conclusion
-Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la `sphère lumineuse` au centre de l'installation. En la faisant tourner, j'ai vu la `nature autour de moi s'animer à chaque mouvement`, comme si je participais activement à la `création d'un monde végétal`. Cette interaction m'a permise de ressentir une certaine forme de `pouvoir`, mais aussi une `connexion` avec la nature.
+Ce qui m'a particulièrement marqué dans l'expérience d'Étheria, c'est l'aspect immersif du jeu et la collaboration entre les joueurs. La nécessité de défendre ensemble la pierre d'Étheria face aux vagues d'ennemis crée une dynamique de groupe intense, où chaque action a un impact sur la réussite collective. L'ambiance visuelle en pixel art et les sons rétro ajoutent une touche nostalgique tout en renforçant l'immersion dans cet univers fantastique. À travers ce jeu, j'ai ressenti un véritable esprit d'équipe et une poussée d'adrénaline, ce qui m'a incité à m'investir pleinement dans l'aventure. Cette expérience figure dans mon top trois justement à cause de l'intensité de l'expérience vécue avec mes coéquipiers.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
-Le cour de `réalité mixte`<br>
-Le cour d'`installation multimédia`<br>
-Le cour de `conception d’une expérience multimédia`<br>
+Le cour de `traitement audiovisuel `<br>
+Le cour d'`interactivité ludique `<br>
+Le cour de d'`animation 2D`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
 ## Améliorations
-Si c'était à moi de concevoir l'installation, je choisirais de `fermer complètement les deux entrées de la serre` afin de créer une `immersion totale`, sans distraction extérieure. Dans cette optique, je proposerais d’`ajouter une texture naturelle` en corélation avec les projections, afin de créer un environnement `cohérent` et `organique`.
+J'ai trouvé que l'espace de jeu était assez restreint, ce qui rendait difficile d'éviter les ennemis. Peut-être que des personnages plus petits ou une meilleure vue seraient des solutions à envisager. J'ai aussi trouvé que les trois pouvoirs des personnages n'étaient pas bien équilibrés. L'un d'eux n'apportait pas beaucoup d'avantages dans ce type de niveau.
 
 ## Autre informations
-Vidéo Promotionnelle : https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s<br>
-Plus d'information : https://tprangers.github.io/internature/#/
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Th9Osda2cKk](https://www.youtube.com/watch?v=Th9Osda2cKk)**
+Plus d'information : **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
 https://ethereal-creators.github.io/Etheria/#/?id=%c3%89theria
+
 Sources
-> **[Github d'Etheria]([https://tprangers.github.io/internature/#](https://ethereal-creators.github.io/Etheria/#/))**
+> **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
 
 ## Luminatura
 
