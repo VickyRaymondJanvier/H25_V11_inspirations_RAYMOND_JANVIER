@@ -136,9 +136,9 @@ Luminatura m’a offert une expérience immersive unique, où la fusion entre na
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
-Le cour de ``<br>
-Le cour d'``<br>
-Le cour de d'`<br>
+Le cour d'`Installation multimédia`<br>
+Le cour de `traitement audiovisuel`<br>
+Le cour de d'`audio 2`<br>
 
 Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
 
@@ -158,23 +158,18 @@ Sources
 ![Fuga](medias/fuga.jpg)
 <i>L'exposition Fuga | Photo prise par Vicky Raymond-Janvier</i>
 
+Ce dispositif a été crée par : `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` et `Yavuz-Selim Gucluer`
 
-
-
-
-
-
-
-Ce dispositif a été crée par : `Audrey Dandurand`, `Justine Rousseau`, `Camilia Bouatmani`, `Prethiah Rajaratnam` et `Ihab Mouhajer`
+----------------------------
 
 ## Intention
-Luminatura consiste à mélanger l'art et la technologie, permettant une immersion sonore et visuelle. Les visiteurs peuvent contrôler des lumières relaxantes ainsi que des sons apaisants, rappelant l'ambiance douce d'une forêt.
+Le but est de permettre au visiteur de crée une foret grace a un capteur de mouvement.
 
 ## Visuel
-D'un point de vue visuel, de grandes fleurs blanches sont suspendues au plafond, accompagnées de lampes décoratives. On remarque également trois plaques métalliques, chacune équipée d'une stéréo.
+Lorsque nous apercevons cette exposition, nous pouvons y appercevoir trois écran accrocher a une lianne montante. Chaque écran sont doté d'un haut parleur ainsi que trois capteur de mouvement devant.
 
-![Planation_internature](medias/plantation_luminatura.jpg)
-<i>La planation de Luminatura | **[Voici la source de l'image!](https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/) **<i>
+![Planation_internature](medias/plantation_fuga.jpg)
+<i>La planation de Luminatura | **[Voici la source de l'image!]() **<i>
 
 ## Interactions
 En frottant nos mains sur les plaques métalliques, une interaction se déclenche à l'écran, nous permettant de moduler à la fois le son et les visuels. Les sons créés nous plongent dans une atmosphère apaisante et sereine.
@@ -210,6 +205,30 @@ Sources
 
 ## Arcadia
 
+
+Fuga
+Interactivité ludique
+Animation 2d
+Installation multimédia
+ 
+ 
+ 
+Prismatica
+Interactivité ludique 
+Traitement audiovisuel
+ 
+ 
+ 
+Arcania
+Interactivité ludique
+Programmation interactive
+Traitement audiovisuel
+
+C0n-du8
+Objets interactifs
+Animation 3d
+Interactivité ludique
+ 
 
  
 ## Amélioration
