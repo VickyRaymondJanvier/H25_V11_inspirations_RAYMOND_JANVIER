@@ -30,7 +30,7 @@ L’exposition comptait `sept installations en tout`, dont six documentées ici.
 
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
 
-## Interactions possibles
+## Intention
 Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler la croissance de la nature` autour d’eux.
 
 ## Visuel
@@ -64,7 +64,8 @@ Si c'était à moi de concevoir l'installation, je choisirais de fermer complèt
 Vidéo Promotionnelle : https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s
 Plus d'information : https://tprangers.github.io/internature/#/
 
-
+Sources
+> **[Github d'Internature](https://tprangers.github.io/internature/#)**
 
 
 
