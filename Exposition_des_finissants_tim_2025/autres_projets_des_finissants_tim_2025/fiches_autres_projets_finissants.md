@@ -200,53 +200,7 @@ Sources
 
 ***
 
-## Prismatica (6ème place)
-![Prismatica](medias/prismatica.jpg)
-<i>L'exposition Fuga | Photo prise par Vicky Raymond-Janvier</i>
-
-Ce dispositif a été crée par : `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` et `Yavuz-Selim Gucluer`
-
-----------------------------
-
-## Intention
-Le but est de permettre au visiteur de crée une foret grace a un capteur de mouvement.
-
-## Visuel
-Lorsque nous apercevons cette exposition, nous pouvons y appercevoir trois écran accrocher a une lianne montante. Chaque écran sont doté d'un haut parleur ainsi que trois capteur de mouvement devant.
-
-![Planation_Fuga](medias/plantation_fuga.jpg)
-<i>La planation de Fuga | **[Voici la source de l'image!](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/) **<i>
-
-## Interactions
-Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
-
-## Premières impressions
-Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction. 
-
-## Conclusion
-Selon moi, le résultat final reflete vraiment l'intension de l'équipe et ce démarque du style classic de la majorité des autre expositions, on peux voir que ce projet cache une histoire et te rend curieux de vouloir de la connaitre. Dans cette disposition, nous pouvons resentir la liberté de création et le coté mystérieux de l'histoire.
-
-## Cours primordiaux
-En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
-Le cour d'`interactivité ludique`<br>
-Le cour d'`animation 2d`<br>
-Le cour de` d'installation multimédia`<br>
-
-Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
-
-## Améliorations
-Si j'aurais a améliorer ce projet, je me concenterais surtout sur le décors créable avec le capteur, faire plusieurs saison ou plusieurs type d'animation d'épendant du mouvement faite par l'utilisateur.
-
-## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=e6qNc1Dp68Q)** <br>
-Plus d'information : **[Github Fuga](https://escapism-fuga.github.io/Fuga/#/)**
-
-Sources
-> **[Github Fuga](https://escapism-fuga.github.io/Fuga/#/)**
-
-***
-
-## Arcadia (7ème place)
+## Arcadia (6ème place)
 ![Arcadia](medias/arcadia.jpg)
 <i>L'exposition Arcadia | Photo prise par Vicky Raymond-Janvier</i>
 
@@ -262,16 +216,13 @@ Nous pouvons y appercevoir une borne d'arcade retro noire incluant un écran inc
 <i>La planation de Arcadia | **[Voici la source de l'image!](https://cousi-cousa.github.io/Arcadia/#/30_production/10_gestion_projet/)** <i>
 
 ## Interactions
-
-
-
-Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
+Grace a la manette blancher ainsi que lesdeux boutons jaune et rouge, nous pouvons déplacer notre charactere, nous trouvons des parchemain pour ensuite sauver la foret.
 
 ## Premières impressions
-Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction. 
+Lors de ma visite, le projet Arcadia ma interpeler grace a son style retro qui ma rendie nostalgique, voulais retourner au source du jeux vidéo, j'ai donc voulu le testé.
 
 ## Conclusion
-Selon moi, le résultat final reflete vraiment l'intension de l'équipe et ce démarque du style classic de la majorité des autre expositions, on peux voir que ce projet cache une histoire et te rend curieux de vouloir de la connaitre. Dans cette disposition, nous pouvons resentir la liberté de création et le coté mystérieux de l'histoire.
+Cette exposition est unique car elle est une des seule qui mélange l'évolution dans le temps aussi direct, les bornes d'arcade sont pour nous un signe de bon ''vieux temps'' nous donner systématiquement un sentiment de bien être et de bonheur nous rappelant notre enfance.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
@@ -293,17 +244,54 @@ Sources
 
 ***
 
+## Prismatica (6ème place)
+![Prismatica](medias/prismatica.jpg)
+<i>L'exposition Prismatica | Photo prise par Vicky Raymond-Janvier</i>
 
- 
+Ce dispositif a été crée par : `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` et `Yavuz-Selim Gucluer`
+
+## Intention
+Le but est de permettre au visiteur de crée une foret grace a un capteur de mouvement.
+
+## Visuel
+Lorsque nous apercevons cette exposition, nous pouvons y appercevoir trois écran accrocher a une lianne montante. Chaque écran sont doté d'un haut parleur ainsi que trois capteur de mouvement devant.
+
+![Planation_plastimatica](medias/plantation_prismatica.jpg)
+<i>La planation de Plastimatica | **[Voici la source de l'image!](https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/) **<i>
+
+## Interactions
+Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
+
+## Premières impressions
+Lorsque j'ai apercu l'exposition Fuga, j'ai été interpeler par l'aesthétique de celui-ci, il se démarque avec son style non organisé et de film de science fiction. 
+
+## Conclusion
+Selon moi, le résultat final reflete vraiment l'intension de l'équipe et ce démarque du style classic de la majorité des autre expositions, on peux voir que ce projet cache une histoire et te rend curieux de vouloir de la connaitre. Dans cette disposition, nous pouvons resentir la liberté de création et le coté mystérieux de l'histoire.
+
+## Cours primordiaux
+En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
+Le cour d'`Interactivité ludique`<br>
+Le cour d'`Programmation interactive`<br>
+Le cour de`Traitement audiovisuel`<br>
+
+Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
+
+## Améliorations
+Je trouve que le projet final manque de couleurs comparé au borne d'arquade des année 1970 et que les boutons pourrait être mieux fini.
+
+## Autre informations
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=T_AHrgQZ-zI)** <br>
+Plus d'information : **[Github Fuga](https://cousi-cousa.github.io/Arcadia/#/)**
+
+Sources
+> **[Github Fuga](https://cousi-cousa.github.io/Arcadia/#/)**
+
+***
+
 Prismatica
 Interactivité ludique 
 Traitement audiovisuel
  
-Arcania
-Interactivité ludique
-Programmation interactive
-Traitement audiovisuel
-
 ## Amélioration
  Resonance m'a beaucoup aidé à comprendre mon objectif durant mes prochaines années en tant qu'étudiante de cette technique. Cependant, ce que je changerais serait de mettre en valeur le processus de création et non seulement le dispositif finalement, lors de la présentation, je trouve que le processus met en valeur le projet fini, montrant le travail derrière un dispositif aussi complet ainsi que la persévérance de l'équipe à travers les problèmes.
  
