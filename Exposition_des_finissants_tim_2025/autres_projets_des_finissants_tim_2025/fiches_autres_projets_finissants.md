@@ -253,16 +253,13 @@ Sources
 Ce dispositif a été crée par : `Dominic Yale`, `William Beauvais` et `Anton Nikulin`
 
 ## Intention
-L'intention dans ce dernier projet est de faire vivre un sentiment nostalgique a l'utilisateur a remenant les ancienne normes de jeux vidéo retro.
+L'intention dans ce dernier projet est de faire vivre un sentiment nostalgique a l'utilisateur a remenant les ancienne normes de jeux vidéo retro. Cette exposition te ramene a l'époque 1970, l'époque des bornes d'arcade!
 
 ## Visuel
-Cette exposition te ramene a l'époque 1970, l'époque des bornes d'arcade! Nous pouvons y appercvoir une une borne d'arcade retro noire ainsi que un 
+Nous pouvons y appercevoir une borne d'arcade retro noire incluant un écran incliné et pour jouer, une manette blanche et deux boutons de couleur jaune et rouge.
 
-
-Lorsque nous apercevons cette exposition, nous pouvons y appercevoir trois écran accrocher a une lianne montante. Chaque écran sont doté d'un haut parleur ainsi que trois capteur de mouvement devant.
-
-![Planation_Fuga](medias/plantation_fuga.jpg)
-<i>La planation de Fuga | **[Voici la source de l'image!](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/) **<i>
+![Planation_Arcadia](medias/plantation_arcadia.jpg)
+<i>La planation de Arcadia | **[Voici la source de l'image!]() **<i>
 
 ## Interactions
 Grâce au capteur de mouvement, nous pouvons crée une foret en manipulant ce meme capteur, a l'écran nous pouvons voir le résultat donnée.
