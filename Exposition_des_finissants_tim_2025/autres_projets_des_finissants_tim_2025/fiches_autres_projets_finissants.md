@@ -146,7 +146,7 @@ Pour avoir plus d'informations sur les cours : **[Grille de cours de la Techniqu
 Luminatura m’a aussi laissé entrevoir un potentiel encore plus vaste. J’aurais aimé pouvoir explorer une interactivité diverse, un contrôle plus fin sur les variations lumineuses et sonores, afin de véritablement sculpter l’ambiance à mon rythme et selon mes sensations.
 
 ## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))**
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))**<br>
 Plus d'information : **[Github Etheria](https://miaou-mafia.github.io/projet-luminatura/#/))**
 
 Sources
