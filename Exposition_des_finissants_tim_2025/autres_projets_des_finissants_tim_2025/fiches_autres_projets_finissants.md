@@ -5,7 +5,7 @@ L’exposition s’est tenue au <ins>`Collège Montmorency`</ins> dans la salle 
 
 Cette exposition est donc `temporaire.` Le type d'installation est `contemplative, immersive et interactive!` <br>
 
-Ma visite du lieu a eu lieu le 18 mars 2025.<br>
+Ma visite à eu lieu le 18 mars 2025.<br>
 
 ***
  
