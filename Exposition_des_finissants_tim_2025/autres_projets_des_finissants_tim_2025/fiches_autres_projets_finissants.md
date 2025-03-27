@@ -39,21 +39,21 @@ L’installation prend la forme d’une `serre` entourée de `projections animé
 La planation d'Internature | **[Voici la source!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
 
 ### Interactions
-La sphère centrale pouvait tourner, permettant ainsi de faire grandir la nature autour de nous.
+La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
 
 ## Attentes
-Dès mon arrivée, c’est la grandeur et les couleurs utilisées qui ont immédiatement capté mon attention. La musique d’ambiance, rappelant une forêt enchantée, m’a plongée dans une atmosphère immersive avant même d’entrer dans l’installation.
+Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont immédiatement capté mon attention. La `musique d’ambiance`, rappelant une forêt enchantée, m’a plongée dans une `atmosphère immersive` avant même d’entrer dans l’installation.
 
-Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à attirer mon regard. Son ampleur et son esthétisme m’ont donné l’envie de la découvrir.
+Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à `attirer mon regard`. Son `ampleur` et son `esthétisme` m’ont donné l’envie de la découvrir.
 
 ## Conclusion
-Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la sphère lumineuse au centre de l'installation. En la faisant tourner, j'ai vu la nature autour de moi s'animer à chaque mouvement, comme si je participais activement à la création d'un monde végétal. Cette interaction m'a permise de ressentir une certaine forme de pouvoir, mais aussi une connexion avec la nature.
+Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la `sphère lumineuse` au centre de l'installation. En la faisant tourner, j'ai vu la nature autour de moi s'animer à chaque mouvement, comme si je participais activement à la création d'un monde végétal. Cette interaction m'a permise de ressentir une certaine forme de pouvoir, mais aussi une connexion avec la nature.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :
-Le cour de réalité mixte
-Le cour d'installation multimédia 
-Le cour de conception d’une expérience multimédia 
+Le cour de `réalité mixte`
+Le cour d'`installation multimédia`
+Le cour de `conception d’une expérience multimédia`
 
 Pour avoir plus d'infos sur les cours : https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
 
