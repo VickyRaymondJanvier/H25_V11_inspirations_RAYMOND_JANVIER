@@ -23,7 +23,7 @@ Cette exposition a sept expositions, six sont documentées ici, si vous voulez v
 
 ## Internature
 ![Internature](medias/Internature.jpg)
-
+L'exposition Internature | Photo prise par Vicky Raymond-Janvier
 
 Internature est
 ## Description
@@ -44,7 +44,7 @@ Internature est
 
 
 
-
+L'exposition Internature | Source : Etheria GitHub (https://ethereal-creators.github.io/Etheria/#/)
 ## Etheria
 
 ## Luminatura
