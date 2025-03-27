@@ -123,7 +123,7 @@ Luminatura consiste à mélanger l'art et la technologie, permettant une immersi
 D'un point de vue visuel, de grandes fleurs blanches sont suspendues au plafond, accompagnées de lampes décoratives. On remarque également trois plaques métalliques, chacune équipée d'une stéréo.
 
 ![Planation_internature](medias/plantation_luminatura.jpg)
-<i>La planation de Luminatura | **[Voici la source de l'image!](https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/)**<i>
+<i>La planation de Luminatura | **[Voici la source de l'image!](https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/) **<i>
 
 ## Interactions
 En frottant nos mains sur les plaques métalliques, une interaction se déclenche à l'écran, nous permettant de moduler à la fois le son et les visuels. Les sons créés nous plongent dans une atmosphère apaisante et sereine.
@@ -146,7 +146,66 @@ Pour avoir plus d'informations sur les cours : **[Grille de cours de la Techniqu
 Luminatura m’a aussi laissé entrevoir un potentiel encore plus vaste. J’aurais aimé pouvoir explorer une interactivité diverse, un contrôle plus fin sur les variations lumineuses et sonores, afin de véritablement sculpter l’ambiance à mon rythme et selon mes sensations.
 
 ## Autre informations
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))**<br>
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))** <br>
+Plus d'information : **[Github Etheria](https://miaou-mafia.github.io/projet-luminatura/#/))**
+
+Sources
+> **[Github Etheria](https://ethereal-creators.github.io/Etheria/#/)**
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Fuga (5ème place)
+![Fuga](medias/fuga.jpg)
+<i>L'exposition Fuga | Photo prise par Vicky Raymond-Janvier</i>
+
+Ce dispositif a été crée par : `Audrey Dandurand`, `Justine Rousseau`, `Camilia Bouatmani`, `Prethiah Rajaratnam` et `Ihab Mouhajer`
+
+## Intention
+Luminatura consiste à mélanger l'art et la technologie, permettant une immersion sonore et visuelle. Les visiteurs peuvent contrôler des lumières relaxantes ainsi que des sons apaisants, rappelant l'ambiance douce d'une forêt.
+
+## Visuel
+D'un point de vue visuel, de grandes fleurs blanches sont suspendues au plafond, accompagnées de lampes décoratives. On remarque également trois plaques métalliques, chacune équipée d'une stéréo.
+
+![Planation_internature](medias/plantation_luminatura.jpg)
+<i>La planation de Luminatura | **[Voici la source de l'image!](https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/) **<i>
+
+## Interactions
+En frottant nos mains sur les plaques métalliques, une interaction se déclenche à l'écran, nous permettant de moduler à la fois le son et les visuels. Les sons créés nous plongent dans une atmosphère apaisante et sereine.
+
+## Premières impressions
+L’esthétique de l’installation et la simplicité de l'expérience m'ont attiré vers celle-ci. Intrigué par les plaques métalliques, j’ignorais leur fonction jusqu’avant mon utilisation.
+
+## Conclusion
+Luminatura m’a offert une expérience immersive unique, où la fusion entre nature et technologie prend vie à travers une interaction simple et poétique. Toucher la plaque métallique et voir la lumière et le son réagir à ma présence m’a fait prendre conscience de notre propre conductivité et de notre pouvoir d’influencer notre environnement. L’esthétique soignée de l’installation, combinée à l’atmosphère apaisante créée par les fleurs lumineuses, les vignes et les sons naturels, m’a transporté dans un univers paisible et calme.
+
+## Cours primordiaux
+En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
+Le cour de ``<br>
+Le cour d'``<br>
+Le cour de d'`<br>
+
+Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
+
+## Améliorations
+Luminatura m’a aussi laissé entrevoir un potentiel encore plus vaste. J’aurais aimé pouvoir explorer une interactivité diverse, un contrôle plus fin sur les variations lumineuses et sonores, afin de véritablement sculpter l’ambiance à mon rythme et selon mes sensations.
+
+## Autre informations
+Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=Jz4wxeXT_2w&t=62s))** <br>
 Plus d'information : **[Github Etheria](https://miaou-mafia.github.io/projet-luminatura/#/))**
 
 Sources
@@ -154,8 +213,6 @@ Sources
 
 
 
-
-## Fuga
 
 ## Prismatica
 
