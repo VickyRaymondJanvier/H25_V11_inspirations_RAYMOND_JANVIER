@@ -38,7 +38,7 @@ Internature est un tunnel interactif permettant aux visiteurs de contrôler la c
 ## Visuel
 L’installation prend la forme d’une serre entourée de projections animées de faune et de flore. Au centre, une sphère lumineuse est posée sur un pilier en bois, servant d’élément interactif principal.
 ![Planation_internature](medias/plantation_internature.jpg)
-<i>La planation d'Internature | **[Voici la source!](https://ecommerce.centredessciencesdemontreal.com/)**
+<i>La planation d'Internature | **[Voici la source!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**
 ### Interactions
 La spère du millieu pouvais tourné, nous permettant de faire grandir la nature autour de nous
 
