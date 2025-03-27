@@ -1,6 +1,4 @@
 # *Résonance*
-
-
 Résonance est un <ins>`projets multimedias`</ins> réalisé par les finissants de l'hiver 2025 de la Technique d'Intégration Multimédia au collège Montmorency. Ces ont été réalisés dans le cadre du cour 'Expérience multimédia' donné lors de leur dernière session. Ce cours a été encadré par `Guillaume Arseneault` et `Thomas Ouellet Fredericks`. La réalisation de ce projet a également été rendue possible grâce à l’appui de `William Racine` et `Antoine Allard`, techniciens de travaux pratiques en Technique d'Intégration Multimédias.<br>
 
 L’exposition s’est tenue au <ins>`Collège Montmorency`</ins> dans la salle C-1712 et C-1710 durant la semaine du `16 mars 2025`!<br>
@@ -67,7 +65,50 @@ Plus d'information : https://tprangers.github.io/internature/#/
 Sources
 > **[Github d'Internature](https://tprangers.github.io/internature/#)**
 
-## Etheria
+***
+
+## Etheria (3ème place)
+![Etheria](medias/.jpg)
+<i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
+
+Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
+
+## Intention
+Internature est un `tunnel interactif` permettant aux visiteurs de `contrôler la croissance de la nature` autour d’eux.
+
+## Visuel
+L’installation prend la forme d’une `serre` entourée de `projections animées de faune et de flore` et de `fausses plantes`. Au centre, une `sphère lumineuse` est posée sur un pilier en bois, servant d’élément interactif principal.
+![Planation_internature](medias/plantation_internature.jpg)
+<i>La planation d'Internature | **[Voici la source de l'image!](https://tprangers.github.io/internature/#/30_production/60_plantation/)**<i>
+
+## Interactions
+La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
+
+## Attentes
+Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont immédiatement capté mon attention. La `musique d’ambiance`, rappelant une forêt enchantée, m’a plongée dans une `atmosphère immersive` avant même d’entrer dans l’installation.
+
+Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à `attirer mon regard`. Son `ampleur` et son `esthétisme` m’ont donné l’envie de la découvrir.
+
+## Conclusion
+Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la `sphère lumineuse` au centre de l'installation. En la faisant tourner, j'ai vu la `nature autour de moi s'animer à chaque mouvement`, comme si je participais activement à la `création d'un monde végétal`. Cette interaction m'a permise de ressentir une certaine forme de `pouvoir`, mais aussi une `connexion` avec la nature.
+
+## Cours primordiaux
+En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
+Le cour de `réalité mixte`<br>
+Le cour d'`installation multimédia`<br>
+Le cour de `conception d’une expérience multimédia`<br>
+
+Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)**
+
+## Améliorations
+Si c'était à moi de concevoir l'installation, je choisirais de `fermer complètement les deux entrées de la serre` afin de créer une `immersion totale`, sans distraction extérieure. Dans cette optique, je proposerais d’`ajouter une texture naturelle` en corélation avec les projections, afin de créer un environnement `cohérent` et `organique`.
+
+## Autre informations
+Vidéo Promotionnelle : https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s<br>
+Plus d'information : https://tprangers.github.io/internature/#/
+
+Sources
+> **[Github d'Internature](https://tprangers.github.io/internature/#)**
 
 ## Luminatura
 
