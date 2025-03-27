@@ -47,7 +47,7 @@ Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont imm�
 Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à `attirer mon regard`. Son `ampleur` et son `esthétisme` m’ont donné l’envie de la découvrir.
 
 ## Conclusion
-Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la `sphère lumineuse` au centre de l'installation. En la faisant tourner, j'ai vu la nature autour de moi s'animer à chaque mouvement, comme si je participais activement à la création d'un monde végétal. Cette interaction m'a permise de ressentir une certaine forme de pouvoir, mais aussi une connexion avec la nature.
+Ce qui m'a particulièrement frappée, c'est l'interaction offerte par la `sphère lumineuse` au centre de l'installation. En la faisant tourner, j'ai vu la `nature autour de moi s'animer à chaque mouvement`, comme si je participais activement à la `création d'un monde végétal`. Cette interaction m'a permise de ressentir une certaine forme de `pouvoir`, mais aussi une `connexion` avec la nature.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
@@ -55,7 +55,7 @@ Le cour de `réalité mixte`<br>
 Le cour d'`installation multimédia`<br>
 Le cour de `conception d’une expérience multimédia`<br>
 
-Pour avoir plus d'infos sur les cours : https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
+Pour avoir plus d'informations sur les cours : **[Grille de cours de la Technique d'Intégration Multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
 
 ## Amélioration
 Si c'était à moi de concevoir l'installation, je choisirais de fermer complètement les deux entrées de la serre afin de créer une immersion totale, sans distraction extérieure. Dans cette optique, je proposerais d’ajouter une texture naturelle en corélation avec les projections, afin de créer un environnement cohérent et organique.
