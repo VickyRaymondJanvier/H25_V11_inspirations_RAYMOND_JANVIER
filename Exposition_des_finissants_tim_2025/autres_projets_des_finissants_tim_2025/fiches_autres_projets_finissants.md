@@ -154,24 +154,16 @@ Sources
 
 ***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Fuga (5ème place)
 ![Fuga](medias/fuga.jpg)
 <i>L'exposition Fuga | Photo prise par Vicky Raymond-Janvier</i>
+
+
+
+
+
+
+
 
 Ce dispositif a été crée par : `Audrey Dandurand`, `Justine Rousseau`, `Camilia Bouatmani`, `Prethiah Rajaratnam` et `Ihab Mouhajer`
 
