@@ -76,15 +76,19 @@ Ce dispositif a été crée par : `Joshua Gonzalez-Barrera`, `Victor Gileau`, `M
 Étheria est un jeu interactif où le but consiste à collaborer avec ses équipiers et survivre à plusieurs niveaux pour remporter la partie!
 
 ## Visuel
-L’installation se présente sous la forme d'un jeu vidéo utilisant une projection animée, s'inspirant des codes des jeux de défense de tours. Le tout est projeté sur une table gris pâle, avec trois cylindres utilisés comme pions pour contrôler ton personnage.<br><br>
+L’installation se présente sous la forme d'un jeu vidéo utilisant une projection animée, s'inspirant des codes des jeux de défense de tours. Le tout est projeté sur une table gris pâle, avec trois cylindres dotés d'un code QR, permettant de les utiliser comme pions pour contrôler ton personnage.<br><br>
 
 ![Planation_internature](medias/plantation_etheria.jpg)
 <i>La planation d'Etheria | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)**<i>
 
 ## Interactions
-La `sphère centrale` pouvait être tournée, permettant ainsi de faire `pousser la nature` autour de nous.
+Bouger les cylindres permet de déplacer ton personnage, qui peut ainsi se battre. Trois joueurs peuvent y jouer simultanément, chacun ayant des pouvoirs différents et des bonus à récupérer en glissant le cylindre sur l'icône de bonus.
 
 ## Attentes
+La simplicité de L'instalation ma interpeler, des mon apporche, j'ai pu appercevoir un logo me fesant de l'oeil avec c'est mouvements et couleurs
+
+
+
 Dès mon arrivée, c’est la `grandeur et les couleurs` utilisées qui ont immédiatement capté mon attention. La `musique d’ambiance`, rappelant une forêt enchantée, m’a plongée dans une `atmosphère immersive` avant même d’entrer dans l’installation.
 
 Située au centre du plus grand des studios d’exposition, Internature a été la première œuvre à `attirer mon regard`. Son `ampleur` et son `esthétisme` m’ont donné l’envie de la découvrir.
