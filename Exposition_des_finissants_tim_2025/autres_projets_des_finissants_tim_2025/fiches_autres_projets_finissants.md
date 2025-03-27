@@ -73,22 +73,22 @@ Sources
 Ce dispositif a été crée par : `Joshua Gonzalez-Barrera`, `Victor Gileau`, `Michael Un Dupré`, `Pierre-Luc Proulx` et `Maik Hamel`
 
 ## Intention
-Étheria est un jeu interactif où le but consiste à collaborer avec ses équipiers et survivre à plusieurs niveaux pour remporter la partie!
+Étheria est un `jeu interactif` où le but consiste à `collaborer avec ses équipiers` et survivre à `plusieurs niveaux` pour remporter la partie!
 
 ## Visuel
-L’installation se présente sous la forme d'un jeu vidéo utilisant une projection animée, s'inspirant des codes des jeux de défense de tours. Le tout est projeté sur une table gris pâle, avec trois cylindres dotés d'un code QR, permettant de les utiliser comme pions pour contrôler ton personnage.<br><br>
+L’installation se présente sous la forme d'un jeu vidéo utilisant une `projection animée`, s'inspirant des codes des jeux de `défense de tours`. Le tout est projeté sur une table gris pâle, avec trois cylindres dotés d'un code QR, permettant de les utiliser comme pions pour contrôler ton personnage.<br><br>
 
 ![Planation_internature](medias/plantation_etheria.jpg)
 <i>La planation d'Etheria | **[Voici la source de l'image!](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)**<i>
 
 ## Interactions
-Bouger les cylindres permet de déplacer ton personnage, qui peut ainsi se battre. Trois joueurs peuvent y jouer simultanément, chacun ayant des pouvoirs différents et des bonus à récupérer en glissant le cylindre sur l'icône de bonus.
+Bouger les cylindres permet de `déplacer ton personnage`, qui peut ainsi se battre. `Trois joueurs` peuvent y jouer simultanément, chacun ayant des pouvoirs différents et des `bonus` à récupérer en glissant le cylindre sur l'icône de bonus.
 
 ## Premières impressions
-La simplicité de l'installation m'a interpelé, dès mon approche, j'ai pu apercevoir un logo me faisant de l'oeil avec ses mouvements et couleurs vives, ce qui m'a tout de suite donné envie d'y jouer.
+La simplicité de l'installation m'a interpelé, dès mon approche, j'ai pu apercevoir un `logo` me faisant de l'oeil avec ses `mouvements` et `couleurs vives`, ce qui m'a tout de suite donné envie d'y jouer.
 
 ## Conclusion
-Ce qui m'a particulièrement marqué dans l'expérience d'Étheria, c'est l'aspect immersif du jeu et la collaboration entre les joueurs. La nécessité de défendre ensemble la pierre d'Étheria face aux vagues d'ennemis crée une dynamique de groupe intense, où chaque action a un impact sur la réussite collective. L'ambiance visuelle en pixel art et les sons rétro ajoutent une touche nostalgique tout en renforçant l'immersion dans cet univers fantastique. À travers ce jeu, j'ai ressenti un véritable esprit d'équipe et une poussée d'adrénaline, ce qui m'a incité à m'investir pleinement dans l'aventure. Cette expérience figure dans mon top trois justement à cause de l'intensité de l'expérience vécue avec mes coéquipiers.
+Ce qui m'a particulièrement marqué dans l'expérience d'Étheria, c'est l'aspect `immersif` du jeu et la `collaboration` entre les joueurs. La nécessité de `défendre ensemble` la pierre d'Étheria face aux vagues d'ennemis crée une dynamique de groupe `intense`. L'ambiance visuelle en `pixel art` et les `sons rétro` ajoutent une touche `nostalgique` tout en renforçant l'`immersion` dans cet `univers fantastique`. À travers ce jeu, j'ai ressenti une `poussée d'adrénaline`, ce qui m'a incité à m'investir pleinement dans l'aventure. Cette expérience figure dans mon top trois justement à cause de l'`intensité de l'expérience vécue avec mes coéquipiers.
 
 ## Cours primordiaux
 En voyant ce que cette équipe a réalisé, ce projet n'aurait pas été possible sans :<br>
