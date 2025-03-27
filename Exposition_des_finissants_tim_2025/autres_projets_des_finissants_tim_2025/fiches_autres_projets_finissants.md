@@ -21,13 +21,13 @@ J'ai trouvé que la présentation et l'ambiance faisaient le fort de l'expérien
 Cette exposition a sept expositions au total, six sont documentées ici, si vous voulez voir la 7ème, aller voir ma fiche sur mon exposition préféré ici : OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 ***
 
-## Internature
+## Internature (2ère place)
 ![Internature](medias/Internature.jpg)
 <i>L'exposition Internature | Photo prise par Vicky Raymond-Janvier</i>
 
 Ce dispositif a été crée par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitemonternna Yi` et `Kenza El Harrif`
 
-## Intentions
+## Intention
 Internature est un tunnel intéractif nous permettant de controler la croissance de la nature autour de nous.
 
 ## Visuel
