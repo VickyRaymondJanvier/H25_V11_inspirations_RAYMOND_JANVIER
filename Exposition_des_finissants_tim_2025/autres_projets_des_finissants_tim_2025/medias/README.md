@@ -1,2 +1,2 @@
 
-Ce dossier contient les medias de l'exposition des finissants
+Ce dossier contient les médias de l'exposition des finissants
