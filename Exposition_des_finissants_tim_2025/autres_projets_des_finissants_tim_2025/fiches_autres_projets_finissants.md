@@ -288,11 +288,7 @@ Sources
 
 ***
 
-Prismatica
-Interactivité ludique 
-Traitement audiovisuel
- 
-## Amélioration
+## Amélioration de Resonance
  Resonance m'a beaucoup aidé à comprendre mon objectif durant mes prochaines années en tant qu'étudiante de cette technique. Cependant, ce que je changerais serait de mettre en valeur le processus de création et non seulement le dispositif finalement, lors de la présentation, je trouve que le processus met en valeur le projet fini, montrant le travail derrière un dispositif aussi complet ainsi que la persévérance de l'équipe à travers les problèmes.
  
 Malgré cela, comparé à plusieurs dispositifs que j'ai pu voir par le passé, plus d'informations étaient disponibles sur place pour les plus intéressés, nous permettant ainsi de suivre la progression des équipes au cour des semaines! Ce qui a été une grande source d'inspiration pour écrire cette fiche!
