@@ -1,1 +1,1 @@
-Ce dossier contien mes medias
+Ce dossier contient mes médias de l'exposition Elektra
