@@ -1,1 +1,3 @@
+Dans ce monde, plusieurs structures se construisent chaque jour pour plein de raisons, mais qu'en est-il de l'art? L'art nous submerge d'émotions, mais d'où viennent ces œuvres? Comment parviennent-elles à être créées? Aujourd'hui nous allons suivre les créations de l'atelier de création de Rafael Lozano-Hemmer grâce à une conférence donnée par l'une de ces employées Jade Séguela ayant été donnée au studio André Mathieu au collège Montmorency le 25 mars 2025! Dans cette présentation, nous allons surtout parler des points importants de la présentation de Jade Séguela ainsi qu'une partie du processus derrière une création de cette envergure.
 
+Pour commencer, un peu de contexte s'impose, qui est Jade Séguela
