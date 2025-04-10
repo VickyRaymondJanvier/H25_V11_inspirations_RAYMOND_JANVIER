@@ -15,7 +15,7 @@ Dans ce monde, plusieurs structures se construisent chaque jour pour plein de ra
 
 Rafael Lazano-Hemmer est un artiste multimédia mélangeant l'art conceptuel et l'art contemporain. Il est propriétaire d'un studio à son nom, ce qui lui a permis de créer plusieurs dizaines d'oeuvres dans sa carrière.
 
-## Spehre Packing
+## Sphere Packing
 ![sphere_packing](medias/sphere_packing.jpg) <br>
 ![sphere_packing_cables](medias/sphere_packing_cables.jpg)
 <i>Spehre Packing | Photo prise par Mariana Yañez | **[Voici la source de l'image!](https://www.lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=&type=artwork&id=4)** </i>
