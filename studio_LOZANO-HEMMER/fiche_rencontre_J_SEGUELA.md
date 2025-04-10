@@ -7,7 +7,7 @@ Dans ce monde, plusieurs structures se construisent chaque jour pour plein de ra
 ##
 **Pour commencer, un peu de contexte s'impose, `qui est Jade Séguela et Rafael Lazano-Hemmer?`** <br>
 
-`Jade Séguela`, que nous pouvons voir à droite dans la photo plus haut, est une registraire travaillant pour Rafael Lazano-Hemmer depuis plusieurs années déjà. Elle a étudié et obtenu un baccalauréat en beaux-arts, une maîtrise en muséologie ainsi qu'un DEC en art lettres et communication!** <br>
+`Jade Séguela`, que nous pouvons voir à droite dans la photo plus haut, est une registraire travaillant pour Rafael Lazano-Hemmer depuis plusieurs années déjà. Elle a étudié et obtenu un baccalauréat en beaux-arts, une maîtrise en muséologie ainsi qu'un DEC en art lettres et communication!** <br><br>
 
 **`Rafael Lazano-Hemmer`**
 ![rafeal_lozano_hemmer](medias/rafael_lozano_hemmer.jpg)
