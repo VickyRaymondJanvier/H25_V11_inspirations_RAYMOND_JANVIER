@@ -4,10 +4,10 @@ Dans ce monde, plusieurs structures se construisent chaque jour pour plein de ra
 ![conference](medias/conference_jade_seguela.jpg)
 <i>La conférence de Jade Séguela | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
+##
 **Pour commencer, un peu de contexte s'impose, `qui est Jade Séguela et Rafael Lazano-Hemmer?`<br>
 `Jade Séguela`, que nous pouvons voir à droite dans la photo plus haut, est une registraire travaillant pour Rafael Lazano-Hemmer depuis plusieurs années déjà. Elle a étudié et obtenu un Baccalauréat en Beaux-Arts, une maîtrise en muséologie ainsi qu'un DEC en art lettres et communication!**
 
-##
 
 
 `Rafael Lazano-Hemmer`
