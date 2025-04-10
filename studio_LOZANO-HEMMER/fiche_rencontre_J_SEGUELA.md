@@ -2,9 +2,9 @@
 Dans ce monde, plusieurs structures se construisent chaque jour pour plein de raisons, mais qu'en est-il de l'art? L'art nous submerge d'émotions, mais d'où viennent ces œuvres? Comment parviennent-elles à être créées? Aujourd'hui nous allons suivre les créations de `l'atelier de création de Rafael Lozano-Hemmer` grâce à une conférence donnée par l'une de ces employées `Jade Séguela` ayant été donnée dans la salle `André Mathieu` au collège Montmorency le `25 mars 2025`! Le but de cette fiche est de parler des `points importants` de la présentation de Jade Séguela ainsi nous permettant de découvrir une partie du `processus` derrière des créations de cette envergure.<br><br>
 
 ![conference](medias/conference_jade_seguela.jpg)
-<i>La conférence de Jade Séguela | Photo prise par Vicky Raymond-Janvier</i>
+<i>La conférence de Jade Séguela | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
-Pour commencer, un peu de contexte s'impose, `qui est Jade Séguela` et Rafael Lazano-Hemmer?`
+Pour commencer, un peu de contexte s'impose, `qui est Jade Séguela et Rafael Lazano-Hemmer?`
 `Jade Séguela`, que nous pouvons voir à droite dans la photo plus haut, est une registraire travaillant pour Rafael Lazano-Hemmer depuis plusieurs années déjà. Elle a étudié et obtenu un Baccalauréat en Beaux-Arts, une maîtrise en muséologie ainsi qu'un DEC en art lettres et communication!
 
 ##
