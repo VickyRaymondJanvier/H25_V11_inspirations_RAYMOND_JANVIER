@@ -33,7 +33,7 @@ Pour conclure, j'ai aimé apprendre comment fonctionne l'artiste Rafeal Lozano H
 
 ## Autre informations
 Vidéo installation de Sphere Packing : **[Installation](https://www.youtube.com/watch?v=j5224gPEVgU)** <br>
-Plus d'information : **[Sphere Packing | ATELIER LOZANO-HEMMER](https://www.lozano-hemmer.com/sphere_packing.php)** <br><br>
+Plus d'information : **[Sphere Packing Bach| ATELIER LOZANO-HEMMER](https://www.lozano-hemmer.com/sphere_packing_bach.php)** <br><br>
 
 Sources
 > **[Wikipedia de Rafeal Lozano Hemmer](https://fr.wikipedia.org/wiki/Rafael_Lozano-Hemmer)**
