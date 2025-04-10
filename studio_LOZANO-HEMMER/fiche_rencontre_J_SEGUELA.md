@@ -19,7 +19,7 @@ Rafael Lazano-Hemmer est un artiste multimédia mélangeant l'art conceptuel et 
 ![](medias/sphere_packing.jpg) <br>
 <i>Sphere Packing | Photo prise par Mariana Yañez | **[Voici la source de l'image!](https://www.lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=&type=artwork&id=3)** </i>
 
-![](medias/sphere_packing_cables.jpg)
+![](medias/sphere_packing_cables.jpg) <br>
 <i>Sphere Packing | Photo prise par Mariana Yañez | **[Voici la source de l'image!](https://www.lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=&type=artwork&id=4)** </i>
 
 
