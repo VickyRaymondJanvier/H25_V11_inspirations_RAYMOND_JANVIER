@@ -22,7 +22,10 @@ Rafael Lazano-Hemmer est un artiste multimédia mélangeant l'art conceptuel et 
 ![](medias/sphere_packing_cables.jpg) <br>
 <i>Sphere Packing | Photo prise par Mariana Yañez | **[Voici la source de l'image!](https://www.lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=&type=artwork&id=4)** </i>
 
+Sphere Packing: Bach, de son nom complet est une sphere en bois d
 
+
+ œuvre basée sur une multitude de pistes audio des compositions de Johann Sebastian Bach installées dans une sphère artisanale en bois de 3 mètres de diamètre où l'on les y fait jouer grâce aux nombreux haut-parleurs qui permettent une ambiance surchargée et enveloppante. Même si celle-ci était la première installation présentée et qu'elle paraissait la moins complexe, elle était pourtant extrêmement difficile et encombrante à mettre en place. Mis à part l'impressionnante quantité de câbles d'alimentation ainsi que la durée de l'installation (quelques journées entières), cette œuvre est le résultat d'énormément de travail d'équipe, coordination, et surtout de beaucoup d'efforts.
 
 
 ## Conclusion
