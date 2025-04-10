@@ -10,7 +10,7 @@ Dans ce monde, plusieurs structures se construisent chaque jour pour plein de ra
 
 
 
-##**`Rafael Lazano-Hemmer`**
+**`Rafael Lazano-Hemmer`**
 ![rafeal_lozano_hemmer](medias/rafael_lozano_hemmer.jpg)
 <i>Rafeal Lozano Hemmer | Photo prise par Alchetron | **[Voici la source de l'image!](https://www.widewalls.ch/artists/rafael-lozano-hemmer)** </i>
 
