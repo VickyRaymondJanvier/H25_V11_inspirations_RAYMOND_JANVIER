@@ -12,8 +12,7 @@ Pour commencer, un peu de contexte s'impose, `qui est Jade Séguela` et Rafael L
 
 `Rafael Lazano-Hemmer`
 ![rafeal_lozano_hemmer](medias/rafael_lozano_hemmer.jpg)
-<i>Rafeal Lozano Hemmer | Photo prise par Alchetron | **[Voici la source de l'image!]((https://www.widewalls.ch/artists/rafael-lozano-hemmer
-)** </i>
+<i>Rafeal Lozano Hemmer | Photo prise par Alchetron | **[Voici la source de l'image!](https://www.widewalls.ch/artists/rafael-lozano-hemmer)** </i>
 
 
 
