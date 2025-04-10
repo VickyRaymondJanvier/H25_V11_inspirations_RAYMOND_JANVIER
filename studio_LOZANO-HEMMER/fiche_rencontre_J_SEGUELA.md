@@ -22,12 +22,12 @@ Rafael Lazano-Hemmer est un artiste multimédia mélangeant l'art conceptuel et 
 ![](medias/sphere_packing_cables_photo_MY.jpg) <br>
 <i>Sphere Packing | Photo prise par Mariana Yañez | **[Voici la source de l'image!](https://www.lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=&type=artwork&id=4)** </i>
 
-Sphere Packing: Bach, de son nom complet, est une sphère en bois de 3 mètres sur 3 mètres pesant 300 kilos. Nous pouvons aussi y apercevoir 1128 haut-parleurs tous autour de la sphère jouant différentes compositions de Johann Sabastian, reliés à 11 km de câbles branchés, les permettant de fonctionner. Quand nous entrons à l'intérieur de cette sphère, nous sommes immergés dans une cacophonie de sons. 
+Sphere Packing: Bach, de son nom complet, est une `sphère en bois` de `3 mètres sur 3 mètres` pesant `300 kilos`. Nous pouvons aussi y apercevoir `1128 haut-parleurs` tous autour de la sphère jouant `différentes compositions de Johann Sabastian`, reliés à `11 km de câbles branchés`, les permettant de fonctionner. Quand nous entrons à l'intérieur de cette sphère, nous sommes immergés dans une `cacophonie de sons`. 
 
-Jade ira en détail pour expliquer comment cette œuvre a été montée, devant être séparée en environ 9 parties, disant ainsi que cela a pris plusieurs jours entiers pour brancher les haut-parleurs. Elle ira aussi en détail sur le fait que cette oeuvre a été réalisée 3 fois, donc une ou deux vendues et comment fonctionne l'achat de cette oeuvre.
+Jade Séguela ira en détail pour expliquer comment cette œuvre a été montée, devant être séparée en `environ 9 parties`, disant ainsi que cela a pris `plusieurs jours` entiers pour brancher les haut-parleurs. Elle ira aussi en détail sur le fait que cette oeuvre a été `réalisée 3 fois`, donc une ou deux vendues et comment fonctionne l'achat de cette oeuvre.
 
 ## Conclusion
-Pour conclure, j'ai aimé apprendre comment fonctionne l'artiste Rafeal Lozano Hemmer et comment ils s'y prennent pour créer de telles œuvres. J'aurais aimé pouvoir entendre parler de plus de créations créées par ce studio, cependant le temps nous en empêchant. J'ai trouvé que la présentation avait un bon rythme et nous gardait captivés.
+Pour conclure, j'ai aimé apprendre comment fonctionne l'artiste Rafeal Lozano Hemmer et comment ils s'y prennent pour créer de telles œuvres. J'aurais aimé pouvoir entendre parler de plus de créations créées par ce studio, cependant le temps nous en empêchant. J'ai trouvé que la présentation avait un `bon rythme` et nous gardait captivés.
 
 ## Autre informations
 Vidéo installation de Sphere Packing : **[Installation](https://www.youtube.com/watch?v=j5224gPEVgU)** <br>
