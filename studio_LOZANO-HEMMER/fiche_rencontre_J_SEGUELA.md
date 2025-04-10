@@ -10,16 +10,16 @@ Dans ce monde, plusieurs structures se construisent chaque jour pour plein de ra
 `Jade Séguela`, que nous pouvons voir à droite dans la photo plus haut, est une registraire travaillant pour Rafael Lazano-Hemmer depuis plusieurs années déjà. Elle a étudié et obtenu un baccalauréat en beaux-arts, une maîtrise en muséologie ainsi qu'un DEC en art lettres et communication!** <br><br>
 
 **`Rafael Lazano-Hemmer`**
-![rafeal_lozano_hemmer](medias/rafael_lozano_hemmer.jpg)
+![rafeal_lozano_hemmer](medias/rafael_lozano_hemmer_photo_Alchetron.jpg)
 <i>Rafeal Lozano Hemmer | Photo prise par Alchetron | **[Voici la source de l'image!](https://www.widewalls.ch/artists/rafael-lozano-hemmer)** </i>
 
 Rafael Lazano-Hemmer est un artiste multimédia mélangeant l'art conceptuel et l'art contemporain. Il est propriétaire d'un studio à son nom, ce qui lui a permis de créer plusieurs dizaines d'oeuvres dans sa carrière.
 
 ## Sphere Packing
-![](medias/sphere_packing.jpg) <br>
+![](medias/sphere_packing_photo_MY.jpg) <br>
 <i>Sphere Packing | Photo prise par Mariana Yañez | **[Voici la source de l'image!](https://www.lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=&type=artwork&id=3)** </i>
 
-![](medias/sphere_packing_cables.jpg) <br>
+![](medias/sphere_packing_cables_photo_MY.jpg) <br>
 <i>Sphere Packing | Photo prise par Mariana Yañez | **[Voici la source de l'image!](https://www.lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=&type=artwork&id=4)** </i>
 
 Sphere Packing: Bach, de son nom complet, est une sphère en bois de 3 mètres sur 3 mètres pesant 300 kilos. Nous pouvons aussi y apercevoir 1128 haut-parleurs tous autour de la sphère jouant différentes compositions de Johann Sabastian, reliés à 11 km de câbles branchés, les permettant de fonctionner. Quand nous entrons à l'intérieur de cette sphère, nous sommes immergés dans une cacophonie de sons. 
