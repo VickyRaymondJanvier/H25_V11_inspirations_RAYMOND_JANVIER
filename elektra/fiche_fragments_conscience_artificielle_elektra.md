@@ -1,6 +1,6 @@
 # *Fragments d'une conscience artificielle*
 
-![porte](medias/porte_photo_VRJ.jpg)
+![Porte](medias/porte_photo_VRJ.jpg)
 <i>Entrer de l'expostion Fragments d'une conscience artificielle | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 Elektra est une expostion réalisé par `Boris Eldagsen` le `17 janvier 2025`. <br>
@@ -15,11 +15,38 @@ Cette exposition est `temporaire.` Cette installation est `immersive` <br>
 Ma visite à eu lieu le `21 février 2025`. <br><br>
 
 
+## Visuel
+
+L'exposition est situé dans une pièce au porte vitrée. Le mur vers l'extérieur aussi vitré pour pouvoir voir le contenu de la salle. <br>
+
+![Exposition](medias/exposition_photo_VRJ.jpg)
+<i>Vu de l'extérieur de l'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+A l'intérieur de la salle nous pouvons y apercevoir six télévision jouant une vidéo en boucle de 21 secondes à 2 minutes 11 ainsi que 6 cadre montrant des images, les medias afficher sont en noir et blanc seulement et étant tous créé pas l'intelligence artificielle.
+
+![Salle 1](medias/exposition_salle_01_photo_VRJ.jpg)
+<i>La salle d'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+![Salle 2](medias/exposition_salle_02_photo_VRJ.jpg)
+<i>La salle d'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+En bas droit des télévisions, nous apercevons y appercevoir des paires d'écouteurs jouant le son des videos.
+
+![Écouteur](medias/ecouteur_photo_VRJ.jpg)
+<i>Écouteurs | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+Il y a aussi les trois bancs pour pouvoir apprécier l'exposition, une table avec des feuilles de papier imprimer résumant le but de l'œuvre en français et en anglais.
+
+![Feuille](medias/feuille_exposition_photo_VRJ.jpg)
+<i>Écouteurs | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 
+Ainsi que deux projecteurs lumineux allumée étant accroché au plafond pointant sur des images avec leur encadré en bois.
 
-
-
+![Projecteur 1](medias/projecteur_01_photo_VRJ.jpg)
+<i>Projetcteur 1 | Photo prise par Vicky Raymond-Janvier</i><br><br>
+![Projecteur 2](medias/projecteur_02_photo_VRJ.jpg)
+<i>Projetcteur 2| Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 
 ## Intention
@@ -41,43 +68,7 @@ Au final, Fragments d’une conscience artificielle nous pousse à réfléchir �
 
 J'ai choisi Elektra surtout à cause des couleurs utilisées ainsi que l'ambiance un peu malsène, ce qui selon moi, cela la fait ressortir du los. A cause de ma passion pour l'art quelque chose qui m'a toutefois aussi interpellé était la raison de création, ayant un symboliste et une raison d'exister voulant transmettre un message qui selon moi est clair et important a montrer.
 
-
-
-
-
-
-
-
-
-## Appréciation
-
-J'ai beaucoup aimé ma visite a Elektra, nous pouvions voir que tout à été placée et penser, les vidéos était captivante et surtout intrigante, nous donnant toujours envie d'en voir plus. Cependant a ce que certaine personne pourrait penser, j'ai bien aimé qu'il n'y ait peu d'interactiviter, selon moi cela donne un effet d'impuissance a ce que l'on voit ce qui reflète le monde grandissant de l'AI sans que nous ne pouvons rien faire, ce qui selon moi renforce le sentiment voulant être exprimé.
-
-## Point a amélioré
-Un point qui selon moi saute au yeux, la longueur de l'exposition, l'exposition ne dure que très peu de temps et nous permet pas de ressentir l'intensité de l'exposition a part si l'ont ni reste pour une longue période de temps, ce qui a était mon cas mais j'ai pu apercevoir plusieurs personnes partir assez tôt, ce qui montre que beaucoup de personnes passe a coté de l'expérience voulant être transmise par le créateur.
-
-***
-
-## Visuel
-
-L'exposition est situé dans une pièce au porte vitrée. Le mur vers l'extérieur aussi vitré pour pouvoir voir le contenu de la salle.
-
-A l'intérieur de la salle nous pouvons y apercevoir six télévision jouant une vidéo en boucle de 21 secondes à 2 minutes 11 ainsi que 6 cadre montrant des images, les medias afficher sont en noir et blanc seulement et étant tous créé pas l'intelligence artificielle.
-
-En bas droit des télévisions, nous apercevons y appercevoir des paires d'écouteurs jouant le son des videos.
-
-
-
-Il y a aussi les trois bancs pour pouvoir apprécier l'exposition, une table avec des feuilles de papier imprimer résumant le but de l'œuvre en français et en anglais.
-
-
-
-Il y avait aussi deux projecteur lumineux allumée étant accroché au plafond pointant sur des images avec leur encadré en bois.
-
-
-
-
-Les 12 réalisation était :
+## Les 12 réalisation était :
 
 1. The Electrician
 Série « Pseudomnesia I »
@@ -144,6 +135,27 @@ Série « Pseudomnesia III »
 Réalisé en 2023
 Type de media : Encadré
 Dimenssions : 51 × 51 cm
+
+
+![Exposition_1 2 3](medias/exposition_10_11_12_photo_VRJ.jpg)
+<i>Exposition 1 2 3 | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+![Exposition 10, 11 et 12](medias/exposition_10_11_12_photo_VRJ.jpg)
+<i>Exposition 10, 11 et 12 | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+
+
+
+
+## Appréciation
+
+J'ai beaucoup aimé ma visite a Elektra, nous pouvions voir que tout à été placée et penser, les vidéos était captivante et surtout intrigante, nous donnant toujours envie d'en voir plus. Cependant a ce que certaine personne pourrait penser, j'ai bien aimé qu'il n'y ait peu d'interactiviter, selon moi cela donne un effet d'impuissance a ce que l'on voit ce qui reflète le monde grandissant de l'AI sans que nous ne pouvons rien faire, ce qui selon moi renforce le sentiment voulant être exprimé.
+
+## Point a amélioré
+Un point qui selon moi saute au yeux, la longueur de l'exposition, l'exposition ne dure que très peu de temps et nous permet pas de ressentir l'intensité de l'exposition a part si l'ont ni reste pour une longue période de temps, ce qui a était mon cas mais j'ai pu apercevoir plusieurs personnes partir assez tôt, ce qui montre que beaucoup de personnes passe a coté de l'expérience voulant être transmise par le créateur.
+
+***
+
 
 
 ## Conclusion
