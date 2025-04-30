@@ -130,11 +130,11 @@ Dimenssions : 51 × 51 cm
 
 
 
-## Autre informations
+## Plus d'information
+**[Site officiel](https://www.elektramontreal.ca/fragments-of-an-artificial-consciousness-boris-eldagsen?lang=fr)** <br><br>
+**[Instagram officiel](https://www.instagram.com/elektramontreal/)** <br><br>
+**[Feuille d'exposition](https://www.eldagsen.com/wp-content/uploads/2025/01/Feuillets-dexposition-Fragments-dune-conscience-artificielle.pdf)**
 
-Vidéo Promotionnelle : **[Youtube](https://www.youtube.com/watch?v=vxIGUEq9AZg&t=1s)** <br>
-
-Plus d'information : **[Github d'Internature](https://tprangers.github.io/internature/#)** <br><br>
 
 Sources
 
