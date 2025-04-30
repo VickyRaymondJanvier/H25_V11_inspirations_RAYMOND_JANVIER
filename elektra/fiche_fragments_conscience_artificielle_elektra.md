@@ -1,7 +1,7 @@
 # *Fragments d'une conscience artificielle*
 
 ![porte](medias/porte_photo_VRJ.jpg)
-<i>Entrer de l'expostion Fragments d'une conscience artificielle | Photo prise par Vicky Raymond-Janvier</i>
+<i>Entrer de l'expostion Fragments d'une conscience artificielle | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 Elektra est une expostion réalisé par Boris Eldagsen le 17 janvier 2025 <br>
 
