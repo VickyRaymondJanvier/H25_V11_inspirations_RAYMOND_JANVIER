@@ -15,6 +15,13 @@ Ma visite à eu lieu le 18 mars 2025.<br> --------------------------------------
 
 ***
 
+Cette exposition est dans une salle de situer dans un building, la piece ressemble 
+
+
+
+
+
+
 ## Pourquoi ai-je choisi fragments d'une conscience artificielle?
 
 Je suis ravie d’avoir eu l’occasion d’assister à l’exposition des finissants 2025. J’ai donc décidé de `partager mes observations` sur les différents projets que j’ai explorés dans les studios TIM de Montmorency, classés ici par `ordre de préférence`!
