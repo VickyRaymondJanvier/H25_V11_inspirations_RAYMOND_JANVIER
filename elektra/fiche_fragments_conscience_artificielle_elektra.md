@@ -65,7 +65,7 @@ Au final, Fragments d’une conscience artificielle nous pousse à réfléchir �
 
 J'ai choisi Elektra surtout à cause des couleurs utilisées ainsi que l'ambiance un peu malsène, ce qui selon moi, cela la fait ressortir du los. A cause de ma passion pour l'art quelque chose qui m'a toutefois aussi interpellé était la raison de création, ayant un symboliste et une raison d'exister voulant transmettre un message qui selon moi est clair et important a montrer.
 
-## Les 12 réalisation était :
+## Les 12 réalisation :
 
 1. The Electrician
 Série « Pseudomnesia I »
