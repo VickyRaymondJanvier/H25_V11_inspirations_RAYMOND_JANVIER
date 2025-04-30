@@ -3,17 +3,16 @@
 ![porte](medias/porte_photo_VRJ.jpg)
 <i>Entrer de l'expostion Fragments d'une conscience artificielle | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
-Elektra est une expostion réalisé par Boris Eldagsen le 17 janvier 2025 <br>
+Elektra est une expostion réalisé par `Boris Eldagsen` le `17 janvier 2025`. <br>
 
-L’exposition s’est tenue à la <ins>`Galerie ELEKTRA`</ins> situé au `5445 de Gaspé, #104 <br>
-
+L’exposition s’est tenue à la <ins>`Galerie ELEKTRA`</ins> situé au `5445 de Gaspé, #104 
 Montréal, QC, H2T 3B2` du `17 janvier` au `1er mars 2025`! <br>
 
 
 
 Cette exposition est `temporaire.` Cette installation est `immersive` <br>
 
-Ma visite à eu lieu le 21 février 2025.<br><br>
+Ma visite à eu lieu le `21 février 2025`. <br><br>
 
 
 
