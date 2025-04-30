@@ -13,26 +13,31 @@ Cette exposition est `temporaire.` Cette installation est `immersive` <br>
 Ma visite à eu lieu le 21 février 2025.<br><br>
 
 
-Étant basé sur un esthétique d’horreur classique, Fragments d’une conscience artificielle, comme le dit la feuille de présentation de l'oeuvre ''joue sur l’incapacité de 
-l’IA à comprendre le contexte pour produire des effets surréalistes et comiques.'' Ce projet a pour but de se moqué du ''boom'' AI et de l'utilisation littérales de concepts d'intégration fluide
 
-Cette série se moque du langage souvent compliqué et prétentieux utilisé dans le monde de l’entreprise autour de l’intelligence artificielle. Elle montre comment des expressions comme « intégration fluide », « état d’esprit agile » ou « parcours client » peuvent être prises au pied de la lettre, ce qui mène à des situations absurdes et presque irréalistes de « renforcement des capacités ».
 
-Les œuvres de Neverending Stories parlent du fait que les intelligences artificielles n'ont pas de vraie conscience d’elles-mêmes. On y voit des personnages IA se regarder dans le miroir, faire des soins ou des rituels de beauté bizarres. Leur « moi » semble vide, présent mais sans consistance, bloqué dans une tâche sans fin ni but clair.
 
-Dans Goldberg’s Cave, l’artiste raconte une évolution en conflit avec elle-même, en mélangeant des éléments de Bach, des singes, des humains et des robots. Des musiques créées par IA, inspirées de Bach, Terry Riley et Gerriet K. Sharma, transforment la salle Liederhalle de Stuttgart en une version moderne de la caverne de Platon. L’installation crée un contraste fort entre la lumière et l’ombre, et montre comment nos pires défauts peuvent se retrouver dans les technologies à venir. Elle rappelle aussi que chercher à comprendre peut avoir un prix.
+Photo
 
-Au final, Fragments d’une conscience artificielle nous pousse à réfléchir à ce que nous projetons dans les machines. Les IA qui ont participé à ces œuvres pourraient facilement tromper les gens en leur faisant croire qu’elles sont intelligentes, mais elles ne font en réalité que reproduire ce que les données et les instructions humaines leur ont appris. Ce que l’on croit voir en plus vient de notre propre imagination et de notre regard.
+
+
+
 
 
 
 
 ## Intention
 
-Cette exposition cherche à faire réfléchir le spectateur sur les limites de l'IA grace a des images et vidéos et audio realiser avec de l'atiligence artificielle.
+Cette exposition cherche à faire réfléchir le spectateur sur les limites de l'IA grace a des images et vidéos et audio realiser avec de l'atiligence artificielle. <br>
 
+Ce projet est basé sur un esthétique d’horreur classique. <br>
 
+Cette série se moque du langage souvent compliqué et prétentieux utilisé dans le monde de l’entreprise autour de l’intelligence artificielle. Elle montre comment des expressions comme « intégration fluide », « état d’esprit agile » ou « parcours client » peuvent être prises au pied de la lettre, ce qui mène à des situations absurdes et presque irréalistes de « renforcement des capacités ».
 
+Les œuvres de Neverending Stories parlent du fait que les intelligences artificielles n'ont pas de vraie conscience d’elles-mêmes. On y voit des personnages IA se regarder dans le miroir, faire des soins ou des rituels de beauté étrange. Leur humains semble vide, présent mais sans consistance, bloqué dans une tâche sans fin ni but clair.
+
+Dans Goldberg’s Cave, l’artiste raconte une évolution en conflit avec elle-même, en mélangeant des éléments de Bach, des singes, des humains et des robots. Des musiques créées par IA, inspirées de Bach, Terry Riley et Gerriet K. Sharma, transforment la salle Liederhalle de Stuttgart en une version moderne de la caverne de Platon. L’installation crée un contraste fort entre la lumière et l’ombre, et montre comment nos pires défauts peuvent se retrouver dans les technologies à venir. Elle rappelle aussi que chercher à comprendre peut avoir un prix.
+
+Au final, Fragments d’une conscience artificielle nous pousse à réfléchir à ce que nous projetons dans les machines. Les IA qui ont participé à ces œuvres pourraient facilement tromper les gens en leur faisant croire qu’elles sont intelligentes, mais elles ne font en réalité que reproduire ce que les données et les instructions humaines leur ont appris. Ce que l’on croit voir en plus vient de notre propre imagination et de notre regard.
 
 
 ## Pourquoi ai-je choisi fragments d'une conscience artificielle?
