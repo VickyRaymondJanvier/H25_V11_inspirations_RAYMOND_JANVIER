@@ -62,11 +62,9 @@ Un point qui selon moi saute au yeux, la longueur de l'exposition, l'exposition 
 
 L'exposition est situé dans une pièce au porte vitrée. Le mur vers l'extérieur aussi vitré pour pouvoir voir le contenu de la salle.
 
-
-
 A l'intérieur de la salle nous pouvons y apercevoir six télévision jouant une vidéo en boucle de 21 secondes à 2 minutes 11 ainsi que 6 cadre montrant des images, les medias afficher sont en noir et blanc seulement et étant tous créé pas l'intelligence artificielle.
 
-En bas droit des télévisions, nous apercevons deux crochet tenant une paire d'écouter chaque ---- accroché au mur.
+En bas droit des télévisions, nous apercevons y appercevoir des paires d'écouteurs jouant le son des videos.
 
 
 
