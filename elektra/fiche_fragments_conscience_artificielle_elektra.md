@@ -4,7 +4,6 @@ Elektra est une expostion réalisé par Boris Eldagsen le 17 janvier 2025
 ## Intention
 Cette exposition cherche à faire réfléchir le spectateur sur les limites de l'IA grace a des images et vidéos realiser avec de l'atiligence artificielle, ainsi que des pistes audio génénéré eu aussi. 
 
-
 >
 L’exposition s’est tenue à la <ins>`Galerie ELEKTRA`</ins> situé au `5445 de Gaspé, #104
 Montréal, QC, H2T 3B2` du `17 janvier` au `1er mars 2025`! <br>
@@ -15,9 +14,11 @@ Ma visite à eu lieu le 18 mars 2025.<br> --------------------------------------
 
 ***
 
-Cette exposition est dans une salle de situer dans un building, la piece ressemble 
+Cette exposition est dans une salle de situer dans un building, voici comment la pièce est séparer : 
 
+Photo ------------------------------------
 
+Comme vous pouvez l'appercevoir les télévisions sont placer sur les murs et la pièce, vous emglobant dans l'univers AI, permenant au visiteur de vivre l'expérience au complet.
 
 
 
