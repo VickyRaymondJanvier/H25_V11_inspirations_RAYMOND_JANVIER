@@ -10,51 +10,19 @@ Montréal, QC, H2T 3B2` du `17 janvier` au `1er mars 2025`! <br>
 
 Cette exposition est `temporaire.` Cette installation est `immersive` <br>
 
-Ma visite à eu lieu le 28 février 2025.<br><br>
+Ma visite à eu lieu le 21 février 2025.<br><br>
 
 
-Dans Fragments d’une conscience artificielle, trois séries de boucles vidéo et d’images fixes générées par l’IA interrogent la nature fictive de cette conviction, 
-en révélant les limites de la conscience artificielle à travers des scènes empruntant à l’esthétique de l’horreur 
-classique. Professional Development (Développement 
-professionnel), par exemple, joue sur l’incapacité de 
-l’IA à comprendre le contexte pour produire des effets 
-surréalistes et comiques. Cette série tourne en dérision 
-le jargon d’entreprise entourant le boom de l’IA, où des 
-interprétations excessivement littérales de concepts tels 
-que « intégration fluide » (seamless integration), « état 
-d’esprit agile  » (agility mindset) et «  parcours client  » 
-(customer journey) engendrent des scénarios kafkaïens 
-de «  renforcement des capacités  » (empowerment). 
-Les œuvres extraites de Neverending Stories (Histoires 
-sans fin) explorent l’absence de conscience de soi de 
-l’IA. Les personnages IA se contemplent dans le miroir et 
-s’adonnent à d’étranges tentatives de soins et de rituels
-de beauté. Animé par les aspects les plus cauchemardesques de l’être perçu, le « soi » reflété dans ces 
-œuvres est un substitut vide, présent mais immatériel, 
-pris dans une tâche impossible. Enfin, Goldberg’s Cave
-(La caverne de Goldberg) dépeint l’histoire d’une évolution en lutte avec elle-même, mêlant Johann Sebastian 
-Bach, des singes, des humains et des robots. Ces 
-œuvres, accompagnées de compositions générées par 
-intelligence artificielle rendant hommage à la musique 
-de Bach, de Terry Riley et de Gerriet K. Sharma, transforment la Liederhalle de Stuttgart en une réinterprétation 
-de la caverne de Platon et orchestrent une confrontation entre lumière et obscurité, où le pire de l’humanité 
-est semé dans ce qui est à venir et où la quête de la 
-connaissance s’accompagne d’un coût fatal.
-En fin de compte, Fragments d’une conscience artificielle nous invite à réfléchir à ce que nous projetons 
-dans nos perceptions. Les IA utilisées pour créer ces 
-œuvres pourraient facilement réussir le désormais 
-obsolète test de Turing, en convainquant par leurs 
-gestes et leur apparente intelligence de leur caractère 
-humain. La vérité reste qu’elles n’ont fait que restituer 
-ce que les motifs tirés de gigantesques ensembles de 
-données et les requêtes créatives de l’artiste leur ont 
-permis d’assembler. Tout ce qui va au-delà appartient 
-au cheminement propre à chaque spectateur·ice.
+Étant basé sur un esthétique d’horreur classique, Fragments d’une conscience artificielle, comme le dit la feuille de présentation de l'oeuvre ''joue sur l’incapacité de 
+l’IA à comprendre le contexte pour produire des effets surréalistes et comiques.'' Ce projet a pour but de se moqué du ''boom'' AI et de l'utilisation littérales de concepts d'intégration fluide
 
+Cette série se moque du langage souvent compliqué et prétentieux utilisé dans le monde de l’entreprise autour de l’intelligence artificielle. Elle montre comment des expressions comme « intégration fluide », « état d’esprit agile » ou « parcours client » peuvent être prises au pied de la lettre, ce qui mène à des situations absurdes et presque irréalistes de « renforcement des capacités ».
 
+Les œuvres de Neverending Stories parlent du fait que les intelligences artificielles n'ont pas de vraie conscience d’elles-mêmes. On y voit des personnages IA se regarder dans le miroir, faire des soins ou des rituels de beauté bizarres. Leur « moi » semble vide, présent mais sans consistance, bloqué dans une tâche sans fin ni but clair.
 
+Dans Goldberg’s Cave, l’artiste raconte une évolution en conflit avec elle-même, en mélangeant des éléments de Bach, des singes, des humains et des robots. Des musiques créées par IA, inspirées de Bach, Terry Riley et Gerriet K. Sharma, transforment la salle Liederhalle de Stuttgart en une version moderne de la caverne de Platon. L’installation crée un contraste fort entre la lumière et l’ombre, et montre comment nos pires défauts peuvent se retrouver dans les technologies à venir. Elle rappelle aussi que chercher à comprendre peut avoir un prix.
 
-
+Au final, Fragments d’une conscience artificielle nous pousse à réfléchir à ce que nous projetons dans les machines. Les IA qui ont participé à ces œuvres pourraient facilement tromper les gens en leur faisant croire qu’elles sont intelligentes, mais elles ne font en réalité que reproduire ce que les données et les instructions humaines leur ont appris. Ce que l’on croit voir en plus vient de notre propre imagination et de notre regard.
 
 
 
@@ -179,7 +147,6 @@ Dimenssions : 51 × 51 cm
 
 
 ## Conclusion
-
 
 ## Plus d'information
 **[Site officiel](https://www.elektramontreal.ca/fragments-of-an-artificial-consciousness-boris-eldagsen?lang=fr)** <br><br>
