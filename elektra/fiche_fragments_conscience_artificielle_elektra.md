@@ -40,9 +40,9 @@ Il y a aussi les trois bancs pour pouvoir apprécier l'exposition, une table ave
 
 Ainsi que deux projecteurs lumineux allumée étant accroché au plafond pointant sur des images avec leur encadré en bois.
 
-![Projecteur 1](medias/projecteur_01_photo_VRJ.jpg)
+![Projecteur 1 ](medias/projecteur_01_photo_VRJ.jpg)
 <i>Projetcteur 1 | Photo prise par Vicky Raymond-Janvier</i><br><br>
-![Projecteur 2](medias/projecteur_02_photo_VRJ.jpg)
+![Projecteur 2 ](medias/projecteur_02_photo_VRJ.jpg)
 <i>Projetcteur 2| Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 
