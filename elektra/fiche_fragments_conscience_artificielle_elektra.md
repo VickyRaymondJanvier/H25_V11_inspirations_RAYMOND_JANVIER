@@ -27,7 +27,7 @@ A l'intérieur de la salle nous pouvons y apercevoir six télévision jouant une
 ![Salle 1](medias/exposition_salle_01_photo_VRJ.jpg)
 <i>La salle d'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
-![Salle 2](medias/exposition_salle_02_photo_VRJ.jpg)
+![Salle 2](medias/exposition_salle_01_photo_VRJ.jpg)
 <i>La salle d'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 En bas droit des télévisions, nous apercevons y appercevoir des paires d'écouteurs jouant le son des videos.
