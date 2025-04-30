@@ -138,8 +138,10 @@ Dimenssions : 51 × 51 cm
 <i>Exposition 1 2 3 | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 ![Exposition 10, 11 et 12](medias/exposition_10_11_12_photo_VRJ.jpg)
-<i>Exposition 10, 11 et 12 | Photo prise par Vicky Raymond-Janvier</i><br><br>
+<i>Expositions | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
+![Expositions](medias/exposition_salle_03_photo_VRJ.jpg)
+<i>Expositions | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 
 
