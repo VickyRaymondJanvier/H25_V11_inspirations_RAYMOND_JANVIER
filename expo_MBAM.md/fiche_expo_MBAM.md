@@ -91,10 +91,6 @@ Un tapis recouvrement tout le sol pour aider a la sonorisation <br>
 ![Informations](medias/vu_de_gauche_photo_VRJ.jfif)
 <i>Cartel d'informations | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
-
-
-
-
 #Appreciation
 
 J'ai beaucoup aimé cette oeuvres pour le côté musical et le symbolisme en arrière de celle ci.
