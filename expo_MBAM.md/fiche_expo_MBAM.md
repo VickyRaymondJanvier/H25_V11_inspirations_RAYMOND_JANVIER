@@ -40,6 +40,10 @@ En avançant dans le corridor, nous pouvons commencer a attendre un pianiste jou
 
 Quand nous arrivons dans la salle, nous pouvons y voir un trajet illuminée grave a des projecteurs lumineux te guidant jusqu'à des bancs te permettant d'assister à la vidéo présenter. <br>
 
+![Bancs](medias/bancs_photo_VRJ.jfif)
+<i>Des visiteurs regardant l'exposition sur des bancs | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+
 
 
 La vidéo est un pianiste jouant du piano mais pas que! Nous pouvons assiter a une interpolation de deux moment de cette vidéo grâce a la la transparence de la toile ayant la vidéo, ainsi que une vidéo projeter sur la toile en arrière de celle-ci, créant l'effet. <br>
@@ -88,6 +92,8 @@ J'ai beaucoup aimé cette oeuvres pour le côté musical et le symbolisme en arr
 
 ![Informations](medias/informations_photo_VRJ.jfif)
 <i>Entrer de l'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+
 
 
 
