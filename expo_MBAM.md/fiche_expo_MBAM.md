@@ -1,8 +1,7 @@
 # *Ravel Ravel intervale* 
 
 ![Vu de droite](medias/vu_de_droite_photo_VRJ.jfif)
-
-<i>Entrer de l'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
+<i>Vu de droite de l'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 Ravel Ravel intervale est une expostion réalisé par `Anri Sala` en ` 2025`. <br>
 
@@ -86,3 +85,10 @@ Un tapis recouvrement tout le sol pour aider a la sonorisation <br>
 #Appreciation
 
 J'ai beaucoup aimé cette oeuvres pour le côté musical et le symbolisme en arrière de celle ci.
+
+![Informations](medias/informations_photo_VRJ.jfif)
+<i>Entrer de l'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
+
+
+
+
