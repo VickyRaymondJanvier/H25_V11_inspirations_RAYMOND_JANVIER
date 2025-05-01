@@ -61,11 +61,6 @@ L’œuvre Ravel Ravel Interval d’Anri Sala cherche à nous faire réfléchir 
 Au lieu de chercher la perfection ou la synchronisation parfaite, Sala met en valeur la beauté de ces différences. Il nous montre que le "flottement" entre les deux performances, ce léger décalage, fait partie intégrante de l’expérience artistique. Cela nous invite à accepter l’imprévu, les nuances, comme des éléments naturels de notre rapport à l’art et à la vie. <br>
 
 
-![Informations](medias/vu_de_la_gauche_photo_VRJ.jfif)
-<i>Vu de l'exposition de la gauche | Photo prise par Vicky Raymond-Janvier</i><br><br>
-
-
-
 Dans cette œuvre il y avait : <br>
 
 14 haut parleurs <br>
@@ -82,7 +77,7 @@ Un tapis recouvrement tout le sol pour aider a la sonorisation <br>
 
 2 cartel d'informations <br>
 
-![Projecteur_lumineux](medias/lumiere.jfif)
+![Projecteur_lumineux](medias/lumiere_photo_VJR.jfif)
 <i>Projecteur lumineux | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 ![Informations](medias/projecteur_photo_VRJ.jfif)
