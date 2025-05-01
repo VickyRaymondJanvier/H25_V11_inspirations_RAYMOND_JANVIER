@@ -1,6 +1,6 @@
 # *Ravel Ravel intervale* 
 
-![Vu de droite](medias/vu_de_droite_photo_VRJ.jpg)
+![Vu de droite](medias/vu_de_droite_photo_VRJ.jfif)
 
 <i>Entrer de l'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
