@@ -77,9 +77,6 @@ Un tapis recouvrement tout le sol pour aider a la sonorisation <br>
 
 2 cartel d'informations <br>
 
-![Projecteur_lumineux](medias/lumiere_photo_VJR.jfif)
-<i>Projecteur lumineux | Photo prise par Vicky Raymond-Janvier</i><br><br>
-
 ![Informations](medias/projecteur_photo_VRJ.jfif)
 <i>Cartel d'informations | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
