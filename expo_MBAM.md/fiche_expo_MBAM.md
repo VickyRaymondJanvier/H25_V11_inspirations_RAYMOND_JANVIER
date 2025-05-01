@@ -82,14 +82,14 @@ Un tapis recouvrement tout le sol pour aider a la sonorisation <br>
 
 2 cartel d'informations <br>
 
-![Informations](medias/lumiere.jfif)
-<i>Cartel d'informations | Photo prise par Vicky Raymond-Janvier</i><br><br>
+![Projecteur_lumineux](medias/lumiere.jfif)
+<i>Projecteur lumineux | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 ![Informations](medias/projecteur_photo_VRJ.jfif)
 <i>Cartel d'informations | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
-![Informations](medias/vu_de_gauche_photo_VRJ.jfif)
-<i>Cartel d'informations | Photo prise par Vicky Raymond-Janvier</i><br><br>
+![Vu de gauche](medias/vu_de_gauche_photo_VRJ.jfif)
+<i>Vu de gauche | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 #Appreciation
 
