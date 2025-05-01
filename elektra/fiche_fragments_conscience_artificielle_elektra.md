@@ -52,86 +52,86 @@ Cette exposition cherche à faire réfléchir le spectateur sur les limites de l
 
 Ce projet est basé sur un esthétique d’horreur classique. <br>
 
-Cette série se moque du langage souvent compliqué et prétentieux utilisé dans le monde de l’entreprise autour de l’intelligence artificielle. Elle montre comment des expressions comme « intégration fluide », « état d’esprit agile » ou « parcours client » peuvent être prises au pied de la lettre, ce qui mène à des situations absurdes et presque irréalistes de « renforcement des capacités ».
+Cette série se moque du langage souvent compliqué et prétentieux utilisé dans le monde de l’entreprise autour de l’intelligence artificielle. Elle montre comment des expressions comme « intégration fluide », « état d’esprit agile » ou « parcours client » peuvent être prises au pied de la lettre, ce qui mène à des situations absurdes et presque irréalistes de « renforcement des capacités ». <br>
 
-Les œuvres de Neverending Stories parlent du fait que les intelligences artificielles n'ont pas de vraie conscience d’elles-mêmes. On y voit des personnages IA se regarder dans le miroir, faire des soins ou des rituels de beauté étrange. Leur humains semble vide, présent mais sans consistance, bloqué dans une tâche sans fin ni but clair.
+Les œuvres de Neverending Stories parlent du fait que les intelligences artificielles n'ont pas de vraie conscience d’elles-mêmes. On y voit des personnages IA se regarder dans le miroir, faire des soins ou des rituels de beauté étrange. Leur humains semble vide, présent mais sans consistance, bloqué dans une tâche sans fin ni but clair. <br>
 
-Dans Goldberg’s Cave, l’artiste raconte une évolution en conflit avec elle-même, en mélangeant des éléments de Bach, des singes, des humains et des robots. Des musiques créées par IA, inspirées de Bach, Terry Riley et Gerriet K. Sharma, transforment la salle Liederhalle de Stuttgart en une version moderne de la caverne de Platon. L’installation crée un contraste fort entre la lumière et l’ombre, et montre comment nos pires défauts peuvent se retrouver dans les technologies à venir. Elle rappelle aussi que chercher à comprendre peut avoir un prix.
+Dans Goldberg’s Cave, l’artiste raconte une évolution en conflit avec elle-même, en mélangeant des éléments de Bach, des singes, des humains et des robots. Des musiques créées par IA, inspirées de Bach, Terry Riley et Gerriet K. Sharma, transforment la salle Liederhalle de Stuttgart en une version moderne de la caverne de Platon. L’installation crée un contraste fort entre la lumière et l’ombre, et montre comment nos pires défauts peuvent se retrouver dans les technologies à venir. Elle rappelle aussi que chercher à comprendre peut avoir un prix. <br>
 
-Au final, Fragments d’une conscience artificielle nous pousse à réfléchir à ce que nous projetons dans les machines. Les IA qui ont participé à ces œuvres pourraient facilement tromper les gens en leur faisant croire qu’elles sont intelligentes, mais elles ne font en réalité que reproduire ce que les données et les instructions humaines leur ont appris. Ce que l’on croit voir en plus vient de notre propre imagination et de notre regard.
+Au final, Fragments d’une conscience artificielle nous pousse à réfléchir à ce que nous projetons dans les machines. Les IA qui ont participé à ces œuvres pourraient facilement tromper les gens en leur faisant croire qu’elles sont intelligentes, mais elles ne font en réalité que reproduire ce que les données et les instructions humaines leur ont appris. Ce que l’on croit voir en plus vient de notre propre imagination et de notre regard. <br>
 
 
-## Pourquoi ai-je choisi fragments d'une conscience artificielle?
+## Pourquoi ai-je choisi fragments d'une conscience artificielle? <br>
 
-J'ai choisi Elektra surtout à cause des couleurs utilisées ainsi que l'ambiance un peu malsène, ce qui selon moi, cela la fait ressortir du los. A cause de ma passion pour l'art quelque chose qui m'a toutefois aussi interpellé était la raison de création, ayant un symboliste et une raison d'exister voulant transmettre un message qui selon moi est clair et important a montrer.
+J'ai choisi Elektra surtout à cause des couleurs utilisées ainsi que l'ambiance un peu malsène, ce qui selon moi, cela la fait ressortir du los. A cause de ma passion pour l'art quelque chose qui m'a toutefois aussi interpellé était la raison de création, ayant un symboliste et une raison d'exister voulant transmettre un message qui selon moi est clair et important a montrer. <br>
 
-## Les 12 réalisation :
+## Les 12 réalisation : <br>
 
-1. The Electrician
-Série « Pseudomnesia I »
-Réalisé en 2022
-Type de media : Encadré
-Dimenssions : 26 × 15 cm
+1. The Electrician <br>
+Série « Pseudomnesia I » <br>
+Réalisé en 2022 <br>
+Type de media : Encadré <br>
+Dimenssions : 26 × 15 cm <br>
 
-2. MeMeMe
-Série « Neverending Stories »
-Réalisé en 2024
-Type de media : Vidéo
-Temps : Boucle vidéo de 21 secondes
+2. MeMeMe <br>
+Série « Neverending Stories » <br>
+Réalisé en 2024 <br>
+Type de media : Vidéo <br>
+Temps : Boucle vidéo de 21 secondes <br>
 
-3. Wheelchair of Enlightenment
-Série « Neverending Stories »
-Réalisé en 2024
-Type de media : Vidéo
-Temps :  Boucle vidéo de 22 secondes
+3. Wheelchair of Enlightenment <br>
+Série « Neverending Stories » <br>
+Réalisé en 2024 <br>
+Type de media : Vidéo <br>
+Temps :  Boucle vidéo de 22 secondes <br>
 
-4. Goldberg’s Cave #1
-Réalisé en 2024
-Type de media : Vidéo
-Temps :  Boucle vidéo de 57 secondes
+4. Goldberg’s Cave #1 <br>
+Réalisé en 2024 <br>
+Type de media : Vidéo <br>
+Temps :  Boucle vidéo de 57 secondes <br>
 
-5. Goldberg’s Cave #2
-Réalisé en 2024
-Type de media : Vidéo
-Temps :  Boucle vidéo de 1 minute et 41 secondes
+5. Goldberg’s Cave #2 <br>
+Réalisé en 2024 <br> 
+Type de media : Vidéo <br>
+Temps :  Boucle vidéo de 1 minute et 41 secondes <br>
 
-6. Goldberg’s Cave #3
-Réalisé en 2024
-Type de media : Vidéo
-Temps :  Boucle vidéo de 1 minute et 30 secondes
+6. Goldberg’s Cave #3 <br>
+Réalisé en 2024 <br>
+Type de media : Vidéo <br>
+Temps :  Boucle vidéo de 1 minute et 30 secondes <br>
 
-7. Goldberg’s Cave #4
-Réalisé en 2024
-Type de media : Vidéo
-Temps :  Boucle vidéo de 1 minute et 18 secondes
+7. Goldberg’s Cave #4 <br>
+Réalisé en 2024 <br>
+Type de media : Vidéo <br>
+Temps :  Boucle vidéo de 1 minute et 18 secondes <br>
 
-8. Goldberg’s Cave #5
-Réalisé en 2024
-Type de media : Vidéo
-Temps :  Boucle vidéo de 1 minute et 11 secondes
+8. Goldberg’s Cave #5 <br>
+Réalisé en 2024 <br>
+Type de media : Vidéo <br>
+Temps :  Boucle vidéo de 1 minute et 11 secondes <br>
 
-9. Professional Development
-Réalisé en 2024
-Type de media : Vidéo
-Temps :  Boucle vidéo de 2 minute et 11 secondes
+9. Professional Development <br>
+Réalisé en 2024 <br>
+Type de media : Vidéo <br>
+Temps :  Boucle vidéo de 2 minute et 11 secondes <br>
 
-10. Psychoanalysis Gone Wrong
-Série « Pseudomnesia III »
-Réalisé en 2023
-Type de media : Encadré
-Dimenssions : 41 × 41 cm
+10. Psychoanalysis Gone Wrong <br>
+Série « Pseudomnesia III » <br>
+Réalisé en 2023 <br>
+Type de media : Encadré <br>
+Dimenssions : 41 × 41 cm <br>
 
-11. The Clairvoyant
-Série « Pseudomnesia III »
-Réalisé en 2023
-Type de media : Encadré
-Dimenssions : 61 × 61 cm
+11. The Clairvoyant <br>
+Série « Pseudomnesia III » <br>
+Réalisé en 2023 <br>
+Type de media : Encadré <br>
+Dimenssions : 61 × 61 cm <br>
 
-12. Muse II
-Série « Pseudomnesia III »
-Réalisé en 2023
-Type de media : Encadré
-Dimenssions : 51 × 51 cm
+12. Muse II <br>
+Série « Pseudomnesia III » <br>
+Réalisé en 2023 <br>
+Type de media : Encadré <br>
+Dimenssions : 51 × 51 cm <br>
 
 
 ![Exposition_1 2 3](medias/exposition_10_11_12_photo_VRJ.jpg)
@@ -148,10 +148,10 @@ Dimenssions : 51 × 51 cm
 
 ## Appréciation
 
-J'ai beaucoup aimé ma visite a Elektra, nous pouvions voir que tout à été placée et penser, les vidéos était captivante et surtout intrigante, nous donnant toujours envie d'en voir plus. Cependant a ce que certaine personne pourrait penser, j'ai bien aimé qu'il n'y ait peu d'interactiviter, selon moi cela donne un effet d'impuissance a ce que l'on voit ce qui reflète le monde grandissant de l'AI sans que nous ne pouvons rien faire, ce qui selon moi renforce le sentiment voulant être exprimé.
+J'ai beaucoup aimé ma visite a Elektra, nous pouvions voir que tout à été placée et penser, les vidéos était captivante et surtout intrigante, nous donnant toujours envie d'en voir plus. Cependant a ce que certaine personne pourrait penser, j'ai bien aimé qu'il n'y ait peu d'interactiviter, selon moi cela donne un effet d'impuissance a ce que l'on voit ce qui reflète le monde grandissant de l'AI sans que nous ne pouvons rien faire, ce qui selon moi renforce le sentiment voulant être exprimé. <br>
 
 ## Point a amélioré
-Un point qui selon moi saute au yeux, la longueur de l'exposition, l'exposition ne dure que très peu de temps et nous permet pas de ressentir l'intensité de l'exposition a part si l'ont ni reste pour une longue période de temps, ce qui a était mon cas mais j'ai pu apercevoir plusieurs personnes partir assez tôt, ce qui montre que beaucoup de personnes passe a coté de l'expérience voulant être transmise par le créateur.
+Un point qui selon moi saute au yeux, la longueur de l'exposition, l'exposition ne dure que très peu de temps et nous permet pas de ressentir l'intensité de l'exposition a part si l'ont ni reste pour une longue période de temps, ce qui a était mon cas mais j'ai pu apercevoir plusieurs personnes partir assez tôt, ce qui montre que beaucoup de personnes passe a coté de l'expérience voulant être transmise par le créateur. <br>
 
 ***
 
