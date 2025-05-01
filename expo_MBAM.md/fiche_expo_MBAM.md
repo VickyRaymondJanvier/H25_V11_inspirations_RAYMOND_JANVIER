@@ -26,7 +26,7 @@ Ma visite à eu lieu le `3 Avril 2025`. <br><br>
 
 
 
-![Couloir](couloir_photo_VRJ.jfif)
+![Couloir](medias/couloir_photo_VRJ.jfif)
 <i>Entrer de l'exposition | Photo prise par Vicky Raymond-Janvier</i><br><br>
 
 
