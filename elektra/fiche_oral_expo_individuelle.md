@@ -8,8 +8,8 @@ Comment les oeuvres sont divisées  <br>
 
 Ce que les séries veulent dire / l'intention <br>
 
-Montrer les pièces d'art
+Montrer les pièces d'art <br>
 
-Pourquoi j'ai choisi cette exposition
+Pourquoi j'ai choisi cette exposition <br>
 
-Conclusion et appréciations
+Conclusion et appréciations <br>
